@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teste Vue.js</title>
+</head>
+<body>
+    <h1>Teste de Vue.js</h1>
+    
+    <div id="app">
+        <p>Se Vue funcionar, você verá: <strong>{{ message }}</strong></p>
+        <p>formFatores: {{ formFatores }}</p>
+        <div v-show="formFatores === 1" style="background: green; padding: 20px; color: white;">
+            FORM LOGIN (formFatores === 1)
+        </div>
+        <div v-show="formFatores === 2" style="background: blue; padding: 20px; color: white;">
+            FORM 2FA (formFatores === 2)
+        </div>
+        <button @click="formFatores = 2">Mudar para 2FA</button>
+        <button @click="formFatores = 1">Mudar para Login</button>
+    </div>
+
+    <script src="views/_plugins/vuejs/vue.js"></script>
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                message: 'Vue.js está funcionando!',
+                formFatores: 1
+            }
+        });
+    </script>
+</body>
+</html>

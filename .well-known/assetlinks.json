@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.go77",
+    "sha256_cert_fingerprints": [
+      "02:1E:54:6B:24:D5:24:48:4E:19:76:20:C9:68:3E:69:69:37:A6:4D:84:BC:98:B8:E7:99:CD:00:8C:97:97:5B"
+    ]
+  }
+}]

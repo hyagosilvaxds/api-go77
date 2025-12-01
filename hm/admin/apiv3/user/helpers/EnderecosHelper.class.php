@@ -1,0 +1,70 @@
+<?php
+
+require_once MODELS . '/Conexao/Conexao.class.php';
+/**
+ * Helpers são responsáveis por todas validaçoes e regras de negócio que o Modelo pode possuir
+ *
+ */
+
+class EnderecosHelper extends Conexao
+{
+
+    public function __construct()
+    {
+        $this->tabela = "app_users";
+        $this->Conecta();
+    }
+
+    public function gerarEndereco(
+        $latitude,
+        $longitude,
+        $cep,
+        $uf,
+        $cidade,
+        $endereco,
+        $bairro,
+        $numero,
+        $complemento
+    ) {
+
+        if ($latitude != "" && $longitude != "") {
+
+            $endereco_completo = geraEndCompleto($latitude, $longitude);
+            $endereco_string = $endereco_completo[3] . ' ' . $endereco_completo[1] . ' ' . $endereco_completo[2] . ' ' . $endereco_completo[0];
+
+            $param = [
+                'uf' => $endereco_completo[0],
+                'cidade' => $endereco_completo[1],
+                'bairro' => $endereco_completo[2],
+                'endereco' => $endereco_completo[3],
+                'cep' => $endereco_completo[4],
+                'numero' => '',
+                'complemento' => '',
+                'latitude' => $latitude,
+                'longitude' => $longitude,
+                'endereco_completo' => $endereco_string
+            ];
+        } else {
+
+            $lat_long = geraLatLong($endereco, $numero, $cidade);
+
+            $endereco_string = $endereco . ' ' . $cidade . ' ' . $bairro . ' ' . $uf;
+
+            $param = [
+                'uf' => $uf,
+                'cidade' => $cidade,
+                'bairro' => $bairro,
+                'endereco' => $endereco,
+                'cep' => $cep,
+                'numero' => $numero,
+                'complemento' => $complemento,
+                'latitude' => $lat_long[0],
+                'longitude' => $lat_long[1],
+                'endereco_completo' => $endereco_string
+            ];
+        }
+
+
+        return $param;
+    }
+}

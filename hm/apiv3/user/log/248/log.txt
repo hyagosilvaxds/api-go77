@@ -1,0 +1,6 @@
+2024-11-09 10:05:04 - Log buscarCarona:
+{"id_user":248,"latitude":["-28.7166661","-27.6745466"],"longitude":["-49.3017993","-48.5461562"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Florian\u00f3polis International Airport \u2013 Herc\u00edlio Luz (FLN) - Rodovia Acesso ao Aeroporto - Carianos, Florian\u00f3polis - Santa Catarina, Brazil"],"data":"10\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-11 10:59:13 - Log oferecer:
+{"id_user":248,"latitude":["-28.7166661","-27.6745466"],"longitude":["-49.3017993","-48.5461562"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Aeroporto Internacional de Florian\u00f3polis - Herc\u00edlio Luz (FLN) - Rodovia Acesso ao Aeroporto - Carianos, Florian\u00f3polis - Santa Catarina, Brazil"],"data":"15\/11\/2024","hora":"07:01","obs":"","vagas_id":[1,3,4,2],"vagas_qtd":[4,4,2,1],"vagas_valor":["R$35,00","R$55,00","R$100,00","R$750,00"],"caracteristicas":[1,2,5,6],"token":"45G1cXp8"}
+2024-11-13 10:55:46 - Log buscarCarona:
+{"id_user":248,"latitude":["-28.701003722465014","-28.028072"],"longitude":["-49.31027334183455","-48.6216255"],"endereco":["Rua Camilo Alves Vieira, 60\u2013286, Liri, I\u00e7ara","Garopaba, Santa Catarina, Brazil"],"data":"15\/11\/2024","hora":"","raio_km":"","vagas_id":[3],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}

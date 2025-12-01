@@ -1,0 +1,20 @@
+id;nome;descricao;status
+4;"Carne de Gado";"Carne de Gado";1
+5;"Carne de Porco";"Carne de Porco";1
+6;"Carne de Ovelha";"Carne de Ovelha";1
+7;Frango;Frango;1
+8;Peixe;Peixe;1
+9;Embutidos;Embutidos;1
+10;"Derivados do Leite";"Queijos e derivados";1
+11;"Conservas e Enlatados";"Conservas e enlatados";1
+12;"Molhos, temperos e condimentos";null;1
+13;Grãos;"Arroz , feijão, comidas Secas";1
+14;"Óleo, azeite, gorduras e vinagre";"nullÓleo, azeite, gorduras e vinagre";1
+15;"Frios e laticínios";"nullFrios e laticínios";1
+16;"Higiene e limpeza";"nullHigiene e limpeza";1
+17;"Verduras, raízes e tubérculos";"nullVerduras, raízes e tubérculos";1
+18;Refrigerantes;Refrigerantes;1
+19;Cervejas;Cervejas;1
+20;"Bebidas destiladas";"Bebidas destiladas";1
+21;Vinhos;Vinhos;1
+22;Ovos;Ovos;1

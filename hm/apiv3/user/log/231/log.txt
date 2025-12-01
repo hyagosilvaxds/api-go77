@@ -1,0 +1,38 @@
+2024-09-28 15:43:43 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"62","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"103","id_endereco_final":"104","tipo_pagamento":"1","cartao_id":"57","token":"45G1cXp8"}
+2024-09-28 15:43:57 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"62","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"103","id_endereco_final":"104","tipo_pagamento":"1","cartao_id":"57","token":"45G1cXp8"}
+2024-09-28 15:44:17 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"62","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"103","id_endereco_final":"104","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 15:45:23 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"62","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"103","id_endereco_final":"104","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 15:45:29 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"63","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"105","id_endereco_final":"106","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 15:46:10 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"64","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"107","id_endereco_final":"108","tipo_pagamento":"1","cartao_id":"57","token":"45G1cXp8"}
+2024-09-28 15:57:23 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"65","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"109","id_endereco_final":"110","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 16:10:31 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"65","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"109","id_endereco_final":"110","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 16:13:43 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"65","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"109","id_endereco_final":"110","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 16:22:46 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"65","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"109","id_endereco_final":"110","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 16:27:07 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"65","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"109","id_endereco_final":"110","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 21:34:02 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"73","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"132","id_endereco_final":"133","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 22:50:30 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"74","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"134","id_endereco_final":"135","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 22:53:03 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"74","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"134","id_endereco_final":"135","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-28 22:54:27 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"75","vagas_id":[1],"vagas_qtd":[3],"id_endereco_partida":"136","id_endereco_final":"137","tipo_pagamento":"1","cartao_id":"57","token":"45G1cXp8"}
+2024-09-29 10:49:30 - Log buscarCarona:
+{"id_user":231,"latitude":["-22.934842541488326","-22.977311490006187"],"longitude":["-45.47962825745344","-45.4580981656909"],"endereco":["Rua Ant\u00f4nio Rodrigues Sim\u00f5es, 28, Mombaca, Pindamonhangaba",", Ponte Alta, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 10:50:26 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"80","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"146","id_endereco_final":"147","tipo_pagamento":"1","cartao_id":"57","token":"45G1cXp8"}
+2024-09-29 10:51:17 - Log buscarCarona:
+{"id_user":231,"latitude":["-22.932859901445585","-22.980999799076567"],"longitude":["-45.478913113474846","-45.46120651066304"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 100, Mombaca, Pindamonhangaba","Rodovia Presidente Dutra, Parque Empresarial Santa Rita, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 10:51:28 - Log solicitarCorrida:
+{"id_user":231,"id_corrida":"80","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"146","id_endereco_final":"147","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}

@@ -1,0 +1,174 @@
+2024-09-29 11:28:08 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:26 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:29","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[1],"token":"45G1cXp8"}
+2024-09-29 11:29:29 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:29","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:32 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:29","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:33 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:38 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:29","raio_km":"4.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:52 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:56 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:29","raio_km":"6.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:29:59 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:08 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:29","raio_km":"3.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:10 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:38 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:42 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:30","raio_km":"2.0","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:44 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:45 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:30","raio_km":"6.0","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:48 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:51 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:30","raio_km":"4.0","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:52 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:56 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:30","raio_km":"2.0","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:58 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:31:02 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:30","raio_km":"5.0","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:31:03 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:31:21 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"11:31","raio_km":"3.0","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:31:22 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[3,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:31:32 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933194923643544","-23.0228941"],"longitude":["-45.47776613384485","-45.5382104"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","BR-116 - Vila S\u00e3o Jos\u00e9, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:39:58 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"81","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"148","id_endereco_final":"149","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:44:40 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932993601647922","-22.9263928"],"longitude":["-45.477703772485256","-45.4620404"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Pindamonhangaba, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:45:33 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932993601647922","-22.93708729590586"],"longitude":["-45.477703772485256","-45.44630516320467"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Castro Alves, Parque Sao Domingos, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:45:39 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932993601647922","-22.93708729590586"],"longitude":["-45.477703772485256","-45.44630516320467"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Castro Alves, Parque Sao Domingos, "],"data":"30\/09\/2024","hora":"11:45","raio_km":"3.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:45:42 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932993601647922","-22.93708729590586"],"longitude":["-45.477703772485256","-45.44630516320467"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Castro Alves, Parque Sao Domingos, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:45:59 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:48:44 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.93302231784045","-22.94009094758778"],"longitude":["-45.47785196453333","-45.446509681642056"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:48:58 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:51:51 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932820995588223","-22.940517344629786"],"longitude":["-45.47781307250261","-45.44701661914587"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"29\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:52:40 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932756461244658","-22.94049665776591"],"longitude":["-45.47772724181414","-45.44668301939964"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:53:01 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932756461244658","-22.94049665776591"],"longitude":["-45.47772724181414","-45.44668301939964"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:53:08 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:53:59 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:56:43 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932756461244658","-22.94049665776591"],"longitude":["-45.47772724181414","-45.44668301939964"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:58:40 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:58:40 - Log solicitarCarona:
+{"id_user":235,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 12:02:38 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-22.941001478093447"],"longitude":["-45.47771953046322","-45.44709172099829"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:04:16 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-22.941001478093447"],"longitude":["-45.47771953046322","-45.44709172099829"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2,3],"vagas_qtd":[1,1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:04:21 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-22.941001478093447"],"longitude":["-45.47771953046322","-45.44709172099829"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,3],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:05:31 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-22.941001478093447"],"longitude":["-45.47771953046322","-45.44709172099829"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,3],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:15:36 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-22.941001478093447"],"longitude":["-45.47771953046322","-45.44709172099829"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,3],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:15:40 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-22.941001478093447"],"longitude":["-45.47771953046322","-45.44709172099829"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:17:10 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933108466381473","-23.024996"],"longitude":["-45.47771953046322","-45.5638792"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:18:13 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"85","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"156","id_endereco_final":"157","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 12:19:37 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"85","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"156","id_endereco_final":"157","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 12:38:24 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.93265734384367","-22.940383343097295"],"longitude":["-45.477885492146015","-45.447109155356884"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2,3,4],"vagas_qtd":[4,1,1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:45:22 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-23.5557714"],"longitude":["-45.4620404","-46.6395571"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2,3,4],"vagas_qtd":[6,1,1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:58:22 - Log oferecer:
+{"id_user":235,"latitude":["-22.932959018698323","-23.5557714"],"longitude":["-45.477807372808456","-46.6395571"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"12:57","obs":"teste","vagas_id":[1,2,3,4],"vagas_qtd":[4,1,1,1],"vagas_valor":["R$5,00","R$5,00","R$5,00","R$5,00"],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:01:02 - Log oferecer:
+{"id_user":235,"latitude":["-22.933230124084428","-23.024996","-23.5557714"],"longitude":["-45.477789267897606","-45.5638792","-46.6395571"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"13:00","obs":"","vagas_id":[1,2,3,4],"vagas_qtd":[4,2,1,1],"vagas_valor":["R$5,00","R$5,00","R$5,00","R$5,00"],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:20:06 - Log oferecer:
+{"id_user":235,"latitude":["-22.933110319037667","-23.024996","-23.5557714"],"longitude":["-45.4780487716198","-45.5638792","-46.6395571"],"endereco":["Av. Cap. Jo\u00e3o Monteiro do Amaral, Momba\u00e7a, ","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"13:19","obs":"","vagas_id":[1,2,3,4],"vagas_qtd":[7,1,1,1],"vagas_valor":["R$5,00","R$5,00","R$5,00","R$5,00"],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:20:08 - Log oferecer:
+{"id_user":235,"latitude":["-22.933110319037667","-23.024996","-23.5557714"],"longitude":["-45.4780487716198","-45.5638792","-46.6395571"],"endereco":["Av. Cap. Jo\u00e3o Monteiro do Amaral, Momba\u00e7a, ","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"13:19","obs":"","vagas_id":[1,2,3,4],"vagas_qtd":[7,1,1,1],"vagas_valor":["R$5,00","R$5,00","R$5,00","R$5,00"],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:16:33 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932841066071596","-22.941234590208705"],"longitude":["-45.47775540500879","-45.44691938906908"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Geraldo Jos\u00e9 Rodrigues Alckmin, Jardim Santa Luzia, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1,2],"vagas_qtd":[2,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:17:27 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932841066071596","-22.937212964000874"],"longitude":["-45.47775540500879","-45.448735915124416"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Santa Teresa, Parque Sao Domingos, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:17:48 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932841066071596","-22.937212964000874"],"longitude":["-45.47775540500879","-45.448735915124416"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Santa Teresa, Parque Sao Domingos, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:19:12 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"96","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"188","id_endereco_final":"189","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 15:19:12 - Log solicitarCarona:
+{"id_user":235,"id_corrida":"96","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"188","id_endereco_final":"189","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 11:48:48 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932350419095116","-22.92815591701051"],"longitude":["-45.47817852348089","-45.44893942773342"],"endereco":["Av. Cap. Jo\u00e3o Monteiro do Amaral, Momba\u00e7a, ","R. Dr. Aloysio Ivany Dantas da Gama, Santana, "],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 11:59:13 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932350419095116","-23.5557714"],"longitude":["-45.47817852348089","-46.6395571"],"endereco":["Av. Cap. Jo\u00e3o Monteiro do Amaral, Momba\u00e7a, ","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:00:50 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932350419095116","-23.5557714"],"longitude":["-45.47817852348089","-46.6395571"],"endereco":["Av. Cap. Jo\u00e3o Monteiro do Amaral, Momba\u00e7a, ","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:03:44 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.9263928","-22.934122483082277"],"longitude":["-45.4620404","-45.43843187391758"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Av. Prof\u00ba Manoel C\u00e9sar Ribeiro, Ipiranga, "],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:04:01 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.933114641902023","-22.934122483082277"],"longitude":["-45.477719865739346","-45.43843187391758"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Prof\u00ba Manoel C\u00e9sar Ribeiro, Ipiranga, "],"data":"12\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:04:43 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"115","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"228","id_endereco_final":"229","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 12:04:48 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"115","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"228","id_endereco_final":"229","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 12:04:48 - Log solicitarCarona:
+{"id_user":235,"id_corrida":"115","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"228","id_endereco_final":"229","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 12:07:06 - Log troca status:
+{"status":"5","id_corrida":"115","id_user":235,"id_motivo":1,"token":"45G1cXp8"}
+2024-09-30 12:08:54 - Log troca status:
+{"status":"5","id_corrida":"115","id_user":235,"id_motivo":1,"token":"45G1cXp8"}
+2024-09-30 12:09:04 - Log troca status:
+{"status":"5","id_corrida":"115","id_user":235,"id_motivo":1,"token":"45G1cXp8"}
+2024-09-30 12:09:09 - Log troca status:
+{"status":"5","id_corrida":"115","id_user":235,"id_motivo":1,"token":"45G1cXp8"}
+2024-09-30 12:09:49 - Log troca status:
+{"status":"5","id_corrida":"115","id_user":235,"id_motivo":1,"token":"45G1cXp8"}
+2024-09-30 12:12:22 - Log troca status:
+{"status":"5","id_user":"235","id_motivo":5,"id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:17:03 - Log troca status:
+{"status":"1","id_user":"235","id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:17:29 - Log troca status:
+{"status":"1","id_user":"235","id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:19:53 - Log troca status:
+{"status":"3","id_user":"235","id_motivo":0,"id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:23:25 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.934515860233162","-22.926920453285526"],"longitude":["-45.478211380541325","-45.4592414572835"],"endereco":["Rua Severino da Silva Lopes, Residencial e Comercial Cidade Jardim, ","R. Francisco Piorino, Centro, "],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:24:54 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.934515860233162","-22.926920453285526"],"longitude":["-45.478211380541325","-45.4592414572835"],"endereco":["Rua Severino da Silva Lopes, Residencial e Comercial Cidade Jardim, ","R. Francisco Piorino, Centro, "],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:35:19 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"116","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"230","id_endereco_final":"231","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 12:35:28 - Log solicitarCorrida:
+{"id_user":235,"id_corrida":"116","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"230","id_endereco_final":"231","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 12:35:28 - Log solicitarCarona:
+{"id_user":235,"id_corrida":"116","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"230","id_endereco_final":"231","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 12:36:28 - Log troca status:
+{"status":"1","id_user":"235","id_corrida":"116","token":"45G1cXp8"}
+2024-09-30 12:36:34 - Log troca status:
+{"status":"4","id_user":"235","id_corrida":"116","token":"45G1cXp8"}
+2024-09-30 12:38:48 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932668768594525","-22.933960994329183"],"longitude":["-45.47740872949362","-45.459570698440075"],"endereco":["R. Jos\u00e9 Augusto Rodrigues, Residencial e Comercial Portal dos Eucaliptos, ","Av. Albuquerque Lins, S\u00e3o Benedito, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:48:07 - Log buscarCarona:
+{"id_user":235,"latitude":["-22.932668768594525","-22.933960994329183"],"longitude":["-45.47740872949362","-45.459570698440075"],"endereco":["R. Jos\u00e9 Augusto Rodrigues, Residencial e Comercial Portal dos Eucaliptos, ","Av. Albuquerque Lins, S\u00e3o Benedito, "],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}

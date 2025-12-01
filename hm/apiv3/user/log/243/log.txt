@@ -1,0 +1,102 @@
+2024-10-03 13:06:26 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.700402320290603","-27.593656922167575"],"longitude":["-49.309843853116035","-48.5936501249671"],"endereco":["SC-445, Liri, ","R. Oleg\u00e1rio da Silva Ramos, Capoeiras, "],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 13:06:42 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.700402320290603","-27.593656922167575"],"longitude":["-49.309843853116035","-48.5936501249671"],"endereco":["SC-445, Liri, ","R. Oleg\u00e1rio da Silva Ramos, Capoeiras, "],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[2],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 13:06:48 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.700402320290603","-27.593656922167575"],"longitude":["-49.309843853116035","-48.5936501249671"],"endereco":["SC-445, Liri, ","R. Oleg\u00e1rio da Silva Ramos, Capoeiras, "],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[3],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 13:06:53 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.700402320290603","-27.593656922167575"],"longitude":["-49.309843853116035","-48.5936501249671"],"endereco":["SC-445, Liri, ","R. Oleg\u00e1rio da Silva Ramos, Capoeiras, "],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[4],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 13:07:38 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.70080256926177","-28.706189753791705"],"longitude":["-49.3108007311821","-49.30053289979696"],"endereco":["Rua Camilo Alves Vieira, Liri, ","R. Manoel Jos\u00e9 Cardoso, Nossa Senhora de F\u00e1tima, "],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 15:41:16 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.70103077812952","-28.8211999"],"longitude":["-49.31080911308527","-49.2218677"],"endereco":["Rua Camilo Alves Vieira, Liri, ","Cooperalian\u00e7a - Avenida Leoberto Leal - Centro, Balne\u00e1rio Rinc\u00e3o - Santa Catarina, Brazil"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 15:42:21 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.70103077812952","-28.8211999"],"longitude":["-49.31080911308527","-49.2218677"],"endereco":["Rua Camilo Alves Vieira, Liri, ","Cooperalian\u00e7a - Avenida Leoberto Leal - Centro, Balne\u00e1rio Rinc\u00e3o - Santa Catarina, Brazil"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 21:12:04 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-27.5968578"],"longitude":["-49.3017993","-48.5468118"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Florian\u00f3polis, Santa Catarina, Brazil"],"data":"04\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 21:12:35 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-03 21:12:36 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-03 21:12:37 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-03 21:12:42 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-03 21:15:58 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-27.5968578"],"longitude":["-49.3017993","-48.5468118"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Florian\u00f3polis, Santa Catarina, Brazil"],"data":"04\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 21:16:12 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-03 21:16:12 - Log solicitarCarona:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-03 21:19:54 - Log troca status:
+{"status":"1","id_user":"243","id_corrida":"121","token":"45G1cXp8"}
+2024-10-03 21:31:37 - Log oferecer:
+{"id_user":243,"latitude":["-28.9370964","-28.6774759","-49.0058806","-26.3043758"],"longitude":["-49.4840256","-49.3704155","-49.0058806","-48.84637439999999"],"endereco":["Ararangu\u00e1, Santa Catarina, Brazil","Crici\u00fama, Santa Catarina, Brazil","Tubar\u00e3o, Santa Catarina, Brazil","Joinville - Santa Catarina, Brazil"],"data":"05\/10\/2024","hora":"21:30","obs":"viagem teste","vagas_id":[1,2,3,4],"vagas_qtd":[4,1,1,1],"vagas_valor":["R$35,00","R$50,00","R$10,00","R$20,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-03 21:39:45 - Log troca status:
+{"status":"5","id_corrida":"121","id_user":243,"id_motivo":1,"token":"45G1cXp8"}
+2024-10-03 21:40:46 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.48189","-27.6411215"],"longitude":["-49.0058806","-48.6789533"],"endereco":["Tubar\u00e3o, Santa Catarina, Brazil","Palho\u00e7a, Santa Catarina, Brazil"],"data":"04\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-03 21:41:26 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}
+2024-10-03 21:41:31 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"121","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"241","id_endereco_final":"242","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}
+2024-10-16 07:10:29 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:13:14 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:13:16 - Log geral:
+{"id_user":243,"tipo":2,"token":"45G1cXp8"}
+2024-10-16 07:13:18 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:13:23 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:15:08 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:15:27 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:15:31 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:19:00 - Log geral:
+{"id_user":243,"latitude":["-28.7166661","-27.5968578"],"longitude":["-49.3017993","-48.5468118"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Florian\u00f3polis, Santa Catarina, Brazil"],"data":"17\/10\/2024","hora":"12:30","obs":"carona teste","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"vagas_valor":["R$10,00","R$10,00","R$10,00","R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-16 07:19:00 - Log oferecer:
+{"id_user":243,"latitude":["-28.7166661","-27.5968578"],"longitude":["-49.3017993","-48.5468118"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Florian\u00f3polis, Santa Catarina, Brazil"],"data":"17\/10\/2024","hora":"12:30","obs":"carona teste","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"vagas_valor":["R$10,00","R$10,00","R$10,00","R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-16 07:36:24 - Log geral:
+{"id_user":243,"latitude":["-30.0368176","-25.4268985"],"longitude":["-51.2089887","-49.2651984"],"endereco":["Porto Alegre, RS, Brazil","Curitiba, Paran\u00e1, Brazil"],"data":"18\/10\/2024","hora":"20:00","obs":"curtiba","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"vagas_valor":["R$50,00","R$20,50","R$30,00","R$85,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-16 07:36:24 - Log oferecer:
+{"id_user":243,"latitude":["-30.0368176","-25.4268985"],"longitude":["-51.2089887","-49.2651984"],"endereco":["Porto Alegre, RS, Brazil","Curitiba, Paran\u00e1, Brazil"],"data":"18\/10\/2024","hora":"20:00","obs":"curtiba","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"vagas_valor":["R$50,00","R$20,50","R$30,00","R$85,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-16 07:36:29 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-10-16 07:36:37 - Log geral:
+{"id_user":243,"id_corrida":"147","token":"45G1cXp8"}
+2024-10-16 07:39:12 - Log geral:
+{"id_user":243,"latitude":["-28.9370964","-26.3043758"],"longitude":["-49.4840256","-48.84637439999999"],"endereco":["Ararangu\u00e1, Santa Catarina, Brazil","Joinville - Santa Catarina, Brazil"],"data":"18\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-16 07:39:37 - Log geral:
+{"id_user":243,"tipo":1,"token":"45G1cXp8"}
+2024-11-05 07:09:39 - Log oferecer:
+{"id_user":243,"latitude":["-30.0368176","-23.5557714"],"longitude":["-51.2089887","-46.6395571"],"endereco":["Porto Alegre, RS, Brazil","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"06\/11\/2024","hora":"12:30","obs":"carona teste","vagas_id":[1,3,4,2],"vagas_qtd":[4,1,1,1],"vagas_valor":["R$35,00","R$25,00","R$25,00","R$60,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-11-06 07:06:07 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-28.028072"],"longitude":["-49.3017993","-48.6216255"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Garopaba, Santa Catarina, Brazil"],"data":"09\/11\/2024","hora":"","raio_km":"","vagas_id":[1,4],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-06 07:07:01 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-28.028072"],"longitude":["-49.3017993","-48.6216255"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Garopaba, Santa Catarina, Brazil"],"data":"10\/11\/2024","hora":"","raio_km":"","vagas_id":[1,4],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-06 07:09:48 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"171","vagas_id":[1,4],"vagas_qtd":[1,1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}
+2024-11-06 07:09:58 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"171","vagas_id":[1,4],"vagas_qtd":[1,1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}
+2024-11-06 07:10:01 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"171","vagas_id":[1,4],"vagas_qtd":[1,1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}
+2024-11-06 07:10:05 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"171","vagas_id":[1,4],"vagas_qtd":[1,1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}
+2024-11-06 07:10:19 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"171","vagas_id":[1,4],"vagas_qtd":[1,1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-11-06 07:10:19 - Log solicitarCarona:
+{"id_user":243,"id_corrida":"171","vagas_id":[1,4],"vagas_qtd":[1,1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-11-06 07:10:41 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-28.028072"],"longitude":["-49.3017993","-48.6216255"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Garopaba, Santa Catarina, Brazil"],"data":"10\/11\/2024","hora":"","raio_km":"","vagas_id":[1,4],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-06 07:10:49 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-28.028072"],"longitude":["-49.3017993","-48.6216255"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Garopaba, Santa Catarina, Brazil"],"data":"10\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-06 07:11:03 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-28.028072"],"longitude":["-49.3017993","-48.6216255"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Garopaba, Santa Catarina, Brazil"],"data":"10\/11\/2024","hora":"","raio_km":"","vagas_id":[4],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-06 07:11:06 - Log buscarCarona:
+{"id_user":243,"latitude":["-28.7166661","-28.028072"],"longitude":["-49.3017993","-48.6216255"],"endereco":["I\u00e7ara, Santa Catarina, Brazil","Garopaba, Santa Catarina, Brazil"],"data":"10\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-11-06 07:11:17 - Log solicitarCorrida:
+{"id_user":243,"id_corrida":"171","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"345","id_endereco_final":"346","tipo_pagamento":"1","cartao_id":"61","token":"45G1cXp8"}

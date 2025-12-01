@@ -1,0 +1,16 @@
+2024-09-29 12:24:03 - Log passageiro_chat_Android:
+"\"registration_ids\" field cannot be empty\n"
+2024-09-29 12:24:04 - Log motorista_chat_Android:
+"\"registration_ids\" field cannot be empty\n"
+2024-09-29 12:32:05 - Log passageiro_chat_Android:
+"\"registration_ids\" field cannot be empty\n"
+2024-09-29 12:32:05 - Log motorista_chat_Android:
+"\"registration_ids\" field cannot be empty\n"
+2024-09-29 12:35:14 - Log passageiro_chat_Android:
+"\"registration_ids\" field cannot be empty\n"
+2024-09-29 12:35:14 - Log motorista_chat_Android:
+"\"registration_ids\" field cannot be empty\n"
+2024-09-30 11:50:48 - Log passageiro_chat_Android:
+"{\"multicast_id\":8257196998439067922,\"success\":0,\"failure\":1,\"canonical_ids\":0,\"results\":[{\"error\":\"DeprecatedApi\"}]}"
+2024-09-30 11:50:49 - Log motorista_chat_Android:
+"{\"multicast_id\":6296062606430099343,\"success\":0,\"failure\":1,\"canonical_ids\":0,\"results\":[{\"error\":\"DeprecatedApi\"}]}"

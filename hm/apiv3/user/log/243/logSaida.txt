@@ -1,0 +1,24 @@
+2024-10-03 21:12:35 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:12:36 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:12:37 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:12:42 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:16:12 - Log solicitarCorrida:
+{"status":"01","id":86,"msg":"Solicitada com sucesso."}
+2024-10-03 21:41:26 - Log solicitarCorrida:
+{"status":"02","msg":"J\u00e1 foi solicitada essa carona."}
+2024-10-03 21:41:31 - Log solicitarCorrida:
+{"status":"02","msg":"J\u00e1 foi solicitada essa carona."}
+2024-11-06 07:09:48 - Log solicitarCorrida:
+{"status":"02","msg":"Customer inv\u00e1lido ou n\u00e3o informado."}
+2024-11-06 07:09:58 - Log solicitarCorrida:
+{"status":"02","msg":"Customer inv\u00e1lido ou n\u00e3o informado."}
+2024-11-06 07:10:02 - Log solicitarCorrida:
+{"status":"02","msg":"Customer inv\u00e1lido ou n\u00e3o informado."}
+2024-11-06 07:10:05 - Log solicitarCorrida:
+{"status":"02","msg":"Customer inv\u00e1lido ou n\u00e3o informado."}
+2024-11-06 07:10:20 - Log solicitarCorrida:
+{"status":"01","id":149,"msg":"Solicitada com sucesso."}

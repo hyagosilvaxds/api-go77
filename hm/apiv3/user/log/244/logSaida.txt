@@ -1,0 +1,8 @@
+2024-10-03 21:16:27 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:16:29 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:16:29 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}
+2024-10-03 21:16:32 - Log solicitarCorrida:
+{"status":"02","msg":"Cart\u00e3o n\u00e3o encontrado."}

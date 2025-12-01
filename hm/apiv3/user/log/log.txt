@@ -1,0 +1,2114 @@
+2024-10-29 14:23:55 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-29 14:23:59 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-29 14:24:17 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-29 14:42:41 - Log armazenado:
+{"status":"4","id_corrida":"165","id_motivo":0,"token":"45G1cXp8"}
+2024-10-29 14:42:52 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:43:02 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:43:14 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:43:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:43:23 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:44:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:44:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:44:46 - Log armazenado:
+"id:pagamento164"
+2024-10-29 14:44:51 - Log verificaPixPago:
+{"payment_id":"pay_o6qhjz2ykpwrvkug","token":"45G1cXp8"}
+2024-10-29 14:44:56 - Log verificaPixPago:
+{"payment_id":"pay_o6qhjz2ykpwrvkug","token":"45G1cXp8"}
+2024-10-29 14:45:01 - Log verificaPixPago:
+{"payment_id":"pay_o6qhjz2ykpwrvkug","token":"45G1cXp8"}
+2024-10-29 14:45:06 - Log verificaPixPago:
+{"payment_id":"pay_o6qhjz2ykpwrvkug","token":"45G1cXp8"}
+2024-10-29 14:45:11 - Log verificaPixPago:
+{"payment_id":"pay_o6qhjz2ykpwrvkug","token":"45G1cXp8"}
+2024-10-29 14:45:16 - Log verificaPixPago:
+{"payment_id":"pay_o6qhjz2ykpwrvkug","token":"45G1cXp8"}
+2024-10-29 14:46:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:46:45 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:47:00 - Log armazenado:
+"id:pagamento165"
+2024-10-29 14:47:06 - Log verificaPixPago:
+{"payment_id":"pay_x67sg67ue4w64ugr","token":"45G1cXp8"}
+2024-10-29 14:47:49 - Log armazenado:
+"id:pagamento166"
+2024-10-29 14:47:54 - Log verificaPixPago:
+{"payment_id":"pay_nwf8fw1otp973xly","token":"45G1cXp8"}
+2024-10-29 14:47:59 - Log verificaPixPago:
+{"payment_id":"pay_nwf8fw1otp973xly","token":"45G1cXp8"}
+2024-10-29 14:48:04 - Log verificaPixPago:
+{"payment_id":"pay_nwf8fw1otp973xly","token":"45G1cXp8"}
+2024-10-29 14:48:06 - Log verificaPixPago:
+{"payment_id":"pay_nwf8fw1otp973xly","token":"45G1cXp8"}
+2024-10-29 14:48:08 - Log verificaPixPago:
+{"payment_id":"pay_nwf8fw1otp973xly","token":"45G1cXp8"}
+2024-10-29 14:51:30 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:51:38 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-22.926393","longitude":"-45.46204"}
+2024-10-29 14:51:55 - Log armazenado:
+"id:pagamento167"
+2024-10-29 14:52:00 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 14:52:05 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 14:52:10 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 14:52:15 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 14:52:20 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 14:52:22 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 14:52:23 - Log verificaPixPago:
+{"payment_id":"pay_03ib35crzi9l7xo3","token":"45G1cXp8"}
+2024-10-29 20:44:29 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.238104380803655","longitude":"-122.00231806861211"}
+2024-10-29 20:44:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.238104380803655","longitude":"-122.00231806861211"}
+2024-10-29 22:47:04 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.26261720892175","longitude":"-122.11410539825572"}
+2024-10-29 22:47:09 - Log armazenado:
+{"token":"45G1cXp8","end_busca":", , Saratoga","latitude":"37.26261720892175","longitude":"-122.11410539825572"}
+2024-10-29 23:03:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:03:24 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:03:40 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:03:54 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:05:29 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:05:53 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:14 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"979 W Homestead Rd, , Sunnyvale","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:24 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"979 W Homestead Rd, , Sunnyvale","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:26 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"I 979 W Homestead Rd, , Sunnyvale","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:26 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"I 979 W Homestead Rd, , Sunnyvale","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:06:33 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:07:04 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:07:05 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"I 979 W Homestead Rd, , Sunnyvale","latitude":"37.33978926184283","longitude":"-122.05375220849716"}
+2024-10-29 23:16:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.26332666003123","longitude":"-122.00453603456424"}
+2024-10-31 11:20:44 - Log armazenado:
+{"status":"4","id_corrida":"162","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:21:26 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:25:57 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:26:04 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:26:53 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:27:46 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:28:03 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:28:17 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:28:42 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:28:55 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:29:17 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:29:51 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:31:01 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:31:13 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:33:01 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":0,"token":"45G1cXp8"}
+2024-10-31 11:38:35 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:39:05 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:41:54 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:42:53 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:43:20 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:43:32 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:44:39 - Log armazenado:
+{"status":"4","id_corrida":"143","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:45:06 - Log armazenado:
+{"status":"4","id_corrida":"165","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 11:48:41 - Log armazenado:
+{"status":"4","id_corrida":"165","id_motivo":4,"token":"45G1cXp8"}
+2024-10-31 14:27:39 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.700965263631215","longitude":"-49.31074250910241"}
+2024-10-31 23:33:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-31 23:33:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-31 23:33:29 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-31 23:33:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-31 23:33:37 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-10-31 23:58:49 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.38965656485991","longitude":"-121.94379250333448"}
+2024-10-31 23:59:24 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.38965656485991","longitude":"-121.94379250333448"}
+2024-10-31 23:59:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.38965656485991","longitude":"-121.94379250333448"}
+2024-11-01 00:00:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.38965656485991","longitude":"-121.94379250333448"}
+2024-11-01 00:01:44 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.38965656485991","longitude":"-121.94379250333448"}
+2024-11-01 06:16:05 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"38.7140702","longitude":"-9.3100211"}
+2024-11-01 06:18:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"38.7140702","longitude":"-9.3100211"}
+2024-11-01 06:19:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-23.34877178029518","longitude":"-46.391302925726315"}
+2024-11-01 06:19:27 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-23.34877178029518","longitude":"-46.391302925726315"}
+2024-11-01 17:41:28 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.97913816549259","longitude":"116.33052238643486"}
+2024-11-01 17:41:37 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.97913816549259","longitude":"116.33052238643486"}
+2024-11-01 22:35:52 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.422000885009766","longitude":"-122.08406066894531"}
+2024-11-03 01:59:06 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:12 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"dodd","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:12 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"dodd","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"dodda","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddab","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:17 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabon","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:17 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabon","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:17 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabons","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:18 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabonm","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabonm","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:20 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddab","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:20 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddab","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabm","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"doddabmsa","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 01:59:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"12.9861836","longitude":"77.6966808"}
+2024-11-03 19:20:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.90476618712436","longitude":"116.44627043630615"}
+2024-11-03 19:20:42 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.90476618712436","longitude":"116.44627043630615"}
+2024-11-04 20:30:04 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.87672955459547","longitude":"116.42757818480102"}
+2024-11-05 05:59:18 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.46272659301758","longitude":"-121.89014434814453"}
+2024-11-05 05:59:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"37.46272659301758","longitude":"-121.89014434814453"}
+2024-11-05 06:07:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"33.345707604776","longitude":"-111.60267839963717"}
+2024-11-05 07:07:53 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-11-05 07:07:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"por","latitude":"","longitude":""}
+2024-11-05 07:07:58 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"porto","latitude":"","longitude":""}
+2024-11-05 07:07:59 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"porto","latitude":"","longitude":""}
+2024-11-05 07:07:59 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"porto a","latitude":"","longitude":""}
+2024-11-05 07:08:00 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"porto ale","latitude":"","longitude":""}
+2024-11-05 07:08:00 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"porto ale","latitude":"","longitude":""}
+2024-11-05 07:08:02 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"porto ale","latitude":"","longitude":""}
+2024-11-05 07:08:12 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-11-05 07:08:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"sao","latitude":"","longitude":""}
+2024-11-05 07:08:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"sao","latitude":"","longitude":""}
+2024-11-05 07:08:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"s\u00e3o ","latitude":"","longitude":""}
+2024-11-05 07:08:17 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"s\u00e3o ","latitude":"","longitude":""}
+2024-11-05 07:08:18 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"s\u00e3o pa","latitude":"","longitude":""}
+2024-11-05 07:08:18 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"s\u00e3o pa","latitude":"","longitude":""}
+2024-11-05 07:08:20 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"s\u00e3o pau","latitude":"","longitude":""}
+2024-11-05 07:08:20 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"s\u00e3o pau","latitude":"","longitude":""}
+2024-11-05 07:21:09 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:30 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:30 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop ","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop lavanderia ","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop lavanderia ","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:38 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:42 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopaba","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:42 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopaba","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:44 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:21:44 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:27:18 - Log armazenado:
+{"status":"4","id_corrida":"145","id_motivo":0,"token":"45G1cXp8"}
+2024-11-05 07:27:23 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:27:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:27:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florian","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 07:27:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florian","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-05 08:41:01 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:22 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:27 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:27 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop ","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop ","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop lav","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop la","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:33 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop la","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:33 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop lava","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 08:41:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"pop lava","latitude":"-28.807059016952355","longitude":"-49.28220658339318"}
+2024-11-05 22:19:39 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.750104223153013","longitude":"-49.27532440969983"}
+2024-11-05 22:19:55 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara","latitude":"-28.750104223153013","longitude":"-49.27532440969983"}
+2024-11-05 22:19:55 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara","latitude":"-28.750104223153013","longitude":"-49.27532440969983"}
+2024-11-05 22:20:03 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.750104223153013","longitude":"-49.27532440969983"}
+2024-11-05 22:20:07 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"floripa","latitude":"-28.750104223153013","longitude":"-49.27532440969983"}
+2024-11-05 22:20:07 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"floripa","latitude":"-28.750104223153013","longitude":"-49.27532440969983"}
+2024-11-06 07:05:28 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-11-06 07:05:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7a","latitude":"","longitude":""}
+2024-11-06 07:05:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara","latitude":"","longitude":""}
+2024-11-06 07:05:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara","latitude":"","longitude":""}
+2024-11-06 07:05:45 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"","longitude":""}
+2024-11-06 07:05:48 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garop","latitude":"","longitude":""}
+2024-11-06 07:05:48 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garop","latitude":"","longitude":""}
+2024-11-06 07:05:49 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"","longitude":""}
+2024-11-06 07:05:50 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"","longitude":""}
+2024-11-06 17:34:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.8727681755213","longitude":"116.35960213020344"}
+2024-11-06 17:34:39 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.8727681755213","longitude":"116.35960213020344"}
+2024-11-06 18:07:11 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Rodovia Paulino B\u00farigo, Liri, I\u00e7ara","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flo","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flo","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"gar","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"gar","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:23 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopa","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-06 18:07:23 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopa","latitude":"-28.701003578709834","longitude":"-49.31074732073433"}
+2024-11-09 08:51:12 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715125589631697","longitude":"-49.28439814293912"}
+2024-11-09 09:20:03 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:09 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"tra","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:09 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"tra","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:14 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"travessa ","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:14 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"travessa ","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:15 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"travessa ci","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"travessa ci","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"travessa cipriano","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"travessa cipriano","latitude":"-9.660640480364837","longitude":"-35.72625446955844"}
+2024-11-09 09:20:53 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:20:59 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"recife","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:00 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"recife","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:08 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:10 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Pra\u00e7a Recife - Po\u00e7o, Macei\u00f3 - Alagoas, Brazil","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Pra\u00e7a Recife - Po\u00e7o, Macei\u00f3 - Alagoas, Brazi","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:16 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Pra\u00e7a Recife - Po\u00e7o, Macei\u00f3 - Alagoas, Brazi","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:19 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Pra\u00e7a Recife - ","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:23 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"recife","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:21:23 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"recife","latitude":"-9.660641317571832","longitude":"-35.7262545459949"}
+2024-11-09 09:27:10 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:27:44 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:27:47 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"cric","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:27:47 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"cric","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:27:48 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Crici\u00fama ","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:27:49 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Crici\u00fama ","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:28:03 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:28:07 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"join","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:28:07 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"join","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:28:08 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Joinville ","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:28:09 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Joinville ","latitude":"-28.715048447858873","longitude":"-49.28433354149918"}
+2024-11-09 09:33:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:33:42 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:33:45 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"cri","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:33:45 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"cri","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:33:52 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:33:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"joi","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:33:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"joi","latitude":"-28.71502279871656","longitude":"-49.28437783421442"}
+2024-11-09 09:48:29 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:48:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"cri","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:48:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"cri","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:48:38 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:48:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"joi","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:48:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"joi","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:53:49 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:53:55 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"crici","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:53:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"crici","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:53:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Crici\u00fama ","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:53:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Crici\u00fama ","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:54:03 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:54:07 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fly m","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:54:07 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fly m","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:54:08 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fly midia","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 09:54:10 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fly midia","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:33 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.01812481753559","longitude":"-48.651050146378466"}
+2024-11-09 10:04:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara ","latitude":"-28.01812481753559","longitude":"-48.651050146378466"}
+2024-11-09 10:04:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara ","latitude":"-28.01812481753559","longitude":"-48.651050146378466"}
+2024-11-09 10:04:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"icara","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:42 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"icara","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:47 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.01812481753559","longitude":"-48.651050146378466"}
+2024-11-09 10:04:50 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"floripa","latitude":"-28.01812481753559","longitude":"-48.651050146378466"}
+2024-11-09 10:04:50 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:50 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"floripa","latitude":"-28.01812481753559","longitude":"-48.651050146378466"}
+2024-11-09 10:04:53 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flo","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:53 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flo","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flor","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flori","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:04:58 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"flori","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:03 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"floria","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:03 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"floria","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:04 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florianop","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:04 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florianop","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:06 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florianopol","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:06 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florianopol","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:08 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florianopolis","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:08 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"florianopolis","latitude":"-28.715086830852947","longitude":"-49.28434024884959"}
+2024-11-09 10:05:49 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.71507736834206","longitude":"-49.28430923103395"}
+2024-11-09 10:05:51 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"I\u00e7ara - Rodovia SC - Centro, I\u00e7ara - Santa Catarina, Brazil","latitude":"-28.71507736834206","longitude":"-49.28430923103395"}
+2024-11-09 10:05:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara","latitude":"-28.71507736834206","longitude":"-49.28430923103395"}
+2024-11-09 10:05:56 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara","latitude":"-28.71507736834206","longitude":"-49.28430923103395"}
+2024-11-09 23:32:30 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:32:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"foz","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:32:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"foz","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:32:43 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:32:46 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fra","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:32:46 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fra","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:35:11 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-25.4314777208729","longitude":"-54.39374137674867"}
+2024-11-09 23:35:21 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"foz","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-09 23:35:22 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"foz","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-09 23:35:27 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-09 23:35:29 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fra","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-09 23:35:29 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fra","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-09 23:35:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fran","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-09 23:35:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"fran","latitude":"-25.431481073634167","longitude":"-54.39375059684216"}
+2024-11-11 10:57:28 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"icara","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"icara","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara ","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"i\u00e7ara ","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:40 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:43 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"aeroporto ","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:43 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"aeroporto ","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:44 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"aeroporto floria","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-11 10:57:45 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"aeroporto floria","latitude":"-28.701013073980246","longitude":"-49.310760869213226"}
+2024-11-13 10:53:52 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:20 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:46 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"icara","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:46 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"icara","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:52 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garioaba","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:57 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garioaba","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:59 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:54:59 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:25 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:30 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"gar","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:33 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"gar","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garop","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:34 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopa","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopa","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:35 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"garopaba","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:36 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-13 10:55:36 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"Garopaba ","latitude":"-28.701013246165296","longitude":"-49.31075998099776"}
+2024-11-16 03:20:31 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.89154603205046","longitude":"116.46812089050452"}
+2024-11-16 03:20:51 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.89154603205046","longitude":"116.46812089050452"}
+2024-11-16 03:20:54 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.89154603205046","longitude":"116.46812089050452"}
+2024-11-16 03:21:12 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.89154603205046","longitude":"116.46812089050452"}
+2024-11-16 03:21:33 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.89154603205046","longitude":"116.46812089050452"}
+2024-11-16 03:21:54 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"39.89154603205046","longitude":"116.46812089050452"}
+2024-11-16 16:58:24 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.026524332925327","longitude":"-48.621257368656906"}
+2024-11-17 17:32:28 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"40.00452153695854","longitude":"116.4362871012791"}
+2024-11-17 17:32:32 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"40.00452153695854","longitude":"116.4362871012791"}
+2024-11-18 09:31:41 - Log armazenado:
+{"token":"45G1cXp8","end_busca":"","latitude":"-28.682207225193224","longitude":"-49.37470549529728"}
+2024-12-16 15:11:15 - Log armazenado:
+{"end_busca":"pinda","id_user":203,"token":"Qd721n2E"}
+2024-12-16 15:11:24 - Log armazenado:
+{"end_busca":"av ipiranga","id_user":203,"token":"Qd721n2E"}
+2024-12-16 15:12:35 - Log armazenado:
+{"end_busca":"av ipiranga","id_user":203,"token":"Qd721n2E"}
+2024-12-16 15:32:15 - Log armazenado:
+{"end_busca":"av ipiranga","id_user":203,"token":"Qd721n2E"}
+2024-12-17 10:06:11 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"","latitude":"","longitude":""}
+2024-12-17 10:09:01 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"","latitude":"","longitude":""}
+2024-12-17 10:11:11 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"","latitude":"","longitude":""}
+2024-12-17 10:15:02 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Profe","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:03 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:04 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:05 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:06 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora Mar","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:07 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora Marcia","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:08 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora Marcia","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:12 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora Marci","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:12 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora Marci","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:24 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Professora Marc","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:15:32 - Log armazenado:
+{"token":"Qd721n2E","usuarios\/buscaEndereco\/":"Erro ao buscar o endere\u00e7o: MissingPluginException(No implementation found for method placemarkFromCoordinates on channel flutter.baseflow.com\/geocoding)","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:17:47 - Log armazenado:
+{"end_busca":"av ipiranga","id_user":203,"token":"Qd721n2E"}
+2024-12-17 10:18:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar o endere\u00e7: MissingPluginException(No implementation found for method placemarkFromCoordinates on channel flutter.baseflow.com\/geocoding)","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar: MissingPluginException(No implementation found for method placemarkFromCoordinates on channel flutter.baseflow.com\/geocoding)","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar: MissingPluginException(No implementation found for method placemarkFromCoordinates on channel flutter.baseflow.com\/geocoding)","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar: Missing(No implementation found for method placemarkFromCoordinates on channel flutter.baseflow.com\/geocoding)","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar: Missing(No implementation found for method placemarkFromCoordinates on channel flutter.baseflow.com\/geocoding)","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Prof","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Professora Marcia","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:23:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Professora Marcia","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 10:49:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-17 11:06:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:10:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Tupiniquins, Santa Isabel, Eun\u00e1poli","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Fil","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Filinto","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:14:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Filinto","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 11:35:07 - Log armazenado:
+{"end_busca":"av ipiranga","id_user":203,"token":"Qd721n2E"}
+2024-12-17 12:24:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 12:42:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 12:48:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 12:49:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Ant\u00f4nio Carlos Magalh\u00e3es, 32, Encontro Entre Os Bairros Minas Gerais E Pequi, Eun\u00e1polis","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 13:02:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 13:03:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:54:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-17 18:55:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua an","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua an","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua anti","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua anton","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua antonio","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua antonio","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-17 18:55:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 09:59:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-18 09:59:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", , ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 09:59:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", , Eun\u00e1polis","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:41:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:42:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua a","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua a","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua an","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua an","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ant","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ant","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua anto","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 10:44:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua anto","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-18 13:52:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte ","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azuk","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azu","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azul","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azul","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-18 13:52:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azul","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-23 22:33:04 - Log armazenado:
+{"end_busca":"av juca batista","id_user":203,"token":"Qd721n2E"}
+2024-12-24 09:15:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 09:16:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:16:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:26:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:27:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:28:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:28:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:29:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:29:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:31:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:32:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:32:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:32:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:46:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:46:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 09:53:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:04:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 10:18:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:18:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:20:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:29:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:44:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:44:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:45:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 10:46:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 10:48:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 10:53:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 11:05:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 11:08:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 11:08:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 11:09:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 11:12:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-24 11:17:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 11:18:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 11:49:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 12:27:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 12:33:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 12:37:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-24 12:37:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-26 11:34:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2024-12-26 11:34:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"BR367, Ltm Encanto das Aguas, Eun\u00e1polis","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-26 11:38:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2024-12-26 11:39:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:54:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-01-13 10:54:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:54:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:54:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:54:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av Pau","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av Pau","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av Paulista","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:56:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av Paulista","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Alegre","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:57:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Alegre","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto alegre","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto alegre","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 10:59:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Alegre","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-13 11:03:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 08:59:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 08:59:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 09:14:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 09:17:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:02:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:02:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Sao","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:02:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Sao","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:02:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"S\u00e3o ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:02:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"S\u00e3o ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:15:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Se","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Se","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seg","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seg","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Segu","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:16:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Segu","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 10:24:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aero","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aerop","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroport","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeropor","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeropo","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aer","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aer","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aer","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aer","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aero","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aero","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroporto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroporto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroporto ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:39:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroporto ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto ","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Al","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:57:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Ale","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Alegr","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Alegr","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Alegr","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Se","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Se","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-14 11:58:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-15 10:19:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-15 10:20:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-15 10:20:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-15 10:28:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-15 12:12:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 09:33:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 09:33:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Ant\u00f4nio Carlos Magalh\u00e3es, 32, Encontro Entre Os Bairros Minas Gerais E Pequi, Eun\u00e1polis","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 09:36:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 09:36:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 09:36:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Atacad","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 09:36:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Atacad","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-20 14:18:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Ataca","latitude":"-16.371111","longitude":"-39.5594539"}
+2025-01-27 09:11:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-27 09:41:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-27 09:44:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-27 13:51:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-28 11:01:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-28 11:01:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-28 16:12:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:34:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:34:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:34:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:46:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:46:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salv","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:46:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salv","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:49:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:49:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 07:49:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Sal","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Sal","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salv","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salv","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salva","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salva","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:25:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:28:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:28:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Sal","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:28:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Sal","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:28:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:28:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:29:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:29:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 08:29:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Salvador","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:02:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:07:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio ","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio ","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Emidio","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Emidio","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Emidio,","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Emidio,","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Emidio, euna","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 12:55:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Emidio, euna","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 14:58:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 14:58:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 14:58:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 15:16:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 15:57:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 15:57:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 15:57:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 15:57:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:00:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua dos Andradas - Centro, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:00:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua do Andradas - Centro, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:00:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":" Andradas - Centro, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:01:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua dos Andradas - Centro, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:01:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua dos Andradas - Centro, Santa Mari - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:02:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:02:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:02:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Antonio ","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:02:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Antonio Emidio ","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:02:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Antonio Emidio Eun","latitude":"-29.699135","longitude":"-53.814578"}
+2025-01-30 16:02:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Em\u00eddio - Juca Rosa, Eun\u00e1polis - Bahia, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 14:10:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 14:10:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Morotin, 201, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 14:51:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 15:02:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 15:02:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Berlim, 476, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 15:02:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Berlim, 476 - Nossa Sra. de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 15:09:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 15:09:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Pista de Caminhada do CDM, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 15:09:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Pista De Skate - Avenida Borges de Medeiros - Nossa Senhora de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 16:16:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 16:16:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Visconde de Pelotas, 1923, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 16:19:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-03 16:20:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Borges de Medeiros, 2582\u20132606, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Teste ","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Teste Novo e","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Teste Novo evento","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Teste Novo event","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Brasil, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 09:25:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Brasil - Nossa Sra. de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 10:42:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 10:42:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Inconfidentes, 12, Nossa Sra Medianeira, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-04 10:42:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Inconfidentes, 12 - Nossa Sra. Medianeira, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-06 10:12:10 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:15 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:20 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:21 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:25 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:30 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:35 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 10:12:40 - Log verificaPixPago:
+{"payment_id":"pay_vxmmgopv3gyzkota","token":"Qd721n2E"}
+2025-02-06 15:25:46 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:25:51 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:25:56 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:02 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:06 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:11 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:16 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:21 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:26 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:31 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:26:36 - Log verificaPixPago:
+{"payment_id":"pay_o4xpsq8zq784lits","token":"Qd721n2E"}
+2025-02-06 15:55:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-06 15:55:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Brasil - Nossa Sra. de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-07 14:19:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-07 14:19:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Borges de Medeiros, 2554, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-07 14:19:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Borges de Medeiros, 2554 - Nossa Sra. de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 10:20:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 10:20:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Borges de Medeiros, 2646, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 10:25:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 13:42:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 13:42:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rodovia da Integra\u00e7\u00e3o, Cerrito, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 14:02:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 14:02:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Marqu\u00eas do Herval, 390, Nonoai, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-02-12 15:39:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365006398374632","longitude":"-39.5407358596274"}
+2025-02-12 15:39:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua AGATA, , Eun\u00e1polis","latitude":"-16.365006398374632","longitude":"-39.5407358596274"}
+2025-03-18 19:39:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-23.817101342810297","longitude":"-46.79105297566037"}
+2025-03-18 19:40:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"floriqnopol","latitude":"-23.817101342810297","longitude":"-46.79105297566037"}
+2025-03-18 19:40:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Florian\u00f3polis ","latitude":"-23.817101342810297","longitude":"-46.79105297566037"}
+2025-03-18 19:40:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Florian\u00f3polis Santa catarina","latitude":"-23.817101342810297","longitude":"-46.79105297566037"}
+2025-03-21 15:08:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-03-21 15:08:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Appel, 1452, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-03-21 15:08:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Appel, 1452 - Nossa Sra. de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:10:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:10:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Professor Teixeira, 1392, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:10:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Professor Teixeira, 1392 - Nossa Sra. de F\u00e1tima, Santa Maria - RS, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:14:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:14:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Presidente Vargas, 1199, Nossa Sra de Fatima, Santa Maria","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:16:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:16:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:22:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:24:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-04-23 10:26:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 09:56:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 09:56:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 09:56:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 10:22:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649305","longitude":"-39.5406479"}
+2025-05-06 10:27:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649286","longitude":"-39.5406545"}
+2025-05-06 10:27:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"port","latitude":"-16.3649286","longitude":"-39.5406545"}
+2025-05-06 10:28:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"porto se","latitude":"-16.3649286","longitude":"-39.5406545"}
+2025-05-06 10:28:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.3649286","longitude":"-39.5406545"}
+2025-05-06 10:30:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649332","longitude":"-39.5406479"}
+2025-05-06 10:30:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Port","latitude":"-16.3649332","longitude":"-39.5406479"}
+2025-05-06 10:30:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto","latitude":"-16.3649332","longitude":"-39.5406479"}
+2025-05-06 10:30:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto S","latitude":"-16.3649332","longitude":"-39.5406479"}
+2025-05-06 10:30:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroporto de Porto Seguro (BPS) - Estrada do Aeroporto - Cidade Alta, Porto Seguro - Bahia, Brazil","latitude":"-16.3649332","longitude":"-39.5406479"}
+2025-05-06 10:34:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Por","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Pory","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Port","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto de Galinhas - N. S\u00e3o do \u00d3, Ipojuca - Pernambuco, Brazil","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aeroporto de Porto Seguro (BPS) - Estrada do Aeroporto - Cidade Alta, Porto Seguro - Bahia, Brazil","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto de Galinhas - Avenida Atl\u00e2ntica - N. S\u00e3o do \u00d3, Ipojuca - Pernambuco, Brazil","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Pordo \u00d3, Ipojuca - Pernambuco, Brazil","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"port","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:34:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"porto ","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:35:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"porto se","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:35:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.3649228","longitude":"-39.5406604"}
+2025-05-06 10:38:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649349","longitude":"-39.5406567"}
+2025-05-06 10:38:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"port","latitude":"-16.3649349","longitude":"-39.5406567"}
+2025-05-06 10:38:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.3649349","longitude":"-39.5406567"}
+2025-05-06 10:45:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649296","longitude":"-39.5406488"}
+2025-05-06 10:45:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Av. A, , ","latitude":"-16.3649296","longitude":"-39.5406488"}
+2025-05-06 10:49:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3649111","longitude":"-39.5407027"}
+2025-05-06 10:49:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"por","latitude":"-16.3649111","longitude":"-39.5407027"}
+2025-05-06 10:49:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"porto","latitude":"-16.3649111","longitude":"-39.5407027"}
+2025-05-06 10:49:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.3649111","longitude":"-39.5407027"}
+2025-05-06 10:55:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-06 11:17:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 11:17:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"porto","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 11:17:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-06 11:18:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-29.699135","longitude":"-53.814578"}
+2025-05-15 10:13:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 10:14:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua \u00d4nix, 115, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 10:14:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua \u00d4nix, 115 - Santa Isabel, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:22:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:22:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:22:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Turmalina, 123, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:22:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Turmalina, 123 - Santa Isabel, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:30:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:31:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:31:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Joana Angelica, 172, Centro, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:31:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Joana Ang\u00e9lica, 172 - Centro, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:34:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua \u00d4nix, 115 - Santa Isabel, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-15 11:34:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-05-18 23:04:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"14.652643","longitude":"121.0360136"}
+2025-05-18 23:05:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"14.652643","longitude":"121.0360136"}
+2025-05-18 23:05:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"weee","latitude":"14.652643","longitude":"121.0360136"}
+2025-05-18 23:05:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"weee","latitude":"14.652643","longitude":"121.0360136"}
+2025-05-19 22:39:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-05-27 21:04:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-28.682508209028768","longitude":"-49.39527675617401"}
+2025-05-27 21:04:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Gramado ","latitude":"-28.682508209028768","longitude":"-49.39527675617401"}
+2025-05-30 00:26:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-07 07:28:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-27.7013923","longitude":"-49.5245163"}
+2025-06-07 07:28:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"uri","latitude":"-27.7013923","longitude":"-49.5245163"}
+2025-06-07 07:28:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"uribici","latitude":"-27.7013923","longitude":"-49.5245163"}
+2025-06-07 07:30:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-27.7013923","longitude":"-49.5245163"}
+2025-06-07 07:30:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"lages","latitude":"-27.7013923","longitude":"-49.5245163"}
+2025-06-07 07:30:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Lages, Santa Catarina, Brazil","latitude":"-27.7013923","longitude":"-49.5245163"}
+2025-06-09 14:01:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-09 14:01:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:07:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:07:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Top\u00e1zio, 179, Pequi, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:57:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:57:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 19, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:57:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 19, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:58:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 09:58:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Alexandrita, 262, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 11:51:13 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 14:25:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-10 14:25:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Furlaneto, 224, Encontro Entre Os Bairros Minas Gerais E Pequi, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-11 10:35:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.4790272","longitude":"-39.0823936"}
+2025-06-12 09:58:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 09:58:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Atalaia, 183, Minas Gerais, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:20:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:20:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Presidente Medice, 260, C\u00f3rrego Gravat\u00e1, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:24:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:24:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Teste","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:24:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", , Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:24:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Alexandrita, 134, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:24:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Eun\u00e1polis Plaza Hotel - Avenida Conselheiro Lu\u00eds Viana - Centro, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:25:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:25:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Eun\u00e1polis Plaza Hotel - Avenida Conselheiro Lu\u00eds Viana - Centro, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-12 10:29:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 12:48:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 12:48:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Conselheiro Luis Viana, 96, Centro, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 12:48:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Professor Milton Souza Alves, 208, Casa 1, Gusmao, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 14:03:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 14:03:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua das Orqu\u00eddias, Colonial, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 16:23:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 16:23:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Ant\u00e1rtida, 245, Ivan Moura, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 16:23:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Adolpho Xavier Gomes, 531, Ivan Moura, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 16:52:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-16 16:52:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Dom Pedro II, 458, Casa 1, Centro, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-17 19:48:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-17 19:48:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida ","latitude":"","longitude":""}
+2025-06-17 19:48:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 ","latitude":"","longitude":""}
+2025-06-17 19:48:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de m\u00e3e o","latitude":"","longitude":""}
+2025-06-17 19:49:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o ","latitude":"","longitude":""}
+2025-06-17 19:49:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, ","latitude":"","longitude":""}
+2025-06-17 19:49:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, guaru","latitude":"","longitude":""}
+2025-06-17 19:49:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, Guaruj\u00e1 ","latitude":"","longitude":""}
+2025-06-17 19:49:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-06-17 19:50:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-17 19:50:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-06-17 19:50:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-17 19:50:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-06-17 19:50:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", , ","latitude":"","longitude":""}
+2025-06-17 19:50:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida ","latitude":"","longitude":""}
+2025-06-17 19:50:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 ","latitude":"","longitude":""}
+2025-06-17 19:50:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar o","latitude":"","longitude":""}
+2025-06-17 19:50:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de marco","latitude":"","longitude":""}
+2025-06-17 19:50:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o ","latitude":"","longitude":""}
+2025-06-17 19:50:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o guaru","latitude":"","longitude":""}
+2025-06-17 19:50:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o guaruja","latitude":"","longitude":""}
+2025-06-17 19:50:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-06-18 08:57:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-18 09:12:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-18 09:12:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua \u00c1gua Marinha, 55, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-18 09:15:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-18 09:15:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua \u00c1gua Marinha, 224, Casa 1, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-18 10:52:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:54:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:13 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ,pmt","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua m","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua monte","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua monte az","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 10:55:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua monte azul","latitude":"-16.4134912","longitude":"-39.0791168"}
+2025-06-18 20:18:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365013145491268","longitude":"-39.54075720960211"}
+2025-06-18 20:18:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua ","latitude":"-16.365013145491268","longitude":"-39.54075720960211"}
+2025-06-18 20:18:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua carine","latitude":"-16.365013145491268","longitude":"-39.54075720960211"}
+2025-06-18 20:18:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua Carine ","latitude":"-16.365013145491268","longitude":"-39.54075720960211"}
+2025-06-18 20:18:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rua Carine reis","latitude":"-16.365013145491268","longitude":"-39.54075720960211"}
+2025-06-18 20:18:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Carine Reis - Stela Reis, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365013145491268","longitude":"-39.54075720960211"}
+2025-06-23 16:22:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-23 16:22:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 03, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-23 16:33:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-23 16:56:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-23 16:56:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-23 16:56:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-23 16:56:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-27 15:22:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-28 10:56:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-28.0239752","longitude":"-49.6108914"}
+2025-06-28 10:56:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"urubici","latitude":"-28.0239752","longitude":"-49.6108914"}
+2025-06-28 10:56:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Urubici ","latitude":"-28.0239752","longitude":"-49.6108914"}
+2025-06-28 10:56:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Urubici","latitude":"-28.0239752","longitude":"-49.6108914"}
+2025-06-28 10:57:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Urubici, Santa Catarina, Brazil","latitude":"-28.0239752","longitude":"-49.6108914"}
+2025-06-28 10:57:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Urubici,","latitude":"-28.0239752","longitude":"-49.6108914"}
+2025-06-30 10:07:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 10:07:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar o endere\u00e7o: Unexpected null value.","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Az","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azu","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:07:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:08:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:08:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:11:44 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 10:11:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:11:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Carine ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:11:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Carine Reis","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:11:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Carine Reis - Stela Reis, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:12:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar o endere\u00e7o: Unexpected null value.","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:12:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua carine","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:12:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Carine Reis - Stela Reis, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:53:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 10:54:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 10:55:19 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 10:55:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:55:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Bela Vista - Porto Seguro, Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 10:55:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Bela Vista, Porto Seguro - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 15:27:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365008232830633","longitude":"-39.540759336201766"}
+2025-06-30 15:27:13 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Alexandrita, 359, Santa Isabel, Eun\u00e1polis","latitude":"-16.365008232830633","longitude":"-39.540759336201766"}
+2025-06-30 16:35:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:35:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:35:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azuk","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:35:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azu","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:35:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azul","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:35:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:37:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 16:38:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Pascal","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Pascao","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Pasc","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Pascoal","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Pascoal ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:38:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Pascoal - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 16:40:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte azs","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte a","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte azul","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:40:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:42:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 16:42:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:42:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:42:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte az","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:42:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte azul","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:42:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:44:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 16:44:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua mont","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:44:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:44:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte azu","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:44:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte azul","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:44:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-06-30 16:47:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua M","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azukl","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul ","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 16:47:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.4200448","longitude":"-39.0791168"}
+2025-06-30 17:19:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-06-30 17:19:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":", Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-01 10:37:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:37:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"uru","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:37:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"urubici","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:37:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Urubici, Santa Catarina, Brazil","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:37:36 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"R. Clarismundo Jos\u00e9 Cust\u00f3dio, Urubici, ","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:37:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"SC-110, Urubici, ","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:39:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:39:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"estrada gera","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-470","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 ","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 ","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 altos","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 ","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 corvo bran","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 corvo branco","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-01 10:40:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"rodovia sc-370 corvo branco urubici","latitude":"-28.0239656","longitude":"-49.610879"}
+2025-07-05 10:52:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-05 10:52:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Alexandrita, 372, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-05 11:17:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-05 11:17:13 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Ant\u00f4nio Dias, 93, Pequi, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-05 11:17:14 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida Princesa Isabel, 737, Pequi, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-07 13:24:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 13:24:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"esta","latitude":"","longitude":""}
+2025-07-07 13:25:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 13:25:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"aven","latitude":"","longitude":""}
+2025-07-07 13:25:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida ","latitude":"","longitude":""}
+2025-07-07 13:25:34 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida do lami","latitude":"","longitude":""}
+2025-07-07 13:25:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida do lami, ","latitude":"","longitude":""}
+2025-07-07 13:25:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida do lami, 51","latitude":"","longitude":""}
+2025-07-07 13:25:45 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida do lami, 5192","latitude":"","longitude":""}
+2025-07-07 13:25:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Avenida do Lami, 5192 - Bel\u00e9m Novo, Porto Alegre - RS, Brazil","latitude":"","longitude":""}
+2025-07-07 13:34:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 13:39:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 13:39:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida","latitude":"","longitude":""}
+2025-07-07 13:39:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 32 ","latitude":"","longitude":""}
+2025-07-07 13:39:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 ","latitude":"","longitude":""}
+2025-07-07 13:39:13 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o ","latitude":"","longitude":""}
+2025-07-07 13:39:18 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o guaruja","latitude":"","longitude":""}
+2025-07-07 13:39:24 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 13:39:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 2065, Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:39:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1, Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:39:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 19, Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 196, Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969, Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 196 - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 13:40:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969 - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 13:40:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:13 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1 Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 19 Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969 Guaruja, Lages","latitude":"","longitude":""}
+2025-07-07 13:40:17 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969 - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 13:40:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 13:40:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969 - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 13:40:53 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 13:40:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"ave","latitude":"","longitude":""}
+2025-07-07 13:40:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida ","latitude":"","longitude":""}
+2025-07-07 13:41:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31","latitude":"","longitude":""}
+2025-07-07 13:41:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 ","latitude":"","longitude":""}
+2025-07-07 13:41:03 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de ","latitude":"","longitude":""}
+2025-07-07 13:41:06 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de m","latitude":"","longitude":""}
+2025-07-07 13:41:07 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, ","latitude":"","longitude":""}
+2025-07-07 13:41:08 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1","latitude":"","longitude":""}
+2025-07-07 13:41:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1969","latitude":"","longitude":""}
+2025-07-07 13:41:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1969, ","latitude":"","longitude":""}
+2025-07-07 13:41:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1969, guaruja","latitude":"","longitude":""}
+2025-07-07 13:41:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1969, Guaruj\u00e1 ","latitude":"","longitude":""}
+2025-07-07 13:41:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969 - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 15:20:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-07 15:20:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida","latitude":"","longitude":""}
+2025-07-07 15:20:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 ","latitude":"","longitude":""}
+2025-07-07 15:20:39 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de m\u00e3e ","latitude":"","longitude":""}
+2025-07-07 15:20:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, ","latitude":"","longitude":""}
+2025-07-07 15:20:43 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 19","latitude":"","longitude":""}
+2025-07-07 15:20:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1969, g","latitude":"","longitude":""}
+2025-07-07 15:20:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"avenida 31 de mar\u00e7o, 1969, Guaruj\u00e1 ","latitude":"","longitude":""}
+2025-07-07 15:20:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua 31 de Mar\u00e7o, 1969 - Guaruj\u00e1, Lages - Santa Catarina, Brazil","latitude":"","longitude":""}
+2025-07-07 19:34:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-30.2117499","longitude":"-51.1282653"}
+2025-07-17 10:04:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:04:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua mop","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:04:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua mojnt","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:04:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte ","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:04:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azu","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:04:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua monte Azul","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:04:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul - Santa Lucia, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:25:11 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-17 10:25:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Aqui","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:25:20 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Antares","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:25:26 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Antares, Coliseu - Centro, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:33:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-17 10:40:05 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:42:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"joao","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:42:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 10:43:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Tancredo Neves - Trancoso, Porto Seguro - Bahia, Brazil","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 13:10:33 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 13:10:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-17 13:10:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Tancredo Neves - Trancoso, Porto Seguro - Bahia, Brazil","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 15:32:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-18 15:34:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-18 15:34:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"","longitude":""}
+2025-07-18 15:48:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 15:48:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 15:52:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-18 15:52:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"","longitude":""}
+2025-07-18 15:53:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 15:53:38 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 15:57:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-18 15:57:16 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Porto Seguro, Bahia, Brazil","latitude":"","longitude":""}
+2025-07-18 16:23:48 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 16:23:55 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 16:23:57 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua ","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 16:24:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte ","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-18 16:24:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Monte Azul","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-21 09:58:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-21 09:58:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-21 10:22:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-21 10:22:22 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Euna","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-21 10:22:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Eun\u00e1polis Plaza Hotel - Avenida Conselheiro Lu\u00eds Viana - Centro, Eun\u00e1polis - Bahia, Brazil","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-21 16:09:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-21 16:10:21 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.5917896","longitude":"-39.1027984"}
+2025-07-21 16:11:40 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-21 16:12:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-21 16:13:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-21 16:14:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-21 16:17:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-21 16:21:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-07-21 21:04:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-30.194150151768362","longitude":"-51.16638454019564"}
+2025-07-21 21:04:42 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-30.194150151768362","longitude":"-51.16638454019564"}
+2025-07-22 09:39:09 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.3339928","longitude":"-39.571768"}
+2025-07-25 18:44:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"-16.365113","longitude":"-39.540897"}
+2025-07-25 18:44:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Rua Turquesa, 20\u201324, Santa Isabel, Eun\u00e1polis","latitude":"-16.365113","longitude":"-39.540897"}

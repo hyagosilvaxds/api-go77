@@ -1,0 +1,652 @@
+2024-09-29 11:27:25 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931713717851235","-23.024996"],"longitude":["-45.47791164368391","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547\u2013559, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:45 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931713717851235","-23.024996"],"longitude":["-45.47791164368391","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547\u2013559, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"07:30","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-29 11:30:46 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931713717851235","-23.024996"],"longitude":["-45.47791164368391","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547\u2013559, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:53 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931713717851235","-23.024996"],"longitude":["-45.47791164368391","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547\u2013559, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"07:30","raio_km":"5.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:30:54 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931713717851235","-23.024996"],"longitude":["-45.47791164368391","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547\u2013559, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:32:11 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"81","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"148","id_endereco_final":"149","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:36:11 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.929981146595697","-23.024996"],"longitude":["-45.477947518229485","-45.5638792"],"endereco":["Rua Francisco Joaquim de Oliveira Filho, 149, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:38:45 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932332818761484","-23.024996"],"longitude":["-45.47897044569254","-45.5638792"],"endereco":["Rua Ant\u00f4nio Rodrigues Sim\u00f5es, 275, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:44:10 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932332818761484","-22.9414099"],"longitude":["-45.47897044569254","-45.4509424"],"endereco":["Rua Ant\u00f4nio Rodrigues Sim\u00f5es, 275, Mombaca, Pindamonhangaba","Rua Sebasti\u00e3o Menezes Cordeiro - Parque Sao Domingos, Pindamonhangaba - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:46:22 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 11:51:36 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932240494166905","-22.941079593853605"],"longitude":["-45.477926060557365","-45.45092660933733"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Rua Athayde Marques, Vila Romana, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:51:40 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932240494166905","-22.941079593853605"],"longitude":["-45.477926060557365","-45.45092660933733"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Rua Athayde Marques, Vila Romana, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:52:22 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932240494166905","-22.94127534619292"],"longitude":["-45.477926060557365","-45.452465191483505"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 613, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:53:17 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93345275122231","-22.941128377586107"],"longitude":["-45.47809772193432","-45.45278135687113"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 678, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 573\u2013657, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:53:20 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:54:11 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"82","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"150","id_endereco_final":"151","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:55:08 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93345275122231","-22.941128377586107"],"longitude":["-45.47809772193432","-45.45278135687113"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 678, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 573\u2013657, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:55:13 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93345275122231","-22.941128377586107"],"longitude":["-45.47809772193432","-45.45278135687113"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 678, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 573\u2013657, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 11:55:26 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 11:55:27 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 11:56:42 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:56:42 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:58:49 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 11:58:49 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"83","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"152","id_endereco_final":"153","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 12:02:58 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.9332813808504","-23.024996"],"longitude":["-45.47775439918041","-45.5638792"],"endereco":["Rua Professora \u00cdsis Castro de Mello C\u00e9sar, 25, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:04:49 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:04:49 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:06:17 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:06:18 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:08:30 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:08:30 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:10:52 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:10:53 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:12:42 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:12:42 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"84","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"154","id_endereco_final":"155","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-29 12:15:30 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.9332813808504","-23.024996"],"longitude":["-45.47775439918041","-45.5638792"],"endereco":["Rua Professora \u00cdsis Castro de Mello C\u00e9sar, 25, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:15:34 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"85","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"156","id_endereco_final":"157","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 12:15:34 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"85","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"156","id_endereco_final":"157","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 12:41:50 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.92386061720962","-22.94419029351155"],"longitude":["-45.46320911496878","-45.41142638772725"],"endereco":["Rua Bicudo Leme, 110, Jardim Boa Vista, Pindamonhangaba","Rua Trememb\u00e9, 325, Cidade Nova, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:42:21 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.92386061720962","-22.94419029351155"],"longitude":["-45.46320911496878","-45.41142638772725"],"endereco":["Rua Bicudo Leme, 110, Jardim Boa Vista, Pindamonhangaba","Rua Trememb\u00e9, 325, Cidade Nova, Pindamonhangaba"],"data":"30\/09\/2024","hora":"08:42","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:42:35 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.92386061720962","-22.94419029351155"],"longitude":["-45.46320911496878","-45.41142638772725"],"endereco":["Rua Bicudo Leme, 110, Jardim Boa Vista, Pindamonhangaba","Rua Trememb\u00e9, 325, Cidade Nova, Pindamonhangaba"],"data":"30\/09\/2024","hora":"23:00","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:43:35 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.92386061720962","-22.932011380687026"],"longitude":["-45.46320911496878","-45.44465895742178"],"endereco":["Rua Bicudo Leme, 110, Jardim Boa Vista, Pindamonhangaba","SP062, Jardim Santa Cecilia, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:47:35 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:55:23 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"08:55","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:55:38 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:55:45 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"23:00","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:56:08 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:58:49 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:01:26 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:04:12 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.0249960000000015725163393653929233551025390625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.563879200000002356318873353302478790283203125,-46.629207618534564971923828125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:04:15 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.0249960000000015725163393653929233551025390625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.563879200000002356318873353302478790283203125,-46.629207618534564971923828125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:04:32 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.0249960000000015725163393653929233551025390625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.563879200000002356318873353302478790283203125,-46.629207618534564971923828125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:04:35 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.0249960000000015725163393653929233551025390625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.563879200000002356318873353302478790283203125,-46.629207618534564971923828125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:09:28 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.02691357451868","-23.5589596031285"],"longitude":["-45.56694723665714","-46.65899220854044"],"endereco":["Avenida Tiradentes, 59, Centro, Taubat\u00e9","Avenida Paulista, 2006, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:14:17 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"92","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"177","id_endereco_final":"178","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 13:14:17 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"92","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"177","id_endereco_final":"178","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 13:20:36 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:21:23 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:23:32 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:24:28 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:24:55 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:25:42 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.0249960000000015725163393653929233551025390625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.563879200000002356318873353302478790283203125,-46.629207618534564971923828125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:26:31 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:27:55 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:30:22 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:30:47 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:31:26 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:32:15 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:33:03 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:33:26 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:36:55 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:37:33 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:38:06 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:38:47 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:39:14 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:40:03 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:40:31 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:40:46 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:41:30 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:41:50 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:42:26 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:43:53 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:45:07 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:45:20 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:45:53 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:46:04 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0241747527649","-23.5557714"],"longitude":["-45.55963184684516","-46.6395571"],"endereco":["Rua An\u00edsio Ortiz Monteiro, 149, Centro, Taubat\u00e9","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:46:39 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":233,"latitude":[-23.02417475276489966518056462518870830535888671875,-23.555771400000001136731953010894358158111572265625],"longitude":[-45.55963184684515709932384197600185871124267578125,-46.63955709999999754700183984823524951934814453125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:47:32 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"94","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"183","id_endereco_final":"184","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 13:47:32 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"94","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"183","id_endereco_final":"184","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 13:53:33 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.024996","-23.5657393"],"longitude":["-45.5638792","-46.6512379"],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Av. Paulista - Bela Vista, S\u00e3o Paulo - S\u00e3o Paulo, Brazil"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:53:48 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"94","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"184","id_endereco_final":"185","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 13:53:48 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"94","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"184","id_endereco_final":"185","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 15:17:01 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932682046006462","-22.939999245803705"],"longitude":["-45.47797601670027","-45.45452814549207"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 261\u2013415, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:17:38 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932682046006462","-22.939999245803705"],"longitude":["-45.47797601670027","-45.45452814549207"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 261\u2013415, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:18:15 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932682046006462","-22.939999245803705"],"longitude":["-45.47797601670027","-45.45452814549207"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 261\u2013415, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:19:02 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"96","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"188","id_endereco_final":"189","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 15:19:02 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"96","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"188","id_endereco_final":"189","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 15:28:40 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932102161546176","-23.014935601739474"],"longitude":["-45.47772590070963","-45.550438575446606"],"endereco":["Rua Jos\u00e9 Augusto Rodrigues, 167, Mombaca, Pindamonhangaba","Rua Jos\u00e9 Dias Monteiro, 44, Jardim Santa Clara, Taubat\u00e9"],"data":"09\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:28:43 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"97","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"190","id_endereco_final":"191","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-29 15:28:43 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"97","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"190","id_endereco_final":"191","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:03:31 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932642522543826","-22.9766935209358"],"longitude":["-45.47811917960644","-45.415097661316395"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 582, Mombaca, Pindamonhangaba","Estrada Municipal Francisco Barros Abreu, 800, Goiabal, Pindamonhangaba"],"data":"01\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:31:19 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"99","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"194","id_endereco_final":"195","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 08:31:21 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"99","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"194","id_endereco_final":"195","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 08:31:23 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"99","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"194","id_endereco_final":"195","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 08:31:35 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"99","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"194","id_endereco_final":"195","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 08:32:32 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932642522543826","-23.03285356553682"],"longitude":["-45.47811917960644","-45.567455515265465"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 582, Mombaca, Pindamonhangaba","Rua Pedro Perelli, 226, Santa Luzia, Taubat\u00e9"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:32:37 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"100","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"196","id_endereco_final":"197","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 08:32:49 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"100","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"196","id_endereco_final":"197","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:32:49 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"100","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"196","id_endereco_final":"197","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:42:44 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93267525291214","-23.016742687651313"],"longitude":["-45.4780263081193","-45.54459638893604"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Avenida Santa Lu\u00edza de Marillac, 122, Vila Sao Jose, Taubat\u00e9"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:42:46 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"100","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"196","id_endereco_final":"197","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 08:42:49 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"100","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"196","id_endereco_final":"197","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 08:43:01 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"100","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"196","id_endereco_final":"197","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 08:43:51 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93267525291214","-23.016742687651313"],"longitude":["-45.4780263081193","-45.54459638893604"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Avenida Santa Lu\u00edza de Marillac, 122, Vila Sao Jose, Taubat\u00e9"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1,3],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:44:00 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"101","vagas_id":[1,3],"vagas_qtd":[1,1],"id_endereco_partida":"198","id_endereco_final":"199","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 08:44:11 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"101","vagas_id":[1,3],"vagas_qtd":[1,1],"id_endereco_partida":"198","id_endereco_final":"199","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:44:11 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"101","vagas_id":[1,3],"vagas_qtd":[1,1],"id_endereco_partida":"198","id_endereco_final":"199","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:50:55 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93274781549294","-23.023741831164905"],"longitude":["-45.47764711081982","-45.56280992925167"],"endereco":["Rua Professora \u00cdsis Castro de Mello C\u00e9sar, 74, Mombaca, Pindamonhangaba","Rua Dino Bueno, 123, Centro, Taubat\u00e9"],"data":"05\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:51:01 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"102","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"200","id_endereco_final":"201","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:51:01 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"102","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"200","id_endereco_final":"201","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:54:26 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932642522543826","-23.024996"],"longitude":["-45.478112138807774","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 582, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"02\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:54:29 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"103","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"202","id_endereco_final":"203","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 08:54:35 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"103","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"202","id_endereco_final":"203","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:54:35 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"103","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"202","id_endereco_final":"203","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:57:48 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93763535615322","-23.02954928306498"],"longitude":["-45.477732941508286","-45.57041868567467"],"endereco":["Avenida Abel Corr\u00eaa Guimar\u00e3es, 1510, Vila Rica, Pindamonhangaba","Avenida Professor Walter Thaumaturgo, 51, Jardim das Nacoes, Taubat\u00e9"],"data":"05\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:57:59 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"104","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"204","id_endereco_final":"205","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 08:57:59 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"104","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"204","id_endereco_final":"205","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 09:00:39 - Log buscarCarona:
+{"id_user":233,"latitude":["-16.375009705285745","-16.444960774662224"],"longitude":["-39.587050415575504","-39.06418897211552"],"endereco":["Avenida Porto Seguro, 673, Centro, Eun\u00e1polis","Avenida dos Navegantes, 222, Centro, Porto Seguro"],"data":"10\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 09:01:00 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"105","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"206","id_endereco_final":"207","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 09:01:49 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"105","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"206","id_endereco_final":"207","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 09:01:54 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"105","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"206","id_endereco_final":"207","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 09:01:54 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"105","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"206","id_endereco_final":"207","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 09:11:01 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93261596771088","-23.024996"],"longitude":["-45.47803334891796","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"11\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 09:11:33 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93261596771088","-23.024996"],"longitude":["-45.47803334891796","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"11\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 09:11:50 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"106","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"208","id_endereco_final":"209","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 09:11:51 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"106","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"208","id_endereco_final":"209","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 09:17:09 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93273453808745","-22.92504052585514"],"longitude":["-45.478061847388744","-45.44973772019147"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Rua Dona Catarina, 169, Santana, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 09:17:21 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93273453808745","-22.92504052585514"],"longitude":["-45.478061847388744","-45.44973772019147"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Rua Dona Catarina, 169, Santana, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 09:17:29 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"107","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"210","id_endereco_final":"211","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 09:17:34 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"107","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"210","id_endereco_final":"211","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 09:17:34 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"107","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"210","id_endereco_final":"211","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 10:14:41 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931924305111895","-22.945466971885295"],"longitude":["-45.47784727066755","-45.41480764746666"],"endereco":["Rua Jos\u00e9 Augusto Rodrigues, 177, Mombaca, Pindamonhangaba","Estrada Municipal Santa Cruz, 60, Triangulo, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 10:23:43 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931924305111895","-22.945466971885295"],"longitude":["-45.47784727066755","-45.41480764746666"],"endereco":["Rua Jos\u00e9 Augusto Rodrigues, 177, Mombaca, Pindamonhangaba","Estrada Municipal Santa Cruz, 60, Triangulo, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 10:25:44 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.024996","-23.5557714"],"longitude":["-45.5638792","-46.6395571"],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 10:36:26 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"111","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"219","id_endereco_final":"220","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 10:36:31 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"111","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"219","id_endereco_final":"220","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 10:36:32 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"111","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"219","id_endereco_final":"220","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 10:38:40 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.936166858465093","-23.016816748032873"],"longitude":["-45.479311756789684","-45.58409862220287"],"endereco":["Rua Padre Jair Machado Gomes, 58, Comercial E Residencial Jardim Mariana, Pindamonhangaba","Rua Comandante Firmino de Azevedo, 960, Jardim das Bandeiras, Taubat\u00e9"],"data":"13\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 10:39:00 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"112","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"221","id_endereco_final":"222","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 10:39:05 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"112","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"221","id_endereco_final":"222","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 10:39:05 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"112","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"221","id_endereco_final":"222","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 11:19:29 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933169295246614","-22.92685344580808"],"longitude":["-45.478090681135654","-45.440573282539845"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 690, Mombaca, Pindamonhangaba","Avenida Raul N\u00e9lson Guaragna, 691, Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 11:24:56 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933169295246614","-22.92685344580808"],"longitude":["-45.478090681135654","-45.440573282539845"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 690, Mombaca, Pindamonhangaba","Avenida Raul N\u00e9lson Guaragna, 691, Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 11:25:32 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933169295246614","-22.92685344580808"],"longitude":["-45.478090681135654","-45.440573282539845"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 690, Mombaca, Pindamonhangaba","Avenida Raul N\u00e9lson Guaragna, 691, Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 11:47:29 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933169295246614","-22.92906591020301"],"longitude":["-45.478090681135654","-45.448860973119736"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 690, Mombaca, Pindamonhangaba","Rua Carlos Juliano, 25\u2013131, Jardim Santa Cecilia, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 11:50:51 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"113","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"223","id_endereco_final":"224","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 11:50:51 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"113","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"223","id_endereco_final":"224","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 11:57:26 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.0265328088037","-23.55374194771812"],"longitude":["-45.565863959491246","-46.64056945592166"],"endereco":["Rua Padre D A Feij\u00f3, 27, Centro, Taubat\u00e9","Rua Santo Amaro, 455, Se, S\u00e3o Paulo"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:01:51 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"114","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"226","id_endereco_final":"227","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 12:01:57 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"114","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"226","id_endereco_final":"227","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 12:01:57 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"114","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"226","id_endereco_final":"227","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 12:04:09 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93183877337542","-22.922923723517595"],"longitude":["-45.47796193510294","-45.434213764965534"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 500, Mombaca, Pindamonhangaba","Rua Pastor Jos\u00e9 Martins de Freitas, Residencial Parque das Palmeiras, Pindamonhangaba"],"data":"11\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:04:18 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93183877337542","-22.922923723517595"],"longitude":["-45.47796193510294","-45.434213764965534"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 500, Mombaca, Pindamonhangaba","Rua Pastor Jos\u00e9 Martins de Freitas, Residencial Parque das Palmeiras, Pindamonhangaba"],"data":"12\/11\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:04:22 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"115","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"228","id_endereco_final":"229","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 12:04:26 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"115","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"228","id_endereco_final":"229","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 12:04:26 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"115","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"228","id_endereco_final":"229","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-09-30 12:17:01 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:19:18 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:21:09 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"115","token":"45G1cXp8"}
+2024-09-30 12:24:52 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931878297072647","-22.924703939511065"],"longitude":["-45.47797601670027","-45.439925864338875"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 508, Mombaca, Pindamonhangaba",", Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:27:31 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931878297072647","-22.924703939511065"],"longitude":["-45.47797601670027","-45.439925864338875"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 508, Mombaca, Pindamonhangaba",", Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:33:02 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.931878297072647","-22.924703939511065"],"longitude":["-45.47797601670027","-45.439925864338875"],"endereco":["Avenida Capit\u00e3oa Jos\u00e9 Monteiro do Amaral, 508, Mombaca, Pindamonhangaba",", Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:35:16 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"116","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"230","id_endereco_final":"231","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 12:35:23 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"116","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"230","id_endereco_final":"231","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 12:35:24 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"116","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"230","id_endereco_final":"231","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 12:36:27 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"116","token":"45G1cXp8"}
+2024-09-30 12:36:33 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"116","token":"45G1cXp8"}
+2024-09-30 12:37:43 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93112086046149","-22.940829191000624"],"longitude":["-45.47775439918041","-45.454460419714444"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 252, Mombaca, Pindamonhangaba","Rua S\u00e3o Jos\u00e9, Parque Sao Domingos, Pindamonhangaba"],"data":"13\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:38:12 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93112086046149","-22.940829191000624"],"longitude":["-45.47775439918041","-45.454460419714444"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 252, Mombaca, Pindamonhangaba","Rua S\u00e3o Jos\u00e9, Parque Sao Domingos, Pindamonhangaba"],"data":"13\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 12:46:19 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93112086046149","-22.940829191000624"],"longitude":["-45.47775439918041","-45.454460419714444"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 252, Mombaca, Pindamonhangaba","Rua S\u00e3o Jos\u00e9, Parque Sao Domingos, Pindamonhangaba"],"data":"13\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 13:00:15 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93112086046149","-23.560056154182874"],"longitude":["-45.47775439918041","-46.65197655558586"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 252, Mombaca, Pindamonhangaba","Alameda Rio Claro, 28, Se, S\u00e3o Paulo"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 13:05:26 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.93112086046149","-23.560056154182874"],"longitude":["-45.47775439918041","-46.65197655558586"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 252, Mombaca, Pindamonhangaba","Alameda Rio Claro, 28, Se, S\u00e3o Paulo"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 13:19:50 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.024996","-23.5557714"],"longitude":["-45.5638792","-46.6395571"],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 13:22:05 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.024996","-23.5557714"],"longitude":["-45.5638792","-46.6395571"],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 14:01:39 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"118","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"235","id_endereco_final":"236","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 14:01:44 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"118","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"235","id_endereco_final":"236","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 14:01:45 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"118","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"235","id_endereco_final":"236","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-09-30 14:16:16 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.024996","-23.5557714"],"longitude":["-45.5638792","-46.6395571"],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 14:17:34 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"118","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"235","id_endereco_final":"236","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 14:21:21 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"118","token":"45G1cXp8"}
+2024-09-30 14:21:28 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"118","token":"45G1cXp8"}
+2024-09-30 14:44:44 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.930653057095576","-22.930327909645833"],"longitude":["-45.47775439918041","-45.44960260391235"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 395, Mombaca, Pindamonhangaba","Rua Francisco de Oliveira Linha, 240\u2013356, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"13\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 14:44:46 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"117","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"232","id_endereco_final":"233","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-09-30 14:44:56 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"117","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"232","id_endereco_final":"233","tipo_pagamento":"1","cartao_id":"60","token":"45G1cXp8"}
+2024-09-30 14:44:56 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"117","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"232","id_endereco_final":"233","tipo_pagamento":"1","cartao_id":"60","token":"45G1cXp8"}
+2024-09-30 14:45:08 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"117","token":"45G1cXp8"}
+2024-10-01 09:50:58 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-01 09:51:07 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.9263928","-23.024996"],"longitude":["-45.4620404","-45.5638792"],"endereco":["Pindamonhangaba, S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-01 09:52:57 - Log buscarCarona:
+{"id_user":233,"latitude":["-16.37025301936012","-16.4443537"],"longitude":["-39.545410461723804","-39.0653656"],"endereco":["BR367, 7\u201385, , Eun\u00e1polis","Porto Seguro, Bahia, Brazil"],"data":"02\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-01 09:53:21 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"119","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"237","id_endereco_final":"238","tipo_pagamento":"1","cartao_id":"60","token":"45G1cXp8"}
+2024-10-01 09:53:22 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"119","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"237","id_endereco_final":"238","tipo_pagamento":"1","cartao_id":"60","token":"45G1cXp8"}
+2024-10-01 09:53:49 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"119","token":"45G1cXp8"}
+2024-10-01 09:54:12 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"119","token":"45G1cXp8"}
+2024-10-01 09:59:51 - Log buscarCarona:
+{"id_user":233,"latitude":["-16.37698382293807","-16.5720414"],"longitude":["-39.578378833830364","-39.55957009999999"],"endereco":["Rua Madri, 452, Dinah Borges, Eun\u00e1polis","Itabela, Bahia, Brazil"],"data":"02\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-01 09:59:58 - Log buscarCarona:
+{"id_user":233,"latitude":["-16.37698382293807","-16.5720414"],"longitude":["-39.578378833830364","-39.55957009999999"],"endereco":["Rua Madri, 452, Dinah Borges, Eun\u00e1polis","Itabela, Bahia, Brazil"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-01 10:00:01 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"120","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"239","id_endereco_final":"240","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-01 10:00:09 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"120","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"239","id_endereco_final":"240","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-01 10:00:09 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"120","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"239","id_endereco_final":"240","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-01 10:00:38 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"120","token":"45G1cXp8"}
+2024-10-01 10:00:43 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"120","token":"45G1cXp8"}
+2024-10-04 01:46:46 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"120","token":"45G1cXp8"}
+2024-10-04 01:47:03 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 01:47:25 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:05:19 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:06:04 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:07:26 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:08:23 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:09:24 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:09:36 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:12:01 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:13:53 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:14:16 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:14:21 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:14:24 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:14:31 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:15:01 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:15:11 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:16:04 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":233,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":239,"id_endereco_final":240,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-10 11:52:59 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"132","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"267","id_endereco_final":"268","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-10 11:58:54 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"132","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"267","id_endereco_final":"268","tipo_pagamento":"1","cartao_id":"60","token":"45G1cXp8"}
+2024-10-10 11:58:55 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"132","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"267","id_endereco_final":"268","tipo_pagamento":"1","cartao_id":"60","token":"45G1cXp8"}
+2024-10-10 12:07:09 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"132","token":"45G1cXp8"}
+2024-10-10 15:25:49 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"132","token":"45G1cXp8"}
+2024-10-11 10:55:18 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-11 11:01:02 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-11 11:01:02 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-11 11:06:15 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-11 11:06:17 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-11 11:06:33 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-11 11:06:35 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-11 11:06:37 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"133","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"269","id_endereco_final":"270","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 08:49:44 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"136","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"275","id_endereco_final":"276","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 08:49:45 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"136","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"275","id_endereco_final":"276","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:15:06 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"137","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"277","id_endereco_final":"278","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:15:06 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"137","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"277","id_endereco_final":"278","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:24:45 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"138","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"279","id_endereco_final":"279","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:24:48 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"138","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"279","id_endereco_final":"279","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:24:50 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"138","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"279","id_endereco_final":"279","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:24:58 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"138","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"279","id_endereco_final":"279","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:28:16 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:28:17 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:28:55 - Log troca status:
+{"status":"5","id_corrida":"139","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:29:00 - Log troca status:
+{"status":"5","id_corrida":"139","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:29:47 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:29:48 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[2],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:30:49 - Log troca status:
+{"status":"5","id_corrida":"136","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:31:54 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:31:56 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:31:58 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:32:15 - Log troca status:
+{"status":"5","id_corrida":"133","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:32:19 - Log troca status:
+{"status":"5","id_corrida":"133","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:32:57 - Log troca status:
+{"status":"5","id_corrida":"137","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:43:35 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:43:37 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:43:39 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:43:45 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"139","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"281","id_endereco_final":"282","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:56:05 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-15 15:56:24 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:56:25 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:56:49 - Log troca status:
+{"status":"5","id_corrida":"140","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-15 15:57:24 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:57:25 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:59:52 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:59:56 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 15:59:58 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"140","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"283","id_endereco_final":"284","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 16:10:38 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"140","token":"45G1cXp8"}
+2024-10-15 16:19:17 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"140","token":"45G1cXp8"}
+2024-10-15 16:19:49 - Log troca status:
+{"status":"3","id_user":"233","id_motivo":0,"id_corrida":"140","token":"45G1cXp8"}
+2024-10-15 16:30:08 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"141","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"285","id_endereco_final":"286","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 16:30:08 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"141","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"285","id_endereco_final":"286","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 16:31:46 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"141","token":"45G1cXp8"}
+2024-10-15 16:33:39 - Log troca status:
+{"status":"5","id_user":"233","id_motivo":5,"id_corrida":"141","token":"45G1cXp8"}
+2024-10-15 16:39:20 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"141","vagas_id":[1,3,4],"vagas_qtd":[1,1,1],"id_endereco_partida":"285","id_endereco_final":"286","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 16:39:21 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"141","vagas_id":[1,3,4],"vagas_qtd":[1,1,1],"id_endereco_partida":"285","id_endereco_final":"286","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 16:41:11 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"141","token":"45G1cXp8"}
+2024-10-15 16:41:52 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"141","token":"45G1cXp8"}
+2024-10-15 17:02:22 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"142","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"287","id_endereco_final":"288","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:02:25 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"142","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"287","id_endereco_final":"288","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:02:28 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"142","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"287","id_endereco_final":"288","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:02:35 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"142","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"287","id_endereco_final":"288","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:02:37 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"142","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"287","id_endereco_final":"288","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:04:20 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:04:22 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:04:24 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:07:15 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:07:15 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:08:33 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":143,"vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":289,"id_endereco_final":290,"tipo_pagamento":1,"cartao_id":59,"token":"45G1cXp8"}
+2024-10-15 17:08:34 - Log solicitarCarona:
+{"id_user":233,"id_corrida":143,"vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":289,"id_endereco_final":290,"tipo_pagamento":1,"cartao_id":59,"token":"45G1cXp8"}
+2024-10-15 17:09:38 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":143,"vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":289,"id_endereco_final":290,"tipo_pagamento":1,"cartao_id":59,"token":"45G1cXp8"}
+2024-10-15 17:09:38 - Log solicitarCarona:
+{"id_user":233,"id_corrida":143,"vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":289,"id_endereco_final":290,"tipo_pagamento":1,"cartao_id":59,"token":"45G1cXp8"}
+2024-10-15 17:10:08 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":143,"vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":289,"id_endereco_final":290,"tipo_pagamento":1,"cartao_id":59,"token":"45G1cXp8"}
+2024-10-15 17:10:09 - Log solicitarCarona:
+{"id_user":233,"id_corrida":143,"vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":289,"id_endereco_final":290,"tipo_pagamento":1,"cartao_id":59,"token":"45G1cXp8"}
+2024-10-15 17:10:41 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:10:42 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"143","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"id_endereco_partida":"289","id_endereco_final":"290","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:11:27 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"143","token":"45G1cXp8"}
+2024-10-15 17:34:38 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"144","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"291","id_endereco_final":"292","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:34:38 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"144","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"291","id_endereco_final":"292","tipo_pagamento":"1","cartao_id":"59","token":"45G1cXp8"}
+2024-10-15 17:34:53 - Log troca status:
+{"status":"1","id_user":"233","id_corrida":"144","token":"45G1cXp8"}
+2024-10-15 17:35:06 - Log troca status:
+{"status":"4","id_user":"233","id_corrida":"144","token":"45G1cXp8"}
+2024-10-25 13:14:25 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932135200823332","-22.93232849587217"],"longitude":["-45.47796193510294","-45.447960756719105"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Rua Doutor Martiniano Salgado, 76, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:15:03 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932135200823332","-22.93232849587217"],"longitude":["-45.47796193510294","-45.447960756719105"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Rua Doutor Martiniano Salgado, 76, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:15:48 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932135200823332","-22.93232849587217"],"longitude":["-45.47796193510294","-45.447960756719105"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Rua Doutor Martiniano Salgado, 76, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:16:13 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932135200823332","-22.943908712524976"],"longitude":["-45.47796193510294","-45.408407561481"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 547, Mombaca, Pindamonhangaba","Avenida Rio de Janeiro, 359, Cidade Nova, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:26:13 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933110010261647","-22.920595974758776"],"longitude":["-45.478040389716625","-45.43753769248724"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Rodovia Vereador Abel Fabr\u00edcio Dias, 330, Casa 1, Condominio Reserva Anaua, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:27:16 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933110010261647","-22.920595974758776"],"longitude":["-45.478040389716625","-45.43753769248724"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Rodovia Vereador Abel Fabr\u00edcio Dias, 330, Casa 1, Condominio Reserva Anaua, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:28:05 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933110010261647","-23.53818825182634"],"longitude":["-45.478040389716625","-46.67492050677538"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Rua Caiubi, 768, Lapa, S\u00e3o Paulo"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:28:50 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.933110010261647","-23.53818825182634"],"longitude":["-45.478040389716625","-46.67492050677538"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Rua Caiubi, 768, Lapa, S\u00e3o Paulo"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:33:55 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932698411186838","-23.559415066308713"],"longitude":["-45.47882728278637","-46.6701790317893"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 114, Mombaca, Pindamonhangaba","Avenida Rebou\u00e7as, 1006, Pinheiros, S\u00e3o Paulo"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:44:35 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.929980837812526","-23.5557714"],"longitude":["-45.475966706871986","-46.6395571"],"endereco":["R. Francisco Joaquim de Oliveira Filho, Momba\u00e7a, ","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:44:43 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.929980837812526","-23.5557714"],"longitude":["-45.475966706871986","-46.6395571"],"endereco":["R. Francisco Joaquim de Oliveira Filho, Momba\u00e7a, ","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 11:06:27 - Log buscarCarona:
+{"id_user":233,"latitude":["-22.932714776365223","-23.024996"],"longitude":["-45.47864120453596","-45.5638792"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 119, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 11:06:30 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"161","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"325","id_endereco_final":"326","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-29 11:06:36 - Log solicitarCorrida:
+{"id_user":233,"id_corrida":"161","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"325","id_endereco_final":"326","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 11:06:36 - Log solicitarCarona:
+{"id_user":233,"id_corrida":"161","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"325","id_endereco_final":"326","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 11:06:49 - Log troca status:
+{"status":"5","id_corrida":"161","id_user":233,"id_motivo":0,"token":"45G1cXp8"}
+2024-11-01 06:19:53 - Log buscarCarona:
+{"id_user":233,"latitude":["-23.34606370264135","-23.359216474093788"],"longitude":["-46.391010358929634","-46.37952949851751"],"endereco":["Av. Imperador, Jardim Sao Sebastiao, ","R. Pedra do Sin\u00f3, \u00c1gua Azul, "],"data":"14\/11\/2024","hora":"","raio_km":"","vagas_id":[1,3,4,2],"vagas_qtd":[1,1,1,1],"caracteristicas":[],"token":"45G1cXp8"}

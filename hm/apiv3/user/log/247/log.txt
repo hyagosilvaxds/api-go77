@@ -1,0 +1,80 @@
+2024-10-18 12:35:24 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.933260384105246","-23.0242543"],"longitude":["-45.47747243195772","-45.5818093"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Shopping Taubate - Avenida Charles Schnneider - Vila Costa, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"20\/10\/2024","hora":"","raio_km":"","vagas_id":[3,2],"vagas_qtd":[2,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-18 12:35:27 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.933260384105246","-23.0242543"],"longitude":["-45.47747243195772","-45.5818093"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Shopping Taubate - Avenida Charles Schnneider - Vila Costa, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"20\/10\/2024","hora":"","raio_km":"","vagas_id":[2],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-18 12:35:33 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.933260384105246","-23.0242543"],"longitude":["-45.47747243195772","-45.5818093"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Shopping Taubate - Avenida Charles Schnneider - Vila Costa, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"20\/10\/2024","hora":"","raio_km":"","vagas_id":[3,2],"vagas_qtd":[1,1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-18 12:35:35 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"150","vagas_id":[3,2],"vagas_qtd":[1,1],"id_endereco_partida":"303","id_endereco_final":"304","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-18 12:35:42 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"150","vagas_id":[3,2],"vagas_qtd":[1,1],"id_endereco_partida":"303","id_endereco_final":"304","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-18 12:35:42 - Log solicitarCarona:
+{"id_user":247,"id_corrida":"150","vagas_id":[3,2],"vagas_qtd":[1,1],"id_endereco_partida":"303","id_endereco_final":"304","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 10:00:52 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926643159453974","-22.960402133480827"],"longitude":["-45.462025590240955","-45.46176340430975"],"endereco":["Erro ao buscar o endere\u00e7o: PlatformException(IO_ERROR, fbjq: DEADLINE_EXCEEDED: ClientCall started after CallOptions deadline was exceeded. Deadline has been exceeded for 25.248010412s. , null, null)","Av. Nossa Sra. do Bom Sucesso, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:01:00 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926643159453974","-22.960402133480827"],"longitude":["-45.462025590240955","-45.46176340430975"],"endereco":["Erro ao buscar o endere\u00e7o: PlatformException(IO_ERROR, fbjq: DEADLINE_EXCEEDED: ClientCall started after CallOptions deadline was exceeded. Deadline has been exceeded for 25.248010412s. , null, null)","Av. Nossa Sra. do Bom Sucesso, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"15:00","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:01:02 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926643159453974","-22.960402133480827"],"longitude":["-45.462025590240955","-45.46176340430975"],"endereco":["Erro ao buscar o endere\u00e7o: PlatformException(IO_ERROR, fbjq: DEADLINE_EXCEEDED: ClientCall started after CallOptions deadline was exceeded. Deadline has been exceeded for 25.248010412s. , null, null)","Av. Nossa Sra. do Bom Sucesso, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:01:20 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926182134043362","-22.98227335199237"],"longitude":["-45.462283082306385","-45.46435374766588"],"endereco":["Praca Monsenhor Marcondes, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:01:32 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926182134043362","-22.98227335199237"],"longitude":["-45.462283082306385","-45.46435374766588"],"endereco":["Praca Monsenhor Marcondes, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"07:01","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:01:34 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926182134043362","-22.98227335199237"],"longitude":["-45.462283082306385","-45.46435374766588"],"endereco":["Praca Monsenhor Marcondes, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:01:39 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926182134043362","-22.98227335199237"],"longitude":["-45.462283082306385","-45.46435374766588"],"endereco":["Praca Monsenhor Marcondes, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"23:01","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:02:09 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926182134043362","-22.98227335199237"],"longitude":["-45.462283082306385","-45.46435374766588"],"endereco":["Praca Monsenhor Marcondes, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:19:32 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926182134043362","-22.98227335199237"],"longitude":["-45.462283082306385","-45.46435374766588"],"endereco":["Praca Monsenhor Marcondes, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"29\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:19:45 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926340235365643","-22.98227335199237"],"longitude":["-45.46212550252676","-45.46435374766588"],"endereco":["R. Dr. Gustavo de Godoy, Centro, ","Rod. Pres. Dutra, Pindamonhangaba, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:25:43 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"160","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"323","id_endereco_final":"324","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 10:41:52 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926274462767665","-22.9828548733739"],"longitude":["-45.461925342679024","-45.463141053915024"],"endereco":["R. dos Expedicion\u00e1rios, Centro, ","BR-116 Rod. Pres. Dutra, Pindamonhangaba, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 10:41:59 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"160","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"323","id_endereco_final":"324","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 10:41:59 - Log solicitarCarona:
+{"id_user":247,"id_corrida":"160","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"323","id_endereco_final":"324","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 10:51:08 - Log troca status:
+{"status":"5","id_corrida":"160","id_user":247,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-29 10:52:38 - Log troca status:
+{"status":"5","id_corrida":"160","id_user":247,"id_motivo":0,"token":"45G1cXp8"}
+2024-10-29 12:06:56 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926313988088584","-22.98304933060224"],"longitude":["-45.46205408871174","-45.4631769284606"],"endereco":["R. dos Expedicion\u00e1rios, Centro, ","BR-116 Rod. Pres. Dutra, Pindamonhangaba, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 12:11:18 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"162","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"327","id_endereco_final":"328","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 12:11:18 - Log solicitarCarona:
+{"id_user":247,"id_corrida":"162","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"327","id_endereco_final":"328","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 12:22:15 - Log troca status:
+{"status":"1","id_user":"247","id_corrida":"162","id_solicitacao":"162","token":"45G1cXp8"}
+2024-10-29 12:29:58 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926313988088584","-22.98304933060224"],"longitude":["-45.46205408871174","-45.4631769284606"],"endereco":["R. dos Expedicion\u00e1rios, Centro, ","BR-116 Rod. Pres. Dutra, Pindamonhangaba, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 12:30:38 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.926313988088584","-22.98304933060224"],"longitude":["-45.46205408871174","-45.4631769284606"],"endereco":["R. dos Expedicion\u00e1rios, Centro, ","BR-116 Rod. Pres. Dutra, Pindamonhangaba, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 12:30:53 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"163","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"329","id_endereco_final":"330","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 12:30:53 - Log solicitarCarona:
+{"id_user":247,"id_corrida":"163","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"329","id_endereco_final":"330","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 12:30:53 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"163","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"329","id_endereco_final":"330","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 12:32:37 - Log troca status:
+{"status":"3","id_user":"247","id_motivo":0,"id_corrida":"163","token":"45G1cXp8"}
+2024-10-29 13:01:35 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.933467881208685","-22.982010987492313"],"longitude":["-45.46156760305166","-45.464283004403114"],"endereco":["R. C\u00f4nego Jos\u00e9 Lu\u00eds Pereira Ribeiro, S\u00e3o Benedito, ","Av. Nossa Sra. do Bom Sucesso, Alto do Cardoso, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 13:01:42 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"165","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"333","id_endereco_final":"334","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 13:04:30 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"165","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"333","id_endereco_final":"334","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 13:05:59 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"165","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"333","id_endereco_final":"334","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 14:51:52 - Log buscarCarona:
+{"id_user":247,"latitude":["-22.933573173516056","-22.98909248960013"],"longitude":["-45.46193975955248","-45.46147774904966"],"endereco":["Av. Nossa Sra. do Bom Sucesso, Alto do Cardoso, ","Pindamonhangaba, Pindamonhangaba, "],"data":"30\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-29 14:51:54 - Log solicitarCorrida:
+{"id_user":247,"id_corrida":"168","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"339","id_endereco_final":"340","tipo_pagamento":"3","cartao_id":"","token":"45G1cXp8"}
+2024-10-29 14:52:36 - Log troca status:
+{"status":"1","id_user":"247","id_corrida":"168","id_solicitacao":"168","token":"45G1cXp8"}
+2024-10-29 14:52:48 - Log troca status:
+{"status":"5","id_corrida":"168","id_user":247,"id_motivo":1,"token":"45G1cXp8"}

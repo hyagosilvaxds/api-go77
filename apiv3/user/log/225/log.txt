@@ -1,0 +1,10 @@
+2024-09-28 12:23:02 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":61,"id_user":225,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":100,"id_endereco_final":101,"tipo_pagamento":3,"cartao_id":"56"}
+2024-09-28 18:47:28 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":67,"id_user":225,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":117,"id_endereco_final":118,"tipo_pagamento":1,"cartao_id":"56"}
+2024-09-28 18:48:57 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":68,"id_user":225,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":120,"id_endereco_final":121,"tipo_pagamento":3,"cartao_id":"56"}
+2024-09-28 19:09:16 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":72,"id_user":225,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":3,"cartao_id":"56"}
+2024-09-29 10:56:50 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":225,"latitude":["-22.929820270471303","-22.9309969"],"longitude":["-45.47332942485809","-45.4585089"],"endereco":["casa","centro da cidade"],"data":"29\/09\/2024","hora":"10:41","raio_km":100,"vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}

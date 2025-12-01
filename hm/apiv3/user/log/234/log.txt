@@ -1,0 +1,228 @@
+2024-09-29 12:41:52 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.93474373438654","-22.931000435987084"],"longitude":["-45.4802542179823","-45.444680750370026"],"endereco":["Rua Gilberto Moraes C\u00e9sar, 62, Mombaca, Pindamonhangaba","Avenida Raul N\u00e9lson Guaragna, 311, Jardim Santa Cecilia, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:47:32 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.93474373438654","-23.55621941480641"],"longitude":["-45.4802542179823","-46.64795558899641"],"endereco":["Rua Gilberto Moraes C\u00e9sar, 62, Mombaca, Pindamonhangaba","Rua Santo Ant\u00f4nio, 1311, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:51:07 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 12:52:58 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":234,"latitude":[-22.933716136253966766389567055739462375640869140625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.47888092696666006986561114899814128875732421875,-46.629207618534564971923828125],"endereco":["ua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 12:58:45 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:01:18 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:03:53 - Log buscarCarona:
+{"token":"45G1cXp8","id_user":234,"latitude":[-23.0249960000000015725163393653929233551025390625,-23.5647704818740493237783084623515605926513671875],"longitude":[-45.563879200000002356318873353302478790283203125,-46.629207618534564971923828125],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[]}
+2024-09-29 13:20:32 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:55:05 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"09:55","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[1],"token":"45G1cXp8"}
+2024-09-29 13:55:35 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"23:00","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[1],"token":"45G1cXp8"}
+2024-09-29 13:55:44 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:55:53 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"23:00","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-29 13:56:00 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:56:14 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[2],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 13:56:21 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.933716136253967","-23.56477048187405"],"longitude":["-45.47888092696666","-46.629207618534565"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 16, Mombaca, Pindamonhangaba","Largo Nossa Senhora da Concei\u00e7\u00e3o, 78, Se, S\u00e3o Paulo"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[4],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:13:39 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.932793823236796","-22.940523211053293"],"longitude":["-45.47814432531595","-45.45368727296591"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 602, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 514, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-29 15:16:07 - Log oferecer:
+{"id_user":234,"latitude":["-22.932932155151008","-22.941037911536604"],"longitude":["-45.478151366114616","-45.45272435992956"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 612, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 573, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"11:14","obs":"","vagas_id":[1],"vagas_qtd":[1],"vagas_valor":["R$0,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-29 15:17:31 - Log oferecer:
+{"id_user":234,"latitude":["-22.932932155151008","-22.941037911536604"],"longitude":["-45.478151366114616","-45.45272435992956"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 612, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 573, Parque Sao Domingos, Pindamonhangaba"],"data":"30\/09\/2024","hora":"11:17","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$15,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-29 15:23:39 - Log oferecer:
+{"id_user":234,"latitude":["-22.933083764296466","-23.026554408184214"],"longitude":["-45.47812286764383","-45.56384827941656"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 632, Mombaca, Pindamonhangaba","Rua dos Oper\u00e1rios, 183, Centro, Taubat\u00e9"],"data":"09\/10\/2024","hora":"11:23","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$10,00"],"caracteristicas":[1],"token":"45G1cXp8"}
+2024-09-29 15:34:47 - Log oferecer:
+{"id_user":234,"latitude":["-22.93311680333415","-22.94734538075772"],"longitude":["-45.479009672999375","-45.44670112431049"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 76, Mombaca, Pindamonhangaba",", Haras, Pindamonhangaba"],"data":"30\/09\/2024","hora":"11:34","obs":"","vagas_id":[1],"vagas_qtd":[1],"vagas_valor":["R$5,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 08:02:47 - Log oferecer:
+{"id_user":234,"latitude":["-22.931753241584943","-22.97495349993596"],"longitude":["-45.47800820320845","-45.41534911841154"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 492, Mombaca, Pindamonhangaba","Estrada Municipal Francisco Barros Abreu, 193\u2013905, Borba, Pindamonhangaba"],"data":"01\/10\/2024","hora":"04:02","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$0,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 08:32:14 - Log oferecer:
+{"id_user":234,"latitude":["-22.933050725250723","-23.024916239631466"],"longitude":["-45.478401817381375","-45.56681748479605"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 632, Mombaca, Pindamonhangaba","Rua Agostinho Danelli, 127, Vila Edmundo, Taubat\u00e9"],"data":"03\/10\/2024","hora":"04:32","obs":"","vagas_id":[1],"vagas_qtd":[6],"vagas_valor":["R$20,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 08:43:45 - Log oferecer:
+{"id_user":234,"latitude":["-22.93314304929293","-23.01189905040072"],"longitude":["-45.47815840691328","-45.54438550025225"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 632, Mombaca, Pindamonhangaba","Rua Helvino de Moraes, 1087, Vila Sao Jose, Taubat\u00e9"],"data":"03\/10\/2024","hora":"04:43","obs":"","vagas_id":[1,3],"vagas_qtd":[5,1],"vagas_valor":["R$10,00","R$15,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 08:50:30 - Log oferecer:
+{"id_user":234,"latitude":["-22.932958709921948","-23.024996"],"longitude":["-45.478072576224804","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"05\/10\/2024","hora":"04:50","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$15,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 08:53:24 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.93226025595832","-23.024996"],"longitude":["-45.478101409971714","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 548, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"02\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[2],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 08:54:18 - Log oferecer:
+{"id_user":234,"latitude":["-22.932589721649965","-23.025881123009913"],"longitude":["-45.478072576224804","-45.56639671325684"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 578, Mombaca, Pindamonhangaba",", Vila Edmundo, Taubat\u00e9"],"data":"02\/10\/2024","hora":"04:53","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$10,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 08:57:46 - Log oferecer:
+{"id_user":234,"latitude":["-22.932227525489708","-23.027194982524513"],"longitude":["-45.47813694924116","-45.56287597864866"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 530, Mombaca, Pindamonhangaba","Rua dos Oper\u00e1rios, 69, Centro, Taubat\u00e9"],"data":"05\/10\/2024","hora":"04:57","obs":"","vagas_id":[1],"vagas_qtd":[6],"vagas_valor":["R$25,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 09:00:36 - Log oferecer:
+{"id_user":234,"latitude":["-16.37372653417763","-16.4443537"],"longitude":["-39.590515829622746","-39.0653656"],"endereco":["Rua da Bica, 152\u2013182, Centro, Eun\u00e1polis","Porto Seguro, Bahia, Brazil"],"data":"10\/10\/2024","hora":"05:00","obs":"","vagas_id":[1],"vagas_qtd":[5],"vagas_valor":["R$25,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 09:10:30 - Log oferecer:
+{"id_user":234,"latitude":["-22.930666334705137","-23.024996"],"longitude":["-45.477700755000114","-45.5638792"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 395, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"11\/10\/2024","hora":"05:06","obs":"","vagas_id":[1],"vagas_qtd":[7],"vagas_valor":["R$40,00"],"caracteristicas":[1],"token":"45G1cXp8"}
+2024-09-30 09:17:02 - Log oferecer:
+{"id_user":234,"latitude":["-22.933373704735363","-22.930548071299693"],"longitude":["-45.47820132225751","-45.4490664973855"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 652, Mombaca, Pindamonhangaba","Rua Francisco de Oliveira Linha, 444, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"12\/10\/2024","hora":"05:16","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-30 09:17:02 - Log oferecer:
+{"id_user":234,"latitude":["-22.933373704735363","-22.930548071299693"],"longitude":["-45.47820132225751","-45.4490664973855"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 652, Mombaca, Pindamonhangaba","Rua Francisco de Oliveira Linha, 444, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"12\/10\/2024","hora":"05:16","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-30 09:17:11 - Log oferecer:
+{"id_user":234,"latitude":["-22.933373704735363","-22.930548071299693"],"longitude":["-45.47820132225751","-45.4490664973855"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 652, Mombaca, Pindamonhangaba","Rua Francisco de Oliveira Linha, 444, Vila Sao Judas Tadeu, Pindamonhangaba"],"data":"12\/10\/2024","hora":"05:16","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-30 10:22:50 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.93251067465926","-22.915404561906605"],"longitude":["-45.47797970473766","-45.4451310262084"],"endereco":["Rua Professora \u00cdsis Castro de Mello C\u00e9sar, 98, Mombaca, Pindamonhangaba","Rua Doutor L\u00facio Toledo Freitas, 204, Loteamento Residencial Andrade, Pindamonhangaba"],"data":"12\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[3],"caracteristicas":[],"token":"45G1cXp8"}
+2024-09-30 10:23:36 - Log oferecer:
+{"id_user":234,"latitude":["-22.93262276080818","-22.920522170449463"],"longitude":["-45.47809403389692","-45.43629381805658"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 582, Mombaca, Pindamonhangaba","Rua Therezinha Antunes de Moura, Condominio Village Do Sol, Pindamonhangaba"],"data":"12\/10\/2024","hora":"06:23","obs":"","vagas_id":[1],"vagas_qtd":[2],"vagas_valor":["R$10,00"],"caracteristicas":[1],"token":"45G1cXp8"}
+2024-09-30 10:25:05 - Log oferecer:
+{"id_user":234,"latitude":["-22.93183228901776","-23.024996","-23.5557714"],"longitude":["-45.47803703695536","-45.5638792","-46.6395571"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 500, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"06:24","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$40,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 10:37:47 - Log oferecer:
+{"id_user":234,"latitude":["-22.932220732372585","-23.021917867519054"],"longitude":["-45.478151366114616","-45.55333200842142"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 530, Mombaca, Pindamonhangaba","Rua Doutor Souza Alves, 130, Centro, Taubat\u00e9"],"data":"13\/10\/2024","hora":"06:37","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$20,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-30 11:47:14 - Log oferecer:
+{"id_user":234,"latitude":["-22.93207591538567","-22.926355366146577"],"longitude":["-45.47798674553633","-45.43739285320044"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 510, Mombaca, Pindamonhangaba","Rua Regina C\u00e9lia Pestana C\u00e9sar, 407, Residencial Castorila, Pindamonhangaba"],"data":"12\/10\/2024","hora":"07:47","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$20,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 11:57:16 - Log oferecer:
+{"id_user":234,"latitude":["-22.93314304929293","-23.024996","-23.5557714"],"longitude":["-45.478194281458855","-45.5638792","-46.6395571"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 632, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"07:56","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$30,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 12:03:44 - Log oferecer:
+{"id_user":234,"latitude":["-22.93069258113881","-22.92075871466278"],"longitude":["-45.47782950103283","-45.435248762369156"],"endereco":["Avenida Alferes Adriano Gomes Vieira de Almeida, 207, Mombaca, Pindamonhangaba","Rua Therezinha Antunes de Moura, Residencial Parque das Palmeiras, Pindamonhangaba"],"data":"12\/11\/2024","hora":"08:03","obs":"","vagas_id":[1],"vagas_qtd":[5],"vagas_valor":["R$20,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 12:24:12 - Log oferecer:
+{"id_user":234,"latitude":["-22.932912393457627","-22.922048892411603"],"longitude":["-45.47807995229959","-45.45178424566984"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Rua S\u00e3o Jo\u00e3o Bosco, 727, Crispim, Pindamonhangaba"],"data":"12\/10\/2024","hora":"08:23","obs":"","vagas_id":[1],"vagas_qtd":[2],"vagas_valor":["R$10,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-09-30 12:38:06 - Log oferecer:
+{"id_user":234,"latitude":["-22.931562107171988","-22.938717575647004"],"longitude":["-45.477958247065544","-45.45625749975443"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 474, Mombaca, Pindamonhangaba","Rua S\u00e3o Sebasti\u00e3o, 74, Campo Alegre, Pindamonhangaba"],"data":"13\/10\/2024","hora":"08:37","obs":"","vagas_id":[1],"vagas_qtd":[5],"vagas_valor":["R$10,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-09-30 12:59:36 - Log oferecer:
+{"id_user":234,"latitude":["-22.93334066576036","-23.024996","-23.5557714"],"longitude":["-45.478101409971714","-45.5638792","-46.6395571"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 688, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil","","S\u00e3o Paulo, S\u00e3o Paulo, Brazil"],"data":"12\/10\/2024","hora":"08:59","obs":"","vagas_id":[1],"vagas_qtd":[2],"vagas_valor":["R$10,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-01 09:52:24 - Log oferecer:
+{"id_user":234,"latitude":["-16.364525026798926","-16.4443537"],"longitude":["-39.542222656309605","-39.0653656"],"endereco":["R. 26, , ","Porto Seguro, Bahia, Brazil"],"data":"02\/10\/2024","hora":"09:52","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$40,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-01 09:57:43 - Log buscarCarona:
+{"id_user":234,"latitude":["-16.371828622097592","-16.5780524"],"longitude":["-39.577338472008705","-39.5512995"],"endereco":["R. Princesa Isabel, Pequi, ","Itabela-BA - Rua B - Bandeirantes, Itabela - Bahia, Brazil"],"data":"03\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[3],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-01 09:59:07 - Log oferecer:
+{"id_user":234,"latitude":["-16.372296989913988","-16.5780524"],"longitude":["-39.58025973290205","-39.5512995"],"endereco":["Av. Santos Dumont, Pequi, ","Itabela-BA - Rua B - Bandeirantes, Itabela - Bahia, Brazil"],"data":"03\/10\/2024","hora":"09:58","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$45,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-04 01:42:49 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 01:43:07 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 01:43:39 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 01:43:55 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-07 10:42:09 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:43:14 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:43:33 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:43:56 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:43:56 - Log solicitarCarona:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:44:16 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:45:03 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:45:03 - Log solicitarCarona:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:45:14 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:45:54 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:47:14 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:48:15 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:52:11 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:56:10 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-07 10:57:29 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":129,"id_user":234,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":261,"id_endereco_final":262,"tipo_pagamento":2,"cartao_id":"56"}
+2024-10-10 11:48:15 - Log oferecer:
+{"id_user":234,"latitude":["-22.93228341430398","-23.022808715305707"],"longitude":["-45.47860197722912","-45.56822296231986"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 163, Mombaca, Pindamonhangaba","Avenida Monteiro Lobato, 535, Moncao, Taubat\u00e9"],"data":"31\/10\/2024","hora":"07:47","obs":"Ola","vagas_id":[1,3],"vagas_qtd":[2,1],"vagas_valor":["R$15,00","R$5,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-10 11:50:19 - Log oferecer:
+{"id_user":234,"latitude":["-22.93228341430398","-23.022808715305707"],"longitude":["-45.47860197722912","-45.56822296231986"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 163, Mombaca, Pindamonhangaba","Avenida Monteiro Lobato, 535, Moncao, Taubat\u00e9"],"data":"31\/10\/2024","hora":"05:25","obs":"","vagas_id":[1,3],"vagas_qtd":[3,3],"vagas_valor":["R$30,00","R$20,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-11 10:50:32 - Log oferecer:
+{"id_user":234,"latitude":["-22.932862989211568","-23.02254056672968"],"longitude":["-45.47808699309826","-45.56257456541061"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Avenida M Lolato, 25, Moncao, Taubat\u00e9"],"data":"30\/10\/2024","hora":"06:50","obs":"","vagas_id":[1],"vagas_qtd":[6],"vagas_valor":["R$20,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-11 11:01:41 - Log oferecer:
+{"id_user":234,"latitude":["-22.932862989211568","-23.02254056672968"],"longitude":["-45.47808699309826","-45.56257456541061"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 624, Mombaca, Pindamonhangaba","Avenida M Lolato, 25, Moncao, Taubat\u00e9"],"data":"30\/10\/2024","hora":"18:30","obs":"assadas","vagas_id":[1],"vagas_qtd":[5],"vagas_valor":["R$15,00"],"caracteristicas":[2,1],"token":"45G1cXp8"}
+2024-10-15 08:48:26 - Log oferecer:
+{"id_user":234,"latitude":["-22.9336532","-23.024996"],"longitude":["-45.4772181","-45.5638792"],"endereco":["Rua Eduardo da Silva Neto - Residencial Mombaca, Pindamonhangaba - S\u00e3o Paulo, Brazil","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"26\/10\/2024","hora":"06:30","obs":"Olaa","vagas_id":[1,3],"vagas_qtd":[4,1],"vagas_valor":["R$20,00","R$5,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-15 15:11:00 - Log oferecer:
+{"id_user":234,"latitude":["-22.93311989109428","-23.0239442"],"longitude":["-45.47802966088056","-45.558798"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Taubat\u00e9 Country Club - Rua Conselheiro Moreira de Barros - Centro, Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"25\/10\/2024","hora":"19:30","obs":"oii","vagas_id":[1,3],"vagas_qtd":[3,1],"vagas_valor":["R$15,00","R$20,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-15 15:16:29 - Log oferecer:
+{"id_user":234,"latitude":["-22.93311989109428","-23.4302175"],"longitude":["-45.47802966088056","-46.47167109999999"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 698, Mombaca, Pindamonhangaba","Aeroporto Internacional de Guarulhos (GRU) - Rodovia H\u00e9lio Smidt - Aeroporto, Guarulhos - S\u00e3o Paulo, Brazil"],"data":"25\/10\/2024","hora":"19:30","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-15 15:27:30 - Log oferecer:
+{"id_user":234,"latitude":["-23.024996","-22.931927701677928"],"longitude":["-45.5638792","-45.4785305634141"],"endereco":["Taubat\u00e9 - S\u00e3o Paulo, Brazil","Rua Brasilina Corr\u00eaa Leite Casagrande, 197, Mombaca, Pindamonhangaba"],"data":"25\/10\/2024","hora":"20:00","obs":"dadas","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$30,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-15 15:55:34 - Log oferecer:
+{"id_user":234,"latitude":["-23.02446634921018","-22.93243502417574"],"longitude":["-45.5688039958477","-45.47776512801647"],"endereco":["Rua das Tr\u00eas Meninas, 166, Vila Edmundo, Taubat\u00e9","Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 559, Mombaca, Pindamonhangaba"],"data":"25\/10\/2024","hora":"19:30","obs":"Olla","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$15,00"],"caracteristicas":[2],"token":"45G1cXp8"}
+2024-10-15 17:34:03 - Log oferecer:
+{"id_user":234,"latitude":["-22.931578472487697","-23.4302175"],"longitude":["-45.47812286764383","-46.47167109999999"],"endereco":["Avenida Capit\u00e3o Jos\u00e9 Monteiro do Amaral, 482, Mombaca, Pindamonhangaba","Aeroporto Internacional de Guarulhos (GRU) - Rodovia H\u00e9lio Smidt - Aeroporto, Guarulhos - S\u00e3o Paulo, Brazil"],"data":"31\/10\/2024","hora":"13:33","obs":"","vagas_id":[1],"vagas_qtd":[2],"vagas_valor":["R$10,00"],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-17 09:42:40 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 10:59:08 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:01:00 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:18:08 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:18:14 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:19:55 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:22:41 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:26:06 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:26:43 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:27:23 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 11:30:30 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:00:54 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:01:16 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:01:18 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:01:21 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:03:00 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:10:08 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:10:11 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:10:13 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:10:16 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:12:54 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:13:03 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:14:24 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:14:59 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:15:15 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:16:00 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:16:48 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:17:16 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:17:17 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:19:33 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:26:30 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:26:34 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:27:08 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-17 12:28:37 - Log geral:
+{"id_user":234,"tipo":1,"token":"45G1cXp8"}
+2024-10-25 13:15:00 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.93246127026664","-22.932920421645907"],"longitude":["-45.478823594748974","-45.44555280357599"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 142, Mombaca, Pindamonhangaba",", Haras, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[4],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:15:35 - Log oferecer:
+{"id_user":234,"latitude":["-22.931881693639827","-22.946489540895367"],"longitude":["-45.4786304756999","-45.39911706000566"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 200, Mombaca, Pindamonhangaba",", Residencial Comercial Cidade Vista Alegre, Pindamonhangaba"],"data":"28\/10\/2024","hora":"09:15","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$15,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-25 13:26:42 - Log buscarCarona:
+{"id_user":234,"latitude":["-22.932823465801743","-22.9193453105298"],"longitude":["-45.47871630638838","-45.439386405050755"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 110, Mombaca, Pindamonhangaba","Rua Su\u00ed\u00e7a, 1945, Loteamento Residencial Andrade, Pindamonhangaba"],"data":"28\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[3],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:27:09 - Log oferecer:
+{"id_user":234,"latitude":["-22.93243502417574","-22.91969364483779"],"longitude":["-45.47863785177469","-45.431099720299244"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 149, Mombaca, Pindamonhangaba","Avenida Am\u00e9lia Prata Balarin, 140, Residencial Parque das Palmeiras, Pindamonhangaba"],"data":"28\/10\/2024","hora":"09:27","obs":"","vagas_id":[1],"vagas_qtd":[3],"vagas_valor":["R$15,00"],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-25 13:28:01 - Log oferecer:
+{"id_user":234,"latitude":["-22.93243502417574","-23.55910189712563"],"longitude":["-45.47863785177469","-46.680315770208836"],"endereco":["Rua Brasilina Corr\u00eaa Leite Casagrande, 149, Mombaca, Pindamonhangaba","Pra\u00e7a Benedito Calixto, 86, Pinheiros, S\u00e3o Paulo"],"data":"28\/10\/2024","hora":"09:27","obs":"","vagas_id":[1],"vagas_qtd":[4],"vagas_valor":["R$30,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}
+2024-10-29 11:04:34 - Log oferecer:
+{"id_user":234,"latitude":["-22.933212215089327","-23.024996"],"longitude":["-45.477908290922635","-45.5638792"],"endereco":["Rua Professora \u00cdsis Castro de Mello C\u00e9sar, 35, Mombaca, Pindamonhangaba","Taubat\u00e9 - S\u00e3o Paulo, Brazil"],"data":"30\/10\/2024","hora":"07:04","obs":"","vagas_id":[1],"vagas_qtd":[2],"vagas_valor":["R$10,00"],"caracteristicas":[1,2],"token":"45G1cXp8"}

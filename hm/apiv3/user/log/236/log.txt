@@ -1,0 +1,70 @@
+2024-10-04 01:06:38 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932933081480307","-22.931025447232887"],"longitude":["-45.47801189124584","-45.444566421210766"],"endereco":["Av. Cap. Jo\u00e3o Monteiro do Amaral, Momba\u00e7a, ","Av. Prof\u00ba Manoel C\u00e9sar Ribeiro, Santa Cec\u00edlia, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 01:06:44 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"125","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"253","id_endereco_final":"254","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-04 01:06:53 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"125","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"253","id_endereco_final":"254","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 01:06:53 - Log solicitarCarona:
+{"id_user":236,"id_corrida":"125","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"253","id_endereco_final":"254","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 01:09:29 - Log troca status:
+{"status":"1","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:10:21 - Log troca status:
+{"status":"4","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:32:24 - Log troca status:
+{"status":"4","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:33:53 - Log troca status:
+{"status":"4","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:34:17 - Log troca status:
+{"status":"4","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:34:59 - Log troca status:
+{"status":"4","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:35:07 - Log troca status:
+{"status":"4","id_user":"236","id_corrida":"125","token":"45G1cXp8"}
+2024-10-04 01:44:52 - Log solicitarCorrida:
+{"token":"45G1cXp8","id_corrida":120,"id_user":236,"vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":129,"id_endereco_final":130,"tipo_pagamento":1,"cartao_id":"56"}
+2024-10-04 02:20:04 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.933163119728558","-22.93146545913512"],"longitude":["-45.47775574028492","-45.44530771672726"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","Av. Prof\u00ba Manoel C\u00e9sar Ribeiro, Ipiranga, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:25:23 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"127","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"257","id_endereco_final":"258","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-04 02:25:31 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"127","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"257","id_endereco_final":"258","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 02:25:31 - Log solicitarCarona:
+{"id_user":236,"id_corrida":"127","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"257","id_endereco_final":"258","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 02:25:49 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:25:52 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"127","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"257","id_endereco_final":"258","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-04 02:27:07 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:27:47 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"02:27","raio_km":"96.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:27:56 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:28:28 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"02:28","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:28:30 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:29:17 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"02:29","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:29:18 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:32:55 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"02:32","raio_km":"100.0","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:32:56 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:33:05 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"126","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"255","id_endereco_final":"256","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-04 02:33:11 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"126","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"255","id_endereco_final":"256","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 02:33:11 - Log solicitarCarona:
+{"id_user":236,"id_corrida":"126","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"255","id_endereco_final":"256","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 02:33:16 - Log buscarCarona:
+{"id_user":236,"latitude":["-22.932940183338108","-22.932651477079332"],"longitude":["-45.47777149826288","-45.446368865668774"],"endereco":["R. Isis Castro de Mello Cesar, Residencial e Comercial Portal dos Eucaliptos, ","R. Sete, Residencial Primavera, "],"data":"07\/10\/2024","hora":"","raio_km":"","vagas_id":[1],"vagas_qtd":[1],"caracteristicas":[],"token":"45G1cXp8"}
+2024-10-04 02:33:23 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"128","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"259","id_endereco_final":"260","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
+2024-10-04 02:33:28 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"128","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"259","id_endereco_final":"260","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 02:33:37 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"128","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"259","id_endereco_final":"260","tipo_pagamento":"2","cartao_id":"","token":"45G1cXp8"}
+2024-10-04 02:33:49 - Log solicitarCorrida:
+{"id_user":236,"id_corrida":"127","vagas_id":[1],"vagas_qtd":[1],"id_endereco_partida":"257","id_endereco_final":"258","tipo_pagamento":"1","cartao_id":"null","token":"45G1cXp8"}
