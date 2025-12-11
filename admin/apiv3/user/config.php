@@ -4,17 +4,26 @@ header('Access-Control-Allow-Origin: *');
 ini_set('display_errors', 0);
 error_reporting(E_ALL & ~E_DEPRECATED & ~E_WARNING);
 
+// Detectar ambiente
+$host = $_SERVER['HTTP_HOST'] ?? $_SERVER['SERVER_NAME'] ?? 'localhost';
+$isProduction = (strpos($host, 'go77destinos.online') !== false);
 
-$dominiowww = $_SERVER['SERVER_NAME'];
-$dominio = str_replace('www.', '', $_SERVER['HTTP_HOST']);
+$dominiowww = $_SERVER['SERVER_NAME'] ?? 'localhost';
+$dominio = str_replace('www.', '', $host);
 date_default_timezone_set('America/Sao_Paulo');
-$porta = $_SERVER['SERVER_PORT'] != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
+$porta = ($_SERVER['SERVER_PORT'] ?? '80') != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
 
 define('RAIZ', dirname(__FILE__));
 define('PASTA_RAIZ', '/iusui1872a5a78512rew');
-// URL da home
-define('HOME_URI', 'http://' . $dominiowww . $porta . '/www/admin/apiv3/user');
-define('LINK_LOGIN', 'http://' . $dominiowww . $porta . '/www/admin/login');
+
+// URL da home - Detectar ambiente
+if ($isProduction) {
+    define('HOME_URI', 'https://go77destinos.online/admin/apiv3/user');
+    define('LINK_LOGIN', 'https://go77destinos.online/admin/login');
+} else {
+    define('HOME_URI', 'http://' . $dominiowww . $porta . '/www/admin/apiv3/user');
+    define('LINK_LOGIN', 'http://' . $dominiowww . $porta . '/www/admin/login');
+}
 // usado para acessos no front
 
 // email remetente padrão
@@ -74,11 +83,18 @@ define('PEDIDO_CANCELADO', 3);
 
 define('PERC_EMPRESA', 20);
 
-//CONEXAO BD
-define('MYSQL', 'localhost');
-define('USER', 'root');
-define('PASS', 'root');
-define('BD', 'go77app');
+//CONEXAO BD - Detectar ambiente
+if ($isProduction) {
+    define('MYSQL', 'localhost');
+    define('USER', 'go77app');
+    define('PASS', 'Go77@2024Secure!');
+    define('BD', 'go77app');
+} else {
+    define('MYSQL', 'localhost');
+    define('USER', 'root');
+    define('PASS', 'root');
+    define('BD', 'go77app');
+}
 
 // ASAAS sandbox teste
 define('ASAAS_URL', 'https://sandbox.asaas.com/api/');
