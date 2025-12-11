@@ -4,18 +4,21 @@ header('Access-Control-Allow-Origin: *');
 ini_set('display_errors', 0);
 error_reporting(0);
 
+// Detectar ambiente
+$host = $_SERVER['HTTP_HOST'] ?? $_SERVER['SERVER_NAME'] ?? 'localhost';
+$isProduction = (strpos($host, 'go77destinos.online') !== false);
 
-$dominiowww = $_SERVER['SERVER_NAME'];
-$dominio = str_replace('www.', '', $_SERVER['HTTP_HOST']);
+$dominiowww = $_SERVER['SERVER_NAME'] ?? 'localhost';
+$dominio = str_replace('www.', '', $host);
 date_default_timezone_set('America/Sao_Paulo');
-$porta = $_SERVER['SERVER_PORT'] != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
+$porta = ($_SERVER['SERVER_PORT'] ?? '80') != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
 
 // define('DOMINIO', $dominio);
 define('RAIZ', dirname(__FILE__));
 define('PASTA_RAIZ', '/iusui1872a5a78512rew');
 
 // Detectar ambiente para URLs
-if ($_SERVER['SERVER_NAME'] == 'go77destinos.online' || $_SERVER['SERVER_NAME'] == 'www.go77destinos.online') {
+if ($isProduction) {
     // Produção VPS
     define('HOME_URI', 'https://go77destinos.online/apiv3/user');
     define('HOME_URI_ROOT', 'https://go77destinos.online');
@@ -66,7 +69,7 @@ define('RAIO_PARADA', '100');//metros
 define('RAIO_KM', '100');//KM
 
 //CONEXAO BD - Detecta ambiente automaticamente
-if ($_SERVER['SERVER_NAME'] == 'go77destinos.online' || $_SERVER['SERVER_NAME'] == 'www.go77destinos.online') {
+if ($isProduction) {
     // Produção VPS
     define('MYSQL', 'localhost');
     define('USER', 'go77app');
