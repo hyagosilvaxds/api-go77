@@ -115,19 +115,24 @@ class ReservasController
             $valor_anunciante = $this->input->valor / 100 * $perc_final;
             $valor_admin = $this->input->valor - $valor_anunciante;
 
+            // Número de parcelas (padrão: 1 = à vista)
+            $parcelas = isset($this->input->parcelas) ? (int)$this->input->parcelas : 1;
+            // Valida limite de parcelas (máximo 12 para maioria das bandeiras, 21 para Visa/Master)
+            if ($parcelas < 1) $parcelas = 1;
+            if ($parcelas > 12) $parcelas = 12;
 
             if(empty($dadosCartao['token'])){
 
 
                 $AprovarCartao = $model_pagamentos->cobrarCartao($this->input->valor,$dadosCartao['customer'],$dadosCartao['token'],decryptitem($dadosCartao['card_number']),
                 decryptitem($dadosCartao['month']),decryptitem($dadosCartao['year']),decryptitem($dadosCartao['cvv']),decryptitem($dadosCartao['nome']),decryptitem($dadosCartao['cpf']),
-                decryptitem($dadosCartao['cep']),decryptitem($dadosCartao['numero']),$email,$celular);
+                decryptitem($dadosCartao['cep']),decryptitem($dadosCartao['numero']),$email,$celular,$parcelas);
 
             }else{
 
 
                 $AprovarCartao = $model_pagamentos->cobrarCartaoComToken($this->input->valor,$dadosCartao['customer'],$dadosCartao['token'],decryptitem($dadosCartao['nome']),
-                decryptitem($dadosCartao['cpf']),decryptitem($dadosCartao['cep']),decryptitem($dadosCartao['numero']),$email,$celular);
+                decryptitem($dadosCartao['cpf']),decryptitem($dadosCartao['cep']),decryptitem($dadosCartao['numero']),$email,$celular,$parcelas);
             }
 
 
@@ -139,6 +144,9 @@ class ReservasController
 
               $token = $AprovarCartao['payment_id'];
               $status_pagamento = $AprovarCartao['status_pagamento'];
+              $installment_id = $AprovarCartao['installment'] ?? null;
+              $valor_parcela = $AprovarCartao['installmentValue'] ?? null;
+              $qtd_parcelas = $AprovarCartao['installmentCount'] ?? 1;
 
 
               if($status_pagamento == "CONFIRMED"){
@@ -147,10 +155,11 @@ class ReservasController
                 $status_final = 2;
               }
 
-              //cria pagamento
+              //cria pagamento com dados de parcelamento
               $id_pagamento = $model_pagamentos->save(
               $this->input->id_user, $this->input->id_anuncio, $this->input->tipo_pagamento, moneySQL($this->input->valor),
-              moneySQL($valor_anunciante), moneySQL($valor_admin), $this->input->cartao_id, $qrcode = "", $token, $status_pagamento
+              moneySQL($valor_anunciante), moneySQL($valor_admin), $this->input->cartao_id, $qrcode = "", $token, $status_pagamento,
+              $qtd_parcelas, $valor_parcela, $installment_id
               );
 
               //cria reserva

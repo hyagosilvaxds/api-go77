@@ -25,11 +25,34 @@ class Pagamentos extends Conexao
     }
 
 
-    public function save($id_user,$id_anuncio,$tipo_pagamento,$valor_final,$valor_anunciante,$valor_admin,$cartao_id, $qrcode, $token,$status){
+    public function save($id_user,$id_anuncio,$tipo_pagamento,$valor_final,$valor_anunciante,$valor_admin,$cartao_id, $qrcode, $token,$status,$parcelas = 1,$valor_parcela = null,$installment_id = null){
+
+        // Se valor_parcela não foi informado, calcula baseado nas parcelas
+        if ($valor_parcela === null && $parcelas > 0) {
+            $valor_parcela = $valor_final / $parcelas;
+        }
 
         $sql_cadastro = $this->mysqli->prepare(
-            "INSERT INTO `app_pagamentos`(`app_users_id`, `app_anuncios_id`,`tipo_pagamento`,`valor_final`,`valor_anunciante`,`valor_admin`,`cartao_id`,`qrcode`,`data`,`token`,`status`)
-             VALUES ('$id_user','$id_anuncio','$tipo_pagamento','$valor_final','$valor_anunciante','$valor_admin','$cartao_id','$qrcode', '$this->data_atual','$token','$status')"
+            "INSERT INTO `app_pagamentos`(`app_users_id`, `app_anuncios_id`,`tipo_pagamento`,`valor_final`,`valor_anunciante`,`valor_admin`,`parcelas`,`valor_parcela`,`installment_id`,`cartao_id`,`qrcode`,`data`,`token`,`status`)
+             VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)"
+        );
+        // Tipos: i=int, d=double, s=string
+        // 14 parâmetros: int, int, int, double, double, double, int, double, string, string, string, string, string, string
+        $sql_cadastro->bind_param("iiidddidssssss", 
+            $id_user, 
+            $id_anuncio, 
+            $tipo_pagamento, 
+            $valor_final, 
+            $valor_anunciante, 
+            $valor_admin, 
+            $parcelas, 
+            $valor_parcela, 
+            $installment_id, 
+            $cartao_id, 
+            $qrcode, 
+            $this->data_atual, 
+            $token, 
+            $status
         );
         $sql_cadastro->execute();
 
@@ -38,7 +61,9 @@ class Pagamentos extends Conexao
         $Param = [
             "status" => "01",
             "id" => $id_pagamento,
-            "msg" => "Reserva efetuada com sucesso."
+            "msg" => "Reserva efetuada com sucesso.",
+            "parcelas" => $parcelas,
+            "valor_parcela" => $valor_parcela
         ];
 
         return $Param;
@@ -244,28 +269,34 @@ class Pagamentos extends Conexao
         // Fecha a sessão cURL
         curl_close($ch);
     }
-    public function cobrarCartao($valor,$customer,$token,$card_number,$month,$year,$cvv,$nome,$cpf,$cep,$numero,$email,$celular)
+    public function cobrarCartao($valor,$customer,$token,$card_number,$month,$year,$cvv,$nome,$cpf,$cep,$numero,$email,$celular,$parcelas = 1)
     {
 
         // URL da API
         $url = ASAAS_URL_PRODUCTION.'v3/payments';
 
         if(!empty($token)){
-            // Dados da requisição
+            // Dados da requisição com token existente
             $data = array(
                 'billingType' => 'CREDIT_CARD',
                 'customer' => $customer,
-                'value' => $valor,
                 'dueDate' => $this->data_atual,
                 'creditCardToken' => $token,
                 'authorizeOnly' => true
             );
+            
+            // Parcelamento com token
+            if ($parcelas >= 2) {
+                $data['installmentCount'] = (int)$parcelas;
+                $data['totalValue'] = $valor;
+            } else {
+                $data['value'] = $valor;
+            }
         }else{
-            // Dados da requisição
+            // Dados da requisição com dados do cartão
             $data = array(
                 'billingType' => 'CREDIT_CARD',
                 'customer' => $customer,
-                'value' => $valor,
                 'dueDate' => $this->data_atual,
                 //'authorizeOnly' => true,
                 'creditCardHolderInfo' => array(
@@ -284,7 +315,14 @@ class Pagamentos extends Conexao
                     'ccv' => $cvv
                 )
             );
-
+            
+            // Parcelamento sem token
+            if ($parcelas >= 2) {
+                $data['installmentCount'] = (int)$parcelas;
+                $data['totalValue'] = $valor;
+            } else {
+                $data['value'] = $valor;
+            }
         }
 
 
@@ -327,22 +365,24 @@ class Pagamentos extends Conexao
         $lista = [
             "status" => '01',
             "status_pagamento" => $json_data['status'],
-            "payment_id" => $json_data['id']
+            "payment_id" => $json_data['id'],
+            "installment" => $json_data['installment'] ?? null,
+            "installmentCount" => $json_data['installmentCount'] ?? 1,
+            "installmentValue" => $json_data['installmentValue'] ?? $valor
         ];
 
         return $lista;
     }
-    public function cobrarCartaoComToken($valor, $customer, $token, $nome, $cpf, $cep, $numero, $email, $celular)
+    public function cobrarCartaoComToken($valor, $customer, $token, $nome, $cpf, $cep, $numero, $email, $celular, $parcelas = 1)
     {
 
     // URL da API
     $url = ASAAS_URL_PRODUCTION . 'v3/payments';
 
-    // Dados da requisição usando o token do cartão
+    // Dados base da requisição usando o token do cartão
     $data = array(
         'billingType' => 'CREDIT_CARD',
         'customer' => $customer,
-        'value' => $valor,
         'dueDate' => $this->data_atual,
         'creditCardToken' => $token,
         //'authorizeOnly' => true,
@@ -355,6 +395,15 @@ class Pagamentos extends Conexao
             'phone' => $celular
         )
     );
+
+    // Se for parcelado (2 ou mais parcelas), usa installmentCount e totalValue
+    // Se for à vista (1 parcela), usa apenas value
+    if ($parcelas >= 2) {
+        $data['installmentCount'] = (int)$parcelas;
+        $data['totalValue'] = $valor;
+    } else {
+        $data['value'] = $valor;
+    }
 
     // Inicializa a sessão cURL
     $ch = curl_init($url);
@@ -393,7 +442,10 @@ class Pagamentos extends Conexao
     $lista = [
         "status" => '01',
         "status_pagamento" => $json_data['status'],
-        "payment_id" => $json_data['id']
+        "payment_id" => $json_data['id'],
+        "installment" => $json_data['installment'] ?? null,
+        "installmentCount" => $json_data['installmentCount'] ?? 1,
+        "installmentValue" => $json_data['installmentValue'] ?? $valor
     ];
 
     return $lista;

@@ -3,10 +3,10 @@
  * Script de Sincronização de Calendários iCal Externos
  * 
  * Este script deve ser executado via cron a cada 6 horas:
- * 0 */6 * * * /usr/bin/php /caminho/para/www/apiv3/cron/sincronizar_ical.php >> /var/log/ical_sync.log 2>&1
+ * 0 * /6 * * * /usr/bin/php /caminho/para/www/apiv3/cron/sincronizar_ical.php >> /var/log/ical_sync.log 2>&1
  * 
  * Ou no MAMP:
- * 0 */6 * * * /Applications/MAMP/bin/php/php8.3.14/bin/php /Applications/MAMP/htdocs/www/apiv3/cron/sincronizar_ical.php
+ * 0 * /6 * * * /Applications/MAMP/bin/php/php8.3.14/bin/php /Applications/MAMP/htdocs/www/apiv3/cron/sincronizar_ical.php
  */
 
 // Configurações

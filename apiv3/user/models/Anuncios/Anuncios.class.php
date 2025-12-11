@@ -7907,7 +7907,7 @@ class Anuncios extends Conexao
                 r.data_ate,
                 p.status as status_pagamento,
                 p.tipo_pagamento,
-                p.valor,
+                p.valor_final as valor_pago,
                 cc.id as ingresso_id,
                 cc.nome as comprador_nome,
                 cc.email as comprador_email,
@@ -7915,7 +7915,7 @@ class Anuncios extends Conexao
                 cc.qrcode,
                 cc.lido as checkin_realizado,
                 it.nome as tipo_ingresso,
-                it.valor as valor_ingresso
+                cc.valor as valor_ingresso
             FROM `app_reservas` r
             INNER JOIN `app_pagamentos` p ON r.app_pagamentos_id = p.id
             INNER JOIN `app_carrinho` c ON r.id_carrinho = c.id
@@ -7964,7 +7964,7 @@ class Anuncios extends Conexao
                 'email' => $email,
                 'celular' => $celular,
                 'tipo_ingresso' => $row['tipo_ingresso'] ?? 'N/A',
-                'valor_ingresso' => $row['valor_ingresso'] ?? $row['valor'],
+                'valor_ingresso' => $row['valor_ingresso'] ?? $row['valor_pago'] ?? 0,
                 'data_compra' => $row['data_compra'],
                 'data_evento_de' => $row['data_de'],
                 'data_evento_ate' => $row['data_ate'],

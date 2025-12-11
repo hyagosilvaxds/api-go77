@@ -1775,7 +1775,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $status, $status_aprovado, $finalizado,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria, $nome_user
       );
@@ -2102,7 +2102,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado, $nome_user,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado, $nome_user,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -2192,7 +2192,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado, $nome_user,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado, $nome_user,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -2358,7 +2358,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -2429,7 +2429,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -3039,7 +3039,7 @@ class Anuncios extends Conexao
       );
 
       $sql->execute();
-      $sql->bind_result($id, $id_type, $nome, $data_de, $data_ate, $valor, $desc_min_diarias, $taxa_limpeza, $qtd);
+      $sql->bind_result($id, $id_type, $nome, $data_de, $data_ate, $valor, $cortesia, $desc_min_diarias, $taxa_limpeza, $qtd);
       $sql->store_result();
       $rows = $sql->num_rows;
 
@@ -3056,6 +3056,7 @@ class Anuncios extends Conexao
               $Param['data_de'] = dataBR($data_de);
               $Param['data_ate'] = dataBR($data_ate);
               $Param['valor'] = moneyView($valor);
+              $Param['cortesia'] = $cortesia;
               $Param['taxa_limpeza'] = moneyView($taxa_limpeza);
               $Param['qtd'] = $qtd;
 
