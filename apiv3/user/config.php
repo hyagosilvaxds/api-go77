@@ -13,9 +13,17 @@ $porta = $_SERVER['SERVER_PORT'] != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
 // define('DOMINIO', $dominio);
 define('RAIZ', dirname(__FILE__));
 define('PASTA_RAIZ', '/iusui1872a5a78512rew');
-// URL da home
-define('HOME_URI', 'http://' . $dominiowww . $porta . '/www/apiv3/user');
-define('HOME_URI_ROOT', 'http://' . $dominiowww . $porta . '/www');
+
+// Detectar ambiente para URLs
+if ($_SERVER['SERVER_NAME'] == 'go77destinos.online' || $_SERVER['SERVER_NAME'] == 'www.go77destinos.online') {
+    // Produção VPS
+    define('HOME_URI', 'https://go77destinos.online/apiv3/user');
+    define('HOME_URI_ROOT', 'https://go77destinos.online');
+} else {
+    // Desenvolvimento Local (MAMP)
+    define('HOME_URI', 'http://' . $dominiowww . $porta . '/www/apiv3/user');
+    define('HOME_URI_ROOT', 'http://' . $dominiowww . $porta . '/www');
+}
 // usado para acessos no front
 
 // email remetente padrão
@@ -57,11 +65,20 @@ define('PLANO_FREE', 'sd4gtth6');
 define('RAIO_PARADA', '100');//metros
 define('RAIO_KM', '100');//KM
 
-//CONEXAO BD
-define('MYSQL', 'localhost');
-define('USER', 'root');
-define('PASS', 'root');
-define('BD', 'go77app');
+//CONEXAO BD - Detecta ambiente automaticamente
+if ($_SERVER['SERVER_NAME'] == 'go77destinos.online' || $_SERVER['SERVER_NAME'] == 'www.go77destinos.online') {
+    // Produção VPS
+    define('MYSQL', 'localhost');
+    define('USER', 'go77app');
+    define('PASS', 'Go77@2024Secure!');
+    define('BD', 'go77app');
+} else {
+    // Desenvolvimento Local (MAMP)
+    define('MYSQL', 'localhost');
+    define('USER', 'root');
+    define('PASS', 'root');
+    define('BD', 'go77app');
+}
 
 
 // ASAAS
