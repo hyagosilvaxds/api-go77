@@ -241,14 +241,20 @@ class AnunciosController
         //periodos
         if (!empty($this->input->periodos) && is_array($this->input->periodos)) {
           foreach ($this->input->periodos as $key) {
+              // Verificar se é cortesia
+              $cortesia = isset($key->cortesia) ? intval($key->cortesia) : 0;
+              $valor = $cortesia == 1 ? 0 : moneySQL(trim($key->valor ?? '0'));
+              $taxa_limpeza = $cortesia == 1 ? 0 : moneySQL(trim($key->taxa_limpeza ?? '0'));
+              
               $result4 = $model->adicionarTypePeriodos(
                 $id_type,
                 $key->nome ?? '',
                 dataUS($key->data_de ?? ''),
                 dataUS($key->data_ate ?? ''),
-                moneySQL(trim($key->valor ?? '0')),
-                moneySQL(trim($key->taxa_limpeza ?? '0')),
-                $key->qtd ?? 0)
+                $valor,
+                $taxa_limpeza,
+                $key->qtd ?? 0,
+                $cortesia)
                 ;
           }
         }
@@ -267,12 +273,17 @@ class AnunciosController
 
         $model = new Anuncios();
 
+        // Verificar se é cortesia (valor = 0 ou flag cortesia = 1)
+        $cortesia = isset($this->input->cortesia) ? intval($this->input->cortesia) : 0;
+        $valor = $cortesia == 1 ? 0 : moneySQL($this->input->valor);
+
         $result = $model->adicionarTypeIng(
           $this->input->id_anuncio,
           $this->input->tipo,
           $this->input->nome,
-          moneySQL($this->input->valor),
-          $this->input->qtd
+          $valor,
+          $this->input->qtd,
+          $cortesia
         );
         $id_type = $result['id'];
 
@@ -440,13 +451,18 @@ class AnunciosController
 
         $model = new Anuncios();
 
+        // Verificar se é cortesia
+        $cortesia = isset($this->input->cortesia) ? intval($this->input->cortesia) : 0;
+        $valor = $cortesia == 1 ? 0 : moneySQL($this->input->valor);
+
         //update
         $result = $model->updateTypeIng(
           $this->input->id,
           $this->input->tipo,
           $this->input->nome,
-          moneySQL($this->input->valor),
-          $this->input->qtd
+          $valor,
+          $this->input->qtd,
+          $cortesia
         );
 
         jsonReturn($result);
@@ -659,14 +675,20 @@ class AnunciosController
             jsonReturn($verifica_datas);
         }
 
+        // Verificar se é cortesia
+        $cortesia = isset($this->input->cortesia) ? intval($this->input->cortesia) : 0;
+        $valor = $cortesia == 1 ? 0 : moneySQL(trim($this->input->valor));
+        $taxa_limpeza = $cortesia == 1 ? 0 : moneySQL(trim($this->input->taxa_limpeza));
+
         $result = $model->adicionarTypePeriodos(
           $this->input->id_type,
           $this->input->nome,
           dataUS($this->input->data_de),
           dataUS($this->input->data_ate),
-          moneySQL(trim($this->input->valor)),
-          moneySQL(trim($this->input->taxa_limpeza)),
-          $this->input->qtd
+          $valor,
+          $taxa_limpeza,
+          $this->input->qtd,
+          $cortesia
         );
 
 
@@ -687,14 +709,20 @@ class AnunciosController
             jsonReturn(array($verifica_datas));
         }
 
+        // Verificar se é cortesia
+        $cortesia = isset($this->input->cortesia) ? intval($this->input->cortesia) : 0;
+        $valor = $cortesia == 1 ? 0 : moneySQL($this->input->valor);
+        $taxa_limpeza = $cortesia == 1 ? 0 : moneySQL($this->input->taxa_limpeza);
+
         $result = $model->updatePeriodos(
           $this->input->id,
           $this->input->nome,
           dataUS($this->input->data_de),
           dataUS($this->input->data_ate),
-          moneySQL($this->input->valor),
-          moneySQL($this->input->taxa_limpeza),
-          $this->input->qtd
+          $valor,
+          $taxa_limpeza,
+          $this->input->qtd,
+          $cortesia
         );
 
 
@@ -2960,6 +2988,372 @@ class AnunciosController
         }
         
         return $data;
+    }
+
+    // ==================== CROQUI DE EVENTO ====================
+
+    /**
+     * Adiciona ou atualiza o croqui (planta/mapa) de um anúncio de evento
+     * Payload (multipart/form-data):
+     * - id_anuncio: ID do anúncio
+     * - id_user: ID do usuário (deve ser o dono do anúncio)
+     * - token: Token de autenticação
+     * - croqui: Arquivo de imagem (jpg, png, gif, webp)
+     */
+    public function adicionarCroqui()
+    {
+        $id_anuncio = $_POST['id_anuncio'] ?? null;
+        $id_user = $_POST['id_user'] ?? null;
+        $token = $_POST['token'] ?? null;
+
+        $this->secure->tokens_secure($token);
+
+        if (!$id_anuncio || !$id_user) {
+            jsonReturn(['status' => '00', 'msg' => 'Parâmetros obrigatórios: id_anuncio, id_user']);
+            return;
+        }
+
+        $model = new Anuncios();
+
+        // Verifica se o anúncio existe e pertence ao usuário
+        $anuncio = $model->getAnuncioById($id_anuncio);
+        
+        if (!$anuncio) {
+            jsonReturn(['status' => '00', 'msg' => 'Anúncio não encontrado']);
+            return;
+        }
+
+        if ($anuncio['app_users_id'] != $id_user) {
+            jsonReturn(['status' => '00', 'msg' => 'Você não tem permissão para editar este anúncio']);
+            return;
+        }
+
+        // Verifica se é um evento (categoria 3)
+        if ($anuncio['app_categorias_id'] != 3) {
+            jsonReturn(['status' => '00', 'msg' => 'Croqui só pode ser adicionado a anúncios do tipo Evento']);
+            return;
+        }
+
+        // Verifica se foi enviado arquivo
+        if (!isset($_FILES['croqui']) || $_FILES['croqui']['error'] !== UPLOAD_ERR_OK) {
+            jsonReturn(['status' => '00', 'msg' => 'Arquivo de croqui não enviado ou inválido']);
+            return;
+        }
+
+        $pasta = '../../uploads/anuncios/croqui';
+        
+        // Cria pasta se não existir
+        if (!file_exists($pasta)) {
+            mkdir($pasta, 0755, true);
+        }
+
+        $extensoes_permitidas = ['jpg', 'jpeg', 'png', 'gif', 'webp'];
+        $extensao = strtolower(pathinfo($_FILES['croqui']['name'], PATHINFO_EXTENSION));
+        
+        if (!in_array($extensao, $extensoes_permitidas)) {
+            jsonReturn(['status' => '00', 'msg' => 'Extensão não permitida. Use: jpg, png, gif ou webp']);
+            return;
+        }
+
+        // Remove croqui antigo se existir
+        if (!empty($anuncio['croqui'])) {
+            $croqui_antigo = $pasta . '/' . $anuncio['croqui'];
+            if (file_exists($croqui_antigo)) {
+                unlink($croqui_antigo);
+            }
+        }
+
+        // Gera nome único para o arquivo
+        $nome_arquivo = 'croqui_' . $id_anuncio . '_' . time() . '.' . $extensao;
+        $destino = $pasta . '/' . $nome_arquivo;
+
+        // Move o arquivo
+        if (move_uploaded_file($_FILES['croqui']['tmp_name'], $destino)) {
+            // Atualiza no banco
+            $result = $model->atualizarCroqui($id_anuncio, $nome_arquivo);
+            
+            if ($result['status'] == '01') {
+                jsonReturn([
+                    'status' => '01',
+                    'msg' => 'Croqui adicionado com sucesso',
+                    'croqui' => $nome_arquivo,
+                    'url' => HOME_URI_ROOT . '/uploads/anuncios/croqui/' . $nome_arquivo
+                ]);
+            } else {
+                // Remove arquivo se falhou ao salvar no banco
+                unlink($destino);
+                jsonReturn(['status' => '00', 'msg' => 'Erro ao salvar croqui no banco de dados']);
+            }
+        } else {
+            jsonReturn(['status' => '00', 'msg' => 'Erro ao fazer upload do croqui']);
+        }
+    }
+
+    /**
+     * Remove o croqui de um anúncio de evento
+     * Payload (JSON):
+     * - id_anuncio: ID do anúncio
+     * - id_user: ID do usuário (deve ser o dono do anúncio)
+     * - token: Token de autenticação
+     */
+    public function removerCroqui()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $id_anuncio = $this->input->id_anuncio ?? null;
+        $id_user = $this->input->id_user ?? null;
+
+        if (!$id_anuncio || !$id_user) {
+            jsonReturn(['status' => '00', 'msg' => 'Parâmetros obrigatórios: id_anuncio, id_user']);
+            return;
+        }
+
+        $model = new Anuncios();
+
+        // Verifica se o anúncio existe e pertence ao usuário
+        $anuncio = $model->getAnuncioById($id_anuncio);
+        
+        if (!$anuncio) {
+            jsonReturn(['status' => '00', 'msg' => 'Anúncio não encontrado']);
+            return;
+        }
+
+        if ($anuncio['app_users_id'] != $id_user) {
+            jsonReturn(['status' => '00', 'msg' => 'Você não tem permissão para editar este anúncio']);
+            return;
+        }
+
+        // Verifica se tem croqui
+        if (empty($anuncio['croqui'])) {
+            jsonReturn(['status' => '00', 'msg' => 'Este anúncio não possui croqui']);
+            return;
+        }
+
+        // Remove arquivo
+        $pasta = '../../uploads/anuncios/croqui';
+        $croqui_arquivo = $pasta . '/' . $anuncio['croqui'];
+        if (file_exists($croqui_arquivo)) {
+            unlink($croqui_arquivo);
+        }
+
+        // Remove do banco
+        $result = $model->atualizarCroqui($id_anuncio, null);
+        
+        if ($result['status'] == '01') {
+            jsonReturn(['status' => '01', 'msg' => 'Croqui removido com sucesso']);
+        } else {
+            jsonReturn(['status' => '00', 'msg' => 'Erro ao remover croqui']);
+        }
+    }
+
+    /**
+     * Obtém o croqui de um anúncio
+     * Payload (JSON):
+     * - id_anuncio: ID do anúncio
+     * - token: Token de autenticação
+     */
+    public function obterCroqui()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $id_anuncio = $this->input->id_anuncio ?? null;
+
+        if (!$id_anuncio) {
+            jsonReturn(['status' => '00', 'msg' => 'Parâmetro obrigatório: id_anuncio']);
+            return;
+        }
+
+        $model = new Anuncios();
+        $anuncio = $model->getAnuncioById($id_anuncio);
+        
+        if (!$anuncio) {
+            jsonReturn(['status' => '00', 'msg' => 'Anúncio não encontrado']);
+            return;
+        }
+
+        if (empty($anuncio['croqui'])) {
+            jsonReturn([
+                'status' => '01',
+                'tem_croqui' => false,
+                'croqui' => null,
+                'url' => null
+            ]);
+        } else {
+            jsonReturn([
+                'status' => '01',
+                'tem_croqui' => true,
+                'croqui' => $anuncio['croqui'],
+                'url' => HOME_URI_ROOT . '/uploads/anuncios/croqui/' . $anuncio['croqui']
+            ]);
+        }
+    }
+
+    /**
+     * Lista compradores de ingressos/experiências de um anúncio
+     * Retorna dados em JSON para visualização no app
+     * POST: { token, id_user, id_anuncio }
+     */
+    public function listarCompradores()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $id_user = $this->input->id_user ?? null;
+        $id_anuncio = $this->input->id_anuncio ?? null;
+
+        if (!$id_user || !$id_anuncio) {
+            jsonReturn(['status' => '00', 'msg' => 'Parâmetros obrigatórios: id_user, id_anuncio']);
+            return;
+        }
+
+        $model = new Anuncios();
+        $resultado = $model->getCompradoresAnuncio($id_anuncio, $id_user);
+
+        jsonReturn($resultado);
+    }
+
+    /**
+     * Exporta lista de compradores em formato CSV
+     * Para controle de acesso na portaria do evento
+     * GET: ?token=XXX&id_user=XXX&id_anuncio=XXX
+     * Retorna arquivo CSV para download
+     */
+    public function exportarCompradoresCsv()
+    {
+        // Para download de arquivo, aceita tanto GET quanto POST
+        $token = $_GET['token'] ?? ($this->input->token ?? null);
+        $id_user = $_GET['id_user'] ?? ($this->input->id_user ?? null);
+        $id_anuncio = $_GET['id_anuncio'] ?? ($this->input->id_anuncio ?? null);
+
+        $this->secure->tokens_secure($token);
+
+        if (!$id_user || !$id_anuncio) {
+            header('Content-Type: application/json');
+            echo json_encode(['status' => '00', 'msg' => 'Parâmetros obrigatórios: id_user, id_anuncio']);
+            return;
+        }
+
+        $model = new Anuncios();
+        $resultado = $model->getCompradoresAnuncio($id_anuncio, $id_user);
+
+        if ($resultado['status'] != '01') {
+            header('Content-Type: application/json');
+            echo json_encode($resultado);
+            return;
+        }
+
+        // Gerar nome do arquivo
+        $nome_arquivo_limpo = preg_replace('/[^a-zA-Z0-9]/', '_', $resultado['anuncio_nome']);
+        $data_export = date('Y-m-d_H-i');
+        $filename = "compradores_{$nome_arquivo_limpo}_{$data_export}.csv";
+
+        // Headers para download CSV
+        header('Content-Type: text/csv; charset=utf-8');
+        header('Content-Disposition: attachment; filename="' . $filename . '"');
+        header('Pragma: no-cache');
+        header('Expires: 0');
+
+        // Abrir output stream
+        $output = fopen('php://output', 'w');
+
+        // BOM para Excel reconhecer UTF-8
+        fprintf($output, chr(0xEF).chr(0xBB).chr(0xBF));
+
+        // Cabeçalho do CSV
+        fputcsv($output, [
+            'Nº',
+            'Nome',
+            'Email',
+            'Celular',
+            'Tipo Ingresso',
+            'Valor (R$)',
+            'Data Compra',
+            'Data Evento',
+            'Status Pagamento',
+            'Tipo Pagamento',
+            'Check-in Realizado',
+            'ID Reserva',
+            'ID Ingresso'
+        ], ';');
+
+        // Dados
+        $contador = 1;
+        foreach ($resultado['compradores'] as $comprador) {
+            $data_evento = '';
+            if (!empty($comprador['data_evento_de'])) {
+                $data_evento = dataBR($comprador['data_evento_de']);
+                if (!empty($comprador['data_evento_ate']) && $comprador['data_evento_ate'] != $comprador['data_evento_de']) {
+                    $data_evento .= ' a ' . dataBR($comprador['data_evento_ate']);
+                }
+            }
+
+            fputcsv($output, [
+                $contador,
+                $comprador['nome'],
+                $comprador['email'],
+                $comprador['celular'],
+                $comprador['tipo_ingresso'],
+                number_format($comprador['valor_ingresso'], 2, ',', '.'),
+                data($comprador['data_compra']),
+                $data_evento,
+                $comprador['status_pagamento'],
+                $comprador['tipo_pagamento'],
+                $comprador['checkin_realizado'],
+                $comprador['reserva_id'],
+                $comprador['ingresso_id']
+            ], ';');
+
+            $contador++;
+        }
+
+        // Linha em branco e resumo
+        fputcsv($output, [], ';');
+        fputcsv($output, ['RESUMO'], ';');
+        fputcsv($output, ['Evento/Experiência:', $resultado['anuncio_nome']], ';');
+        fputcsv($output, ['Total de Ingressos:', $resultado['total_compradores']], ';');
+        fputcsv($output, ['Data de Exportação:', date('d/m/Y H:i:s')], ';');
+
+        fclose($output);
+        exit;
+    }
+
+    /**
+     * Retorna URL para download do CSV de compradores
+     * POST: { token, id_user, id_anuncio }
+     * Retorna JSON com URL de download
+     */
+    public function gerarLinkExportacao()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $id_user = $this->input->id_user ?? null;
+        $id_anuncio = $this->input->id_anuncio ?? null;
+
+        if (!$id_user || !$id_anuncio) {
+            jsonReturn(['status' => '00', 'msg' => 'Parâmetros obrigatórios: id_user, id_anuncio']);
+            return;
+        }
+
+        // Verificar se usuário é dono do anúncio
+        $model = new Anuncios();
+        $resultado = $model->getCompradoresAnuncio($id_anuncio, $id_user);
+
+        if ($resultado['status'] != '01') {
+            jsonReturn($resultado);
+            return;
+        }
+
+        // Gerar URL de download
+        $url_download = HOME_URI . '/anuncios/exportarCompradoresCsv?token=' . urlencode($this->input->token) 
+                      . '&id_user=' . $id_user 
+                      . '&id_anuncio=' . $id_anuncio;
+
+        jsonReturn([
+            'status' => '01',
+            'msg' => 'Link de exportação gerado com sucesso',
+            'anuncio_nome' => $resultado['anuncio_nome'],
+            'total_compradores' => $resultado['total_compradores'],
+            'url_download' => $url_download
+        ]);
     }
 
 

@@ -209,6 +209,72 @@ class CarrinhoController
         jsonReturn(array($result));
     }
 
+    /**
+     * Nomear ingresso e enviar por email automaticamente
+     */
+    public function nomear_com_email()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $carrinho = new Carrinho();
+
+        // Primeiro apenas nomeia (sem email) para testar
+        $result = $carrinho->nomear(
+            $this->input->id,
+            cryptitem($this->input->nome),
+            cryptitem($this->input->email),
+            cryptitem($this->input->celular)
+        );
+
+        // Se nomeou com sucesso, tenta enviar email
+        if ($result['status'] == 01) {
+            $dados_ingresso = $carrinho->getDadosIngressoCompleto($this->input->id);
+            
+            if ($dados_ingresso && !empty($dados_ingresso['qrcode'])) {
+                $emailService = new Emails();
+                $email_enviado = $emailService->enviarIngresso(
+                    $this->input->email,
+                    $this->input->nome,
+                    $dados_ingresso
+                );
+                $result['email_enviado'] = $email_enviado ? true : false;
+            } else {
+                $result['email_enviado'] = false;
+                $result['email_erro'] = 'Ingresso sem QRCode';
+            }
+        }
+
+        jsonReturn(array($result));
+    }
+
+    /**
+     * Reenviar ingresso por email
+     */
+    public function reenviar_ingresso()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $carrinho = new Carrinho();
+
+        $result = $carrinho->reenviarIngresso($this->input->id);
+
+        jsonReturn(array($result));
+    }
+
+    /**
+     * Listar ingressos de uma reserva/carrinho
+     */
+    public function listar_ingressos()
+    {
+        $this->secure->tokens_secure($this->input->token);
+
+        $carrinho = new Carrinho();
+
+        $result = $carrinho->listarIngressosReserva($this->input->id_carrinho);
+
+        jsonReturn($result);
+    }
+
     public function leitura()
     {
 

@@ -28,9 +28,17 @@ class Reservas extends Conexao
 
     public function save($id_pagamento,$id_user,$id_anuncio,$id_anuncio_type,$id_carrinho,$adultos,$criancas,$date_de,$data_ate,$valor_final,$obs, $status){
 
+        // Tratar valores NULL para SQL
+        $id_anuncio_type_sql = ($id_anuncio_type === null) ? "NULL" : "'$id_anuncio_type'";
+        $id_carrinho_sql = ($id_carrinho === null) ? "NULL" : "'$id_carrinho'";
+        $adultos_sql = ($adultos === null) ? "NULL" : "'$adultos'";
+        $criancas_sql = ($criancas === null) ? "NULL" : "'$criancas'";
+        $date_de_sql = ($date_de === null || $date_de === '') ? "NULL" : "'$date_de'";
+        $data_ate_sql = ($data_ate === null || $data_ate === '') ? "NULL" : "'$data_ate'";
+
         $sql_cadastro = $this->mysqli->prepare(
             "INSERT INTO `app_reservas`(`app_pagamentos_id`,`app_users_id`,`app_anuncios_id`,`id_anuncio_type`,`id_carrinho`,`adultos`,`criancas`,`data_de`,`data_ate`,`valor_final`,`taxa_limpeza`,`data_cadastro`,`obs`,`status`)
-             VALUES ('$id_pagamento','$id_user','$id_anuncio','$id_anuncio_type','$id_carrinho','$adultos','$criancas','$date_de','$data_ate','$valor_final','0.00','$this->data_atual','$obs','$status')"
+             VALUES ('$id_pagamento','$id_user','$id_anuncio',$id_anuncio_type_sql,$id_carrinho_sql,$adultos_sql,$criancas_sql,$date_de_sql,$data_ate_sql,'$valor_final','0.00','$this->data_atual','$obs','$status')"
         );
         $sql_cadastro->execute();
 

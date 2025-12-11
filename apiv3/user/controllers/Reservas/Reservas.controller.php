@@ -13,6 +13,7 @@ require_once MODELS . '/Carrinho/Carrinho.class.php';
 require_once MODELS . '/Configuracoes/Configuracoes.class.php';
 require_once MODELS . '/Notificacoes/Notificacoes.class.php';
 require_once MODELS . '/Anuncios/Anuncios.class.php';
+require_once MODELS . '/Cupons/Cupons.class.php';
 
 class ReservasController
 {
@@ -43,6 +44,42 @@ class ReservasController
         $notificacao = new Notificacoes();
         $model_anuncios = new Anuncios();
         $model_carrinho = new Carrinho();
+        $model_cupons = new Cupons();
+
+        // Processa cupom de desconto se informado
+        $cupom_aplicado = null;
+        $valor_original = $this->input->valor;
+        $valor_desconto_cupom = 0;
+        $valor_com_desconto = $this->input->valor;
+
+        if (!empty($this->input->codigo_cupom)) {
+            $validacao_cupom = $model_cupons->validarCupom(
+                $this->input->codigo_cupom,
+                $this->input->id_user,
+                $this->input->id_anuncio,
+                $this->input->id_categoria,
+                $this->input->valor
+            );
+
+            if ($validacao_cupom['valido']) {
+                $cupom_aplicado = $validacao_cupom['cupom'];
+                $valor_desconto_cupom = floatval($validacao_cupom['valores']['valor_desconto']);
+                $valor_com_desconto = floatval($validacao_cupom['valores']['valor_final']);
+                
+                // Atualiza o valor para usar o valor com desconto
+                $this->input->valor = $valor_com_desconto;
+                
+                // Se o valor final for zero, trata como cortesia
+                if ($valor_com_desconto == 0) {
+                    $this->input->tipo_pagamento = 4;
+                    $this->input->cortesia = 1;
+                }
+            } else {
+                // Cupom inválido - retorna erro
+                jsonReturn(array($validacao_cupom));
+                return;
+            }
+        }
 
 
         //inicio correto dos fluxos
@@ -158,6 +195,18 @@ class ReservasController
               $notificacao->save("reserva-iniciada-anfitriao", $dadosAnuncio[0]['id_user'], $dadosAnuncio[0]['nome']);
 
 
+              // Registra uso do cupom se aplicado (cartao credito - iniciar)
+              if ($cupom_aplicado) {
+                  $model_cupons->aplicarCupom(
+                      $cupom_aplicado['id'],
+                      $this->input->id_user,
+                      $id_reserva['id'],
+                      $valor_original,
+                      $valor_desconto_cupom,
+                      $valor_com_desconto
+                  );
+              }
+
               $result = [
                   "status" => "01",
                   "tipo_pagamento" => "1",
@@ -166,6 +215,10 @@ class ReservasController
                   "payment_id" => $token,
                   "status" => $status_pagamento ,
                   "msg" => "Pagamento efetuado!",
+                                "cupom_aplicado" => $cupom_aplicado ? true : false,
+                  "valor_original" => $valor_original,
+                  "valor_desconto" => $valor_desconto_cupom,
+                  "valor_final" => $valor_com_desconto,
               ];
 
             }
@@ -178,10 +231,23 @@ class ReservasController
 
             $usuarios = new Usuarios();
             $dados_user = $usuarios->Perfil($this->input->id_user);
+            $dados_config = $model_config->listConfig();
+            $perc_imoveis = $dados_config['perc_imoveis'];
+            $perc_eventos = $dados_config['perc_eventos'];
 
             $celular= $dados_user['celular'];
             $email = $dados_user['email'];
             $nome = $dados_user['nome'];
+
+            //calculo de percentual para split
+            if($this->input->id_categoria == 1){
+              $perc_final = $perc_imoveis;
+            }else{
+              $perc_final = $perc_eventos;
+            }
+
+            $valor_anunciante = $this->input->valor / 100 * $perc_final;
+            $valor_admin = $this->input->valor - $valor_anunciante;
 
             $criar_cliente = $model_pagamentos->criar_cliente($nome, $this->input->cpf);
             $cobrançaQrCode = $model_pagamentos->gerarQrCode($this->input->valor,$criar_cliente);
@@ -202,6 +268,18 @@ class ReservasController
             $id_pagamento['id'], $this->input->id_user, $this->input->id_anuncio, $this->input->id_anuncio_type, $this->input->id_carrinho, $this->input->adultos, $this->input->criancas,
             dataUS($this->input->data_de), dataUS($this->input->data_ate), moneySQL($this->input->valor), $this->input->obs, $status = 2);
 
+            // Registra uso do cupom se aplicado (PIX)
+            if ($cupom_aplicado) {
+                $model_cupons->aplicarCupom(
+                    $cupom_aplicado['id'],
+                    $this->input->id_user,
+                    $id_reserva['id'],
+                    $valor_original,
+                    $valor_desconto_cupom,
+                    $valor_com_desconto
+                );
+            }
+
             $result = [
                 "status" => "01",
                 "tipo_pagamento" => "3",
@@ -212,6 +290,92 @@ class ReservasController
                 "msg" => "Aguardando pagamento do QrCode.",
                 "qrCode" => $qr_code,
                 "qrCode64" => $base64QrCode,
+                "cupom_aplicado" => $cupom_aplicado ? true : false,
+                "valor_original" => $valor_original,
+                "valor_desconto" => $valor_desconto_cupom,
+                "valor_final" => $valor_com_desconto,
+            ];
+
+      }
+
+      //cortesia (gratuito) - tipo_pagamento = 4
+      if($this->input->tipo_pagamento == 4 || $this->input->valor == 0 || $this->input->cortesia == 1){
+
+            $usuarios = new Usuarios();
+            $dados_user = $usuarios->Perfil($this->input->id_user);
+
+            $token = "CORTESIA_" . generateRandomString(16);
+            $status_pagamento = "CONFIRMED";
+            $valor_anunciante = 0;
+            $valor_admin = 0;
+
+            //cria pagamento (registro para histórico, valor zero)
+            $id_pagamento = $model_pagamentos->save(
+            $this->input->id_user, $this->input->id_anuncio, 4, 0,
+            0, 0, "", "", $token, $status_pagamento
+            );
+
+            // Tratar campos opcionais para cortesia
+            $id_anuncio_type = isset($this->input->id_anuncio_type) ? $this->input->id_anuncio_type : null;
+            $adultos = isset($this->input->adultos) ? $this->input->adultos : 0;
+            $criancas = isset($this->input->criancas) ? $this->input->criancas : 0;
+            $data_de = isset($this->input->data_de) && !empty($this->input->data_de) ? dataUS($this->input->data_de) : null;
+            $data_ate = isset($this->input->data_ate) && !empty($this->input->data_ate) ? dataUS($this->input->data_ate) : null;
+            $obs = isset($this->input->obs) ? $this->input->obs : '';
+
+            //cria reserva com status confirmado (1)
+            $id_reserva = $model->save(
+            $id_pagamento['id'], $this->input->id_user, $this->input->id_anuncio, $id_anuncio_type, $this->input->id_carrinho, $adultos, $criancas,
+            $data_de, $data_ate, 0, $obs, $status = 1);
+
+            //se for ingresso gera os qrcodes
+            if($this->input->id_categoria == 3){
+
+              $count_ing = $model_carrinho->CountIngressos($this->input->id_carrinho);
+
+              foreach($count_ing as $key => $value){
+
+                $qrcode = generateRandomString(32);
+                $qrcodeF = cryptitem($qrcode);
+
+                $update_qrcode = $model_carrinho->updateIngressos($value['id'], $qrcodeF);
+                $fecha_carrinho = $model_carrinho->fecharCarrinho($this->input->id_carrinho);
+
+              }
+
+            }
+
+            //RESGATA DADOS do anuncio e anunciante
+            $dadosAnuncio = $model_anuncios->listID($this->input->id_anuncio);
+
+            //RESERVA INICIADA (disparar anfitriao)
+            $notificacao->save("reserva-cortesia-anfitriao", $dadosAnuncio[0]['id_user'], $dadosAnuncio[0]['nome']);
+
+            // Registra uso do cupom se aplicado (cortesia)
+            if ($cupom_aplicado) {
+                $model_cupons->aplicarCupom(
+                    $cupom_aplicado['id'],
+                    $this->input->id_user,
+                    $id_reserva['id'],
+                    $valor_original,
+                    $valor_desconto_cupom,
+                    $valor_com_desconto
+                );
+            }
+
+            $result = [
+                "status" => "01",
+                "tipo_pagamento" => "4",
+                "id_pagamento" => $id_pagamento['id'],
+                "id_reserva" => $id_reserva['id'],
+                "payment_id" => $token,
+                "status" => $status_pagamento,
+                "cortesia" => true,
+                "msg" => "Reserva cortesia confirmada!",
+                "cupom_aplicado" => $cupom_aplicado ? true : false,
+                "valor_original" => $valor_original,
+                "valor_desconto" => $valor_desconto_cupom,
+                "valor_final" => $valor_com_desconto,
             ];
 
       }
@@ -406,6 +570,64 @@ class ReservasController
 
       }
 
+      //cortesia (gratuito) - tipo_pagamento = 4 (SandBox)
+      if($this->input->tipo_pagamento == 4 || $this->input->valor == 0 || $this->input->cortesia == 1){
+
+            $usuarios = new Usuarios();
+            $dados_user = $usuarios->Perfil($this->input->id_user);
+
+            $token = "CORTESIA_SANDBOX_" . generateRandomString(16);
+            $status_pagamento = "CONFIRMED";
+            $valor_anunciante = 0;
+            $valor_admin = 0;
+
+            //cria pagamento (registro para histórico, valor zero)
+            $id_pagamento = $model_pagamentos->save(
+            $this->input->id_user, $this->input->id_anuncio, 4, 0,
+            0, 0, "", "", $token, $status_pagamento
+            );
+
+            //cria reserva com status confirmado (1)
+            $id_reserva = $model->save(
+            $id_pagamento['id'], $this->input->id_user, $this->input->id_anuncio, $this->input->id_anuncio_type, $this->input->id_carrinho, $this->input->adultos, $this->input->criancas,
+            dataUS($this->input->data_de), dataUS($this->input->data_ate), 0, $this->input->obs, $status = 1);
+
+            //se for ingresso gera os qrcodes
+            if($this->input->id_categoria == 3){
+
+              $count_ing = $model_carrinho->CountIngressos($this->input->id_carrinho);
+
+              foreach($count_ing as $key => $value){
+
+                $qrcode = generateRandomString(32);
+                $qrcodeF = cryptitem($qrcode);
+
+                $update_qrcode = $model_carrinho->updateIngressos($value['id'], $qrcodeF);
+                $fecha_carrinho = $model_carrinho->fecharCarrinho($this->input->id_carrinho);
+
+              }
+
+            }
+
+            //RESGATA DADOS do anuncio e anunciante
+            $dadosAnuncio = $model_anuncios->listID($this->input->id_anuncio);
+
+            //RESERVA INICIADA (disparar anfitriao)
+            $notificacao->save("reserva-cortesia-anfitriao", $dadosAnuncio[0]['id_user'], $dadosAnuncio[0]['nome']);
+
+            $result = [
+                "status" => "01",
+                "tipo_pagamento" => "4",
+                "id_pagamento" => $id_pagamento['id'],
+                "id_reserva" => $id_reserva['id'],
+                "payment_id" => $token,
+                "status" => $status_pagamento,
+                "cortesia" => true,
+                "msg" => "Reserva cortesia confirmada!",
+            ];
+
+      }
+
       jsonReturn(array($result));
 
     }
@@ -509,14 +731,16 @@ class ReservasController
         //VERIFICA TIPO PAGAMENTO CONFIG GERAL (bseado na id_categoria)
         $percPagamentoConfig = $model_config->listConfigPagamento($this->input->tipo_pagamento);
 
-        //VERIFICA PERC user (bseado na id_categoria)
+        //VERIFICA PERC user (bseado na id_categoria) - desconto personalizado do parceiro
         $percUser = $model_usuarios->findUserPerc($this->input->id_anunciante, $this->input->id_categoria);
+        $percUser = $percUser ? floatval($percUser) : 0; // Se NULL, considera 0
 
-        $perc_100 = "100.00";
-        $taxa_admin = $perc_100 - ($percCategoriaConfig + $percUser);
-        $taxa_total = $taxa_admin + $percPagamentoConfig;
+        // Taxa total = taxa da categoria + taxa do pagamento - desconto do parceiro
+        $taxa_total = $percCategoriaConfig + $percPagamentoConfig - $percUser;
+        if ($taxa_total < 0) $taxa_total = 0; // Não pode ser negativa
+        
         $taxa_total_final = ($this->input->valor / 100 * $taxa_total);
-        $valor_total = $this->input->valor + ($this->input->valor / 100 * $taxa_total);
+        $valor_total = $this->input->valor + $taxa_total_final;
 
 
         $Param['perc_tipo_categoria'] = $percCategoriaConfig;

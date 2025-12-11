@@ -40,6 +40,11 @@ class Notificacoes extends Conexao
           $gcm->notificacao_ios_user($titulo, $descricao,$id);
         break;
 
+        case 'reserva-cortesia-anfitriao':
+          $gcm->notificacao_android_user($titulo, $descricao,$id);
+          $gcm->notificacao_ios_user($titulo, $descricao,$id);
+        break;
+
         case 'reserva-cancelada-hospede':
           $gcm->notificacao_android_user($titulo, $descricao,$id);
           $gcm->notificacao_ios_user($titulo, $descricao,$id);

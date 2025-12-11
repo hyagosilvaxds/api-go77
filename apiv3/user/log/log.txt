@@ -3472,3 +3472,83 @@
 {"token":"Qd721n2E","end_busca":"mon","latitude":"","longitude":""}
 2025-11-30 18:01:31 - Log armazenado:
 {"token":"Qd721n2E","end_busca":"montes claros.","latitude":"","longitude":""}
+2025-12-01 11:48:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-01 11:49:00 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes claros, mg","latitude":"","longitude":""}
+2025-12-01 11:51:58 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-01 11:52:01 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes calros","latitude":"","longitude":""}
+2025-12-01 11:52:04 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes calros, ","latitude":"","longitude":""}
+2025-12-10 11:05:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-10 11:05:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"moc 999","latitude":"","longitude":""}
+2025-12-10 17:40:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-10 17:40:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"moc 99","latitude":"","longitude":""}
+2025-12-10 17:40:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Erro ao buscar o endere\u00e7o: PlatformException(NOT_FOUND, No address information found for supplied coordinates (latitude: -2.735921, longitude: -22.833874)., null, null)","latitude":"","longitude":""}
+2025-12-10 17:40:37 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"mac","latitude":"","longitude":""}
+2025-12-10 17:40:41 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"maceio","latitude":"","longitude":""}
+2025-12-10 18:04:15 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-10 18:04:27 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"port","latitude":"","longitude":""}
+2025-12-10 18:04:30 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"portei","latitude":"","longitude":""}
+2025-12-10 18:06:12 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-10 18:06:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes","latitude":"","longitude":""}
+2025-12-10 18:28:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-10 18:28:28 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes","latitude":"","longitude":""}
+2025-12-10 18:28:31 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes cl","latitude":"","longitude":""}
+2025-12-10 18:28:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-10 18:29:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"mon","latitude":"","longitude":""}
+2025-12-10 18:29:10 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Montes Claros, Minas Gerais, Brazil","latitude":"","longitude":""}
+2025-12-11 10:18:23 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-11 10:18:25 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-11 10:18:32 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"mon","latitude":"","longitude":""}
+2025-12-11 10:18:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes claros","latitude":"","longitude":""}
+2025-12-11 10:18:47 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Montes Claros, Minas Gerais, Brazil","latitude":"","longitude":""}
+2025-12-11 10:21:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-11 10:21:49 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes","latitude":"","longitude":""}
+2025-12-11 10:21:51 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes cl","latitude":"","longitude":""}
+2025-12-11 10:23:29 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-11 10:23:35 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes cl","latitude":"","longitude":""}
+2025-12-11 10:23:46 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Montes Claros, Minas Gerais, Brazil","latitude":"","longitude":""}
+2025-12-11 10:47:50 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-11 10:47:52 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes","latitude":"","longitude":""}
+2025-12-11 10:48:02 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"Montes Claros, Minas Gerais, Brazil","latitude":"","longitude":""}
+2025-12-11 10:54:54 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"","latitude":"","longitude":""}
+2025-12-11 10:54:56 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"monte","latitude":"","longitude":""}
+2025-12-11 10:54:59 - Log armazenado:
+{"token":"Qd721n2E","end_busca":"montes","latitude":"","longitude":""}

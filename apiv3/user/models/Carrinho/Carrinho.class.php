@@ -547,6 +547,188 @@ class Carrinho extends Conexao
         return $array;
     }
 
+    /**
+     * Nomear ingresso e enviar por email
+     */
+    public function nomearComEmail($id, $nome, $email, $celular)
+    {
+        // Atualiza dados do portador
+        $sql_cadastro = $this->mysqli->prepare("UPDATE `app_carrinho_conteudo` SET nome=?, email=?, celular=? WHERE id=?");
+        $sql_cadastro->bind_param("sssi", $nome, $email, $celular);
+        $sql_cadastro->execute();
+
+        // Busca dados completos do ingresso para enviar por email
+        $dados_ingresso = $this->getDadosIngressoCompleto($id);
+
+        if (!$dados_ingresso) {
+            return [
+                'status' => '02',
+                'msg' => 'Ingresso não encontrado.'
+            ];
+        }
+
+        // Envia email com o ingresso
+        $emailService = new Emails();
+        $email_enviado = $emailService->enviarIngresso(
+            decryptitem($email),
+            decryptitem($nome),
+            $dados_ingresso
+        );
+
+        return [
+            'status' => '01',
+            'nome' => decryptitem($nome),
+            'email' => decryptitem($email),
+            'celular' => decryptitem($celular),
+            'email_enviado' => $email_enviado ? true : false,
+            'msg' => $email_enviado ? "Ingresso nomeado e enviado por email com sucesso." : "Ingresso nomeado, mas houve falha no envio do email."
+        ];
+    }
+
+    /**
+     * Buscar dados completos do ingresso para email
+     */
+    public function getDadosIngressoCompleto($id_ingresso)
+    {
+        $sql = $this->mysqli->prepare("
+            SELECT 
+                cc.id,
+                cc.qrcode,
+                cc.valor,
+                cc.nome as nome_portador,
+                cc.email as email_portador,
+                cc.celular as celular_portador,
+                ait.nome as tipo_ingresso,
+                a.nome as nome_evento,
+                a.data_in as data_evento,
+                a.checkin as hora_evento
+            FROM app_carrinho_conteudo cc
+            INNER JOIN app_anuncios_ing_types ait ON cc.app_anuncios_ing_types_id = ait.id
+            INNER JOIN app_anuncios a ON ait.app_anuncios_id = a.id
+            WHERE cc.id = ?
+        ");
+        $sql->bind_param("i", $id_ingresso);
+        $sql->execute();
+        $result = $sql->get_result();
+
+        if ($row = $result->fetch_assoc()) {
+            // Formata a data do evento
+            $data_formatada = '';
+            if (!empty($row['data_evento'])) {
+                $data = new DateTime($row['data_evento']);
+                $data_formatada = $data->format('d/m/Y');
+                if (!empty($row['hora_evento'])) {
+                    $data_formatada .= ' às ' . substr($row['hora_evento'], 0, 5);
+                }
+            }
+
+            // Tenta decriptar o qrcode, se falhar usa o valor original
+            $qrcode_valor = '';
+            if (!empty($row['qrcode'])) {
+                $decrypted = @decryptitem($row['qrcode']);
+                $qrcode_valor = !empty($decrypted) ? $decrypted : $row['qrcode'];
+            }
+
+            return [
+                'id' => $row['id'],
+                'qrcode' => $qrcode_valor,
+                'valor' => floatval($row['valor']),
+                'tipo_ingresso' => $row['tipo_ingresso'],
+                'nome_evento' => $row['nome_evento'],
+                'local' => 'Consulte o evento para mais informações',
+                'data_evento' => $data_formatada ?: 'A definir'
+            ];
+        }
+
+        return null;
+    }
+
+    /**
+     * Reenviar ingresso por email
+     */
+    public function reenviarIngresso($id_ingresso)
+    {
+        // Busca dados do ingresso
+        $sql = $this->mysqli->prepare("SELECT nome, email FROM app_carrinho_conteudo WHERE id = ?");
+        $sql->bind_param("i", $id_ingresso);
+        $sql->execute();
+        $result = $sql->get_result();
+        $ingresso = $result->fetch_assoc();
+
+        if (!$ingresso || empty($ingresso['nome']) || empty($ingresso['email'])) {
+            return [
+                'status' => '02',
+                'msg' => 'Ingresso não nomeado. Nomeie o ingresso antes de reenviar.'
+            ];
+        }
+
+        $dados_ingresso = $this->getDadosIngressoCompleto($id_ingresso);
+
+        if (!$dados_ingresso) {
+            return [
+                'status' => '02',
+                'msg' => 'Ingresso não encontrado.'
+            ];
+        }
+
+        // Envia email
+        $emailService = new Emails();
+        $email_enviado = $emailService->enviarIngresso(
+            decryptitem($ingresso['email']),
+            decryptitem($ingresso['nome']),
+            $dados_ingresso
+        );
+
+        return [
+            'status' => $email_enviado ? '01' : '02',
+            'msg' => $email_enviado ? 'Ingresso reenviado com sucesso.' : 'Falha ao reenviar ingresso.'
+        ];
+    }
+
+    /**
+     * Listar ingressos de uma reserva/carrinho
+     */
+    public function listarIngressosReserva($id_carrinho)
+    {
+        $sql = $this->mysqli->prepare("
+            SELECT 
+                cc.id,
+                cc.qrcode,
+                cc.valor,
+                cc.nome,
+                cc.email,
+                cc.celular,
+                cc.lido,
+                ait.nome as tipo_ingresso,
+                a.nome as nome_evento
+            FROM app_carrinho_conteudo cc
+            INNER JOIN app_anuncios_ing_types ait ON cc.app_anuncios_ing_types_id = ait.id
+            INNER JOIN app_anuncios a ON ait.app_anuncios_id = a.id
+            WHERE cc.app_carrinho_id = ?
+        ");
+        $sql->bind_param("i", $id_carrinho);
+        $sql->execute();
+        $result = $sql->get_result();
+
+        $ingressos = [];
+        while ($row = $result->fetch_assoc()) {
+            $ingressos[] = [
+                'id' => $row['id'],
+                'tipo_ingresso' => $row['tipo_ingresso'],
+                'nome_evento' => $row['nome_evento'],
+                'valor' => number_format($row['valor'], 2, ',', '.'),
+                'nomeado' => !empty($row['nome']),
+                'nome_portador' => $row['nome'] ? decryptitem($row['nome']) : null,
+                'email_portador' => $row['email'] ? decryptitem($row['email']) : null,
+                'celular_portador' => $row['celular'] ? decryptitem($row['celular']) : null,
+                'validado' => $row['lido'] == 1,
+                'qrcode' => $row['qrcode'] ? decryptitem($row['qrcode']) : null
+            ];
+        }
+
+        return $ingressos;
+    }
+
     public function leitura($qrcode){
 
         $sql_cadastro = $this->mysqli->prepare("UPDATE `app_carrinho_conteudo` SET lido='1' WHERE qrcode='$qrcode'");

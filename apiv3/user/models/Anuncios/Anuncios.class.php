@@ -67,11 +67,16 @@ class Anuncios extends Conexao
         return $Param;
     }
 
-    public function adicionarTypeIng($id, $tipo, $nome, $valor, $qtd){
+    public function adicionarTypeIng($id, $tipo, $nome, $valor, $qtd, $cortesia = 0){
+
+        // Se for cortesia, valor é 0
+        if($cortesia == 1) {
+            $valor = 0;
+        }
 
         $sql = $this->mysqli->prepare(
-            "INSERT INTO `app_anuncios_ing_types`(`app_anuncios_id`, `tipo`, `nome`, `valor`,`qtd`)
-             VALUES ('$id', '$tipo', '$nome', '$valor', '$qtd')"
+            "INSERT INTO `app_anuncios_ing_types`(`app_anuncios_id`, `tipo`, `nome`, `valor`, `cortesia`, `qtd`)
+             VALUES ('$id', '$tipo', '$nome', '$valor', '$cortesia', '$qtd')"
         );
         $sql->execute();
         $id_cadastro = $sql->insert_id;
@@ -117,12 +122,17 @@ class Anuncios extends Conexao
         return $Param;
     }
 
-    public function adicionarTypePeriodos($id_type, $nome, $data_de, $data_ate, $valor, $taxa_limpeza, $qtd){
+    public function adicionarTypePeriodos($id_type, $nome, $data_de, $data_ate, $valor, $taxa_limpeza, $qtd, $cortesia = 0){
 
+        // Se for cortesia, valor e taxa são 0
+        if($cortesia == 1) {
+            $valor = 0;
+            $taxa_limpeza = 0;
+        }
 
         $sql =$this->mysqli->prepare(
-            "INSERT INTO `app_anuncios_valor`(`app_anuncios_types_id`, `nome`, `data_de`, `data_ate`, `valor`, `desc_min_diarias`, `taxa_limpeza`, `qtd`)
-             VALUES ('$id_type', '$nome', '$data_de', '$data_ate', '$valor', '0', '$taxa_limpeza', '$qtd')"
+            "INSERT INTO `app_anuncios_valor`(`app_anuncios_types_id`, `nome`, `data_de`, `data_ate`, `valor`, `cortesia`, `desc_min_diarias`, `taxa_limpeza`, `qtd`)
+             VALUES ('$id_type', '$nome', '$data_de', '$data_ate', '$valor', '$cortesia', '0', '$taxa_limpeza', '$qtd')"
         );
 
         $sql->execute();
@@ -300,11 +310,15 @@ class Anuncios extends Conexao
 
     }
 
-    public function updateTypeIng($id, $tipo, $nome, $valor, $qtd){
+    public function updateTypeIng($id, $tipo, $nome, $valor, $qtd, $cortesia = 0){
 
+      // Se for cortesia, valor é 0
+      if($cortesia == 1) {
+          $valor = 0;
+      }
 
       $sql = $this->mysqli->prepare("
-      UPDATE `app_anuncios_ing_types` SET tipo='$tipo', tipo='$tipo', nome='$nome', valor='$valor', qtd='$qtd'
+      UPDATE `app_anuncios_ing_types` SET tipo='$tipo', nome='$nome', valor='$valor', cortesia='$cortesia', qtd='$qtd'
       WHERE id='$id'"
       );
 
@@ -435,11 +449,16 @@ class Anuncios extends Conexao
 
     }
 
-    public function updatePeriodos($id, $nome, $data_de, $data_ate, $valor, $taxa_limpeza, $qtd){
+    public function updatePeriodos($id, $nome, $data_de, $data_ate, $valor, $taxa_limpeza, $qtd, $cortesia = 0){
 
+      // Se for cortesia, valor e taxa são 0
+      if($cortesia == 1) {
+          $valor = 0;
+          $taxa_limpeza = 0;
+      }
 
       $sql = $this->mysqli->prepare("
-      UPDATE `app_anuncios_valor` SET nome='$nome', data_de='$data_de', data_ate='$data_ate', valor='$valor', taxa_limpeza='$taxa_limpeza', qtd='$qtd'
+      UPDATE `app_anuncios_valor` SET nome='$nome', data_de='$data_de', data_ate='$data_ate', valor='$valor', cortesia='$cortesia', taxa_limpeza='$taxa_limpeza', qtd='$qtd'
       WHERE id='$id'"
       );
 
@@ -1589,7 +1608,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria, $nome_user
       );
@@ -1741,7 +1760,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado, $nome_user,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado, $nome_user,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -1839,7 +1858,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id_favorito, $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $checkin, $checkout, $data_in, $data_out, $data_cadastro, $status, $status_aprovado, $finalizado,
+        $id_favorito, $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria, $nome_user
       );
@@ -1923,7 +1942,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -1998,7 +2017,7 @@ class Anuncios extends Conexao
 
       $sql->execute();
       $sql->bind_result(
-        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
+        $id, $app_users_id, $id_categoria, $id_subcategoria, $nome, $descricao, $croqui, $data_cadastro, $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
         $id_location, $app_anuncios_id, $latitude, $longitude, $end, $rua, $bairro, $cidade, $estado, $numero, $complemento, $referencia,
         $nome_categoria, $nome_subcategoria
       );
@@ -2285,14 +2304,14 @@ class Anuncios extends Conexao
 
       $sql = $this->mysqli->prepare(
           "
-          SELECT id, tipo, nome, valor, qtd
+          SELECT id, tipo, nome, valor, cortesia, qtd
           FROM `app_anuncios_ing_types`
           WHERE app_anuncios_id='$id'
           "
       );
 
       $sql->execute();
-      $sql->bind_result($id_type, $tipo, $nome, $valor, $qtd);
+      $sql->bind_result($id_type, $tipo, $nome, $valor, $cortesia, $qtd);
       $sql->store_result();
       $rows = $sql->num_rows;
 
@@ -2314,6 +2333,8 @@ class Anuncios extends Conexao
               $Param['tipo'] = tipoIngressos($tipo);
               $Param['nome'] = $nome;
               $Param['valor'] = moneyView($valor);
+              $Param['cortesia'] = intval($cortesia);
+              $Param['gratuito'] = $cortesia == 1 ? true : false;
               $Param['qtd_total'] = $qtd;
               $Param['qtd_comprados'] = $qtd_comprados;
               $Param['qtd_disponivel'] = $qtd_disponivel;
@@ -2339,7 +2360,7 @@ class Anuncios extends Conexao
 
       $sql = $this->mysqli->prepare(
           "
-          SELECT a.id, a.nome, a.descricao, a.status, b.adultos, b.criancas, b.quartos, b.banheiros, b.pets, c.valor, c.desc_min_diarias, c.taxa_limpeza, c.qtd
+          SELECT a.id, a.nome, a.descricao, a.status, b.adultos, b.criancas, b.quartos, b.banheiros, b.pets, c.valor, c.cortesia, c.desc_min_diarias, c.taxa_limpeza, c.qtd
           FROM `app_anuncios_types` as a
           INNER JOIN `app_anuncios_info` as b ON a.id = b.app_anuncios_types_id
           INNER JOIN `app_anuncios_valor` as c ON a.id = c.app_anuncios_types_id
@@ -2351,7 +2372,7 @@ class Anuncios extends Conexao
       //echo $sql;exit;
 
       $sql->execute();
-      $sql->bind_result($id_type, $nome, $descricao, $status, $adultos, $criancas, $quartos, $banheiros, $pets, $valor, $desc_min_diarias, $taxa_limpeza, $qtd);
+      $sql->bind_result($id_type, $nome, $descricao, $status, $adultos, $criancas, $quartos, $banheiros, $pets, $valor, $cortesia, $desc_min_diarias, $taxa_limpeza, $qtd);
       $sql->store_result();
       $rows = $sql->num_rows;
 
@@ -2380,6 +2401,8 @@ class Anuncios extends Conexao
               $Param['pets'] = $pets;
               $Param['valor_diaria'] = moneyView($valor);
               $Param['valor_total'] = moneyView($valor_total);
+              $Param['cortesia'] = intval($cortesia);
+              $Param['gratuito'] = $cortesia == 1 ? true : false;
               $Param['taxa_limpeza'] = moneyView($taxa_limpeza);
               $Param['qtd_disponiveis'] = $qtd;
               $Param['imagens'] = $this->listTypeimagens($id_type);
@@ -2556,14 +2579,14 @@ class Anuncios extends Conexao
 
       $sql = $this->mysqli->prepare(
           "
-          SELECT *
+          SELECT id, app_anuncios_types_id, nome, data_de, data_ate, valor, cortesia, desc_min_diarias, taxa_limpeza, qtd
           FROM `app_anuncios_valor`
           WHERE app_anuncios_types_id='$id'
           "
       );
 
       $sql->execute();
-      $sql->bind_result($id, $id_type, $nome, $data_de, $data_ate, $valor, $desc_min_diarias, $taxa_limpeza, $qtd);
+      $sql->bind_result($id, $id_type, $nome, $data_de, $data_ate, $valor, $cortesia, $desc_min_diarias, $taxa_limpeza, $qtd);
       $sql->store_result();
       $rows = $sql->num_rows;
 
@@ -2580,6 +2603,8 @@ class Anuncios extends Conexao
               $Param['data_de'] = data($data_de);
               $Param['data_ate'] = data($data_ate);
               $Param['valor'] = moneyView($valor);
+              $Param['cortesia'] = intval($cortesia);
+              $Param['gratuito'] = $cortesia == 1 ? true : false;
               $Param['taxa_limpeza'] = moneyView($taxa_limpeza);
               $Param['qtd'] = $qtd;
 
@@ -6948,8 +6973,8 @@ class Anuncios extends Conexao
     {
         $sql = $this->mysqli->prepare(
             "
-            SELECT a.id, a.app_users_id, a.nome, a.descricao, a.checkin, a.checkout, 
-                   a.data_in, a.data_out, a.status, a.status_aprovado, a.finalizado,
+            SELECT a.id, a.app_users_id, a.app_categorias_id, a.nome, a.descricao, a.croqui, 
+                   a.checkin, a.checkout, a.data_in, a.data_out, a.status, a.status_aprovado, a.finalizado,
                    b.latitude, b.longitude, b.end, b.cidade, b.estado
             FROM `app_anuncios` as a
             LEFT JOIN `app_anuncios_location` as b ON a.id = b.app_anuncios_id
@@ -6960,8 +6985,8 @@ class Anuncios extends Conexao
         $sql->bind_param('i', $id_anuncio);
         $sql->execute();
         $sql->bind_result(
-            $id, $app_users_id, $nome, $descricao, $checkin, $checkout,
-            $data_in, $data_out, $status, $status_aprovado, $finalizado,
+            $id, $app_users_id, $app_categorias_id, $nome, $descricao, $croqui,
+            $checkin, $checkout, $data_in, $data_out, $status, $status_aprovado, $finalizado,
             $latitude, $longitude, $end, $cidade, $estado
         );
         $sql->store_result();
@@ -6975,8 +7000,10 @@ class Anuncios extends Conexao
         return [
             'id' => $id,
             'app_users_id' => $app_users_id,
+            'app_categorias_id' => $app_categorias_id,
             'nome' => $nome,
             'descricao' => $descricao,
+            'croqui' => $croqui,
             'checkin' => $checkin,
             'checkout' => $checkout,
             'data_in' => $data_in,
@@ -7800,5 +7827,163 @@ class Anuncios extends Conexao
         }
         
         return $links;
+    }
+
+    // ==================== CROQUI DE EVENTO ====================
+
+    /**
+     * Atualiza o croqui de um anúncio
+     * @param int $id_anuncio ID do anúncio
+     * @param string|null $croqui Nome do arquivo do croqui ou null para remover
+     * @return array Status da operação
+     */
+    public function atualizarCroqui($id_anuncio, $croqui)
+    {
+        $stmt = $this->mysqli->prepare(
+            "UPDATE `app_anuncios` SET croqui = ? WHERE id = ?"
+        );
+        $stmt->bind_param("si", $croqui, $id_anuncio);
+        
+        if ($stmt->execute()) {
+            return ['status' => '01', 'msg' => 'Croqui atualizado com sucesso'];
+        } else {
+            return ['status' => '00', 'msg' => 'Erro ao atualizar croqui'];
+        }
+    }
+
+    /**
+     * Obtém informações básicas do anúncio incluindo croqui
+     * @param int $id_anuncio ID do anúncio
+     * @return array|null Dados do anúncio ou null se não encontrado
+     */
+    public function getAnuncioComCroqui($id_anuncio)
+    {
+        $stmt = $this->mysqli->prepare(
+            "SELECT id, app_users_id, app_categorias_id, nome, descricao, croqui, status 
+             FROM `app_anuncios` 
+             WHERE id = ?"
+        );
+        $stmt->bind_param("i", $id_anuncio);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        
+        if ($result->num_rows > 0) {
+            return $result->fetch_assoc();
+        }
+        
+        return null;
+    }
+
+    /**
+     * Busca lista de compradores de ingressos/experiências de um anúncio
+     * Para exportação CSV e controle de acesso na portaria
+     * @param int $id_anuncio ID do anúncio
+     * @param int $id_user ID do dono do anúncio (para validação de segurança)
+     * @return array Lista de compradores com dados descriptografados
+     */
+    public function getCompradoresAnuncio($id_anuncio, $id_user)
+    {
+        // Primeiro verifica se o usuário é dono do anúncio
+        $check = $this->mysqli->prepare(
+            "SELECT id, nome, app_categorias_id FROM `app_anuncios` WHERE id = ? AND app_users_id = ?"
+        );
+        $check->bind_param("ii", $id_anuncio, $id_user);
+        $check->execute();
+        $check_result = $check->get_result();
+        
+        if ($check_result->num_rows == 0) {
+            return ['status' => '00', 'msg' => 'Anúncio não encontrado ou você não tem permissão para acessar'];
+        }
+        
+        $anuncio_data = $check_result->fetch_assoc();
+        
+        // Busca todos os compradores através das reservas e carrinho
+        $sql = $this->mysqli->prepare(
+            "SELECT 
+                r.id as reserva_id,
+                r.data_cadastro as data_compra,
+                r.status as status_reserva,
+                r.data_de,
+                r.data_ate,
+                p.status as status_pagamento,
+                p.tipo_pagamento,
+                p.valor,
+                cc.id as ingresso_id,
+                cc.nome as comprador_nome,
+                cc.email as comprador_email,
+                cc.celular as comprador_celular,
+                cc.qrcode,
+                cc.lido as checkin_realizado,
+                it.nome as tipo_ingresso,
+                it.valor as valor_ingresso
+            FROM `app_reservas` r
+            INNER JOIN `app_pagamentos` p ON r.app_pagamentos_id = p.id
+            INNER JOIN `app_carrinho` c ON r.id_carrinho = c.id
+            INNER JOIN `app_carrinho_conteudo` cc ON c.id = cc.app_carrinho_id
+            LEFT JOIN `app_anuncios_ing_types` it ON cc.app_anuncios_ing_types_id = it.id
+            WHERE r.app_anuncios_id = ? 
+            AND r.status IN (1, 2)
+            ORDER BY r.data_cadastro DESC, cc.id ASC"
+        );
+        
+        $sql->bind_param("i", $id_anuncio);
+        $sql->execute();
+        $result = $sql->get_result();
+        
+        $compradores = [];
+        
+        while ($row = $result->fetch_assoc()) {
+            // Descriptografar dados pessoais
+            $nome = !empty($row['comprador_nome']) ? decryptitem($row['comprador_nome']) : '';
+            $email = !empty($row['comprador_email']) ? decryptitem($row['comprador_email']) : '';
+            $celular = !empty($row['comprador_celular']) ? decryptitem($row['comprador_celular']) : '';
+            
+            // Status traduzido
+            $status_reserva_texto = '';
+            switch ($row['status_reserva']) {
+                case 1: $status_reserva_texto = 'Confirmada'; break;
+                case 2: $status_reserva_texto = 'Pendente'; break;
+                case 3: $status_reserva_texto = 'Cancelada'; break;
+                default: $status_reserva_texto = 'Desconhecido';
+            }
+            
+            // Tipo de pagamento traduzido
+            $tipo_pagamento_texto = '';
+            switch ($row['tipo_pagamento']) {
+                case 1: $tipo_pagamento_texto = 'Cartão'; break;
+                case 2: $tipo_pagamento_texto = 'Dinheiro'; break;
+                case 3: $tipo_pagamento_texto = 'PIX'; break;
+                case 4: $tipo_pagamento_texto = 'Cortesia'; break;
+                default: $tipo_pagamento_texto = 'Outro';
+            }
+            
+            $compradores[] = [
+                'reserva_id' => $row['reserva_id'],
+                'ingresso_id' => $row['ingresso_id'],
+                'nome' => $nome,
+                'email' => $email,
+                'celular' => $celular,
+                'tipo_ingresso' => $row['tipo_ingresso'] ?? 'N/A',
+                'valor_ingresso' => $row['valor_ingresso'] ?? $row['valor'],
+                'data_compra' => $row['data_compra'],
+                'data_evento_de' => $row['data_de'],
+                'data_evento_ate' => $row['data_ate'],
+                'status_reserva' => $row['status_reserva'],
+                'status_reserva_texto' => $status_reserva_texto,
+                'status_pagamento' => $row['status_pagamento'],
+                'tipo_pagamento' => $tipo_pagamento_texto,
+                'qrcode' => $row['qrcode'] ?? '',
+                'checkin_realizado' => $row['checkin_realizado'] == 1 ? 'Sim' : 'Não'
+            ];
+        }
+        
+        return [
+            'status' => '01',
+            'anuncio_id' => $id_anuncio,
+            'anuncio_nome' => $anuncio_data['nome'],
+            'categoria_id' => $anuncio_data['app_categorias_id'],
+            'total_compradores' => count($compradores),
+            'compradores' => $compradores
+        ];
     }
 }

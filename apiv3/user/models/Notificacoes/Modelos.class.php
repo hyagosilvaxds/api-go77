@@ -13,6 +13,10 @@ class Modelos
         $Param = ["titulo" => "Nova Reserva",  "descricao" => "Você recebeu uma nova reserva no imóvel: " . $param];
       break;
 
+      case 'reserva-cortesia-anfitriao':
+        $Param = ["titulo" => "Nova Reserva Cortesia",  "descricao" => "Você recebeu uma nova reserva cortesia (gratuita) no anúncio: " . $param];
+      break;
+
       case 'reserva-cancelada-hospede':
         $Param = ["titulo" => "Reserva Cancelada",  "descricao" => "A reserva no imóvel: " . $param . " acabou de ser cancelada."];
       break;
