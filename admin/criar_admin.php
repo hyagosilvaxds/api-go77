@@ -5,10 +5,19 @@
  * REMOVA ESTE ARQUIVO APÓS USAR!
  */
 
+// Detectar ambiente
+$hostName = $_SERVER['HTTP_HOST'] ?? $_SERVER['SERVER_NAME'] ?? 'localhost';
+$isProduction = (strpos($hostName, 'go77destinos.online') !== false);
+
 // Configurações do banco
 $host = 'localhost';
-$user = 'root';
-$pass = 'root';
+if ($isProduction) {
+    $user = 'go77app';
+    $pass = 'Go77@2024Secure!';
+} else {
+    $user = 'root';
+    $pass = 'root';
+}
 $db = 'go77app';
 
 // Chave de criptografia (mesma do sistema)

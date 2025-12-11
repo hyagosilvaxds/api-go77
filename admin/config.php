@@ -5,9 +5,13 @@ ini_set('display_errors', 0);
 //ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$dominiowww = $_SERVER['SERVER_NAME'];
-$dominio = str_replace('www.', '', $_SERVER['HTTP_HOST']);
-$porta = $_SERVER['SERVER_PORT'] != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
+// Detectar ambiente
+$host = $_SERVER['HTTP_HOST'] ?? $_SERVER['SERVER_NAME'] ?? 'localhost';
+$isProduction = (strpos($host, 'go77destinos.online') !== false);
+
+$dominiowww = $_SERVER['SERVER_NAME'] ?? 'localhost';
+$dominio = str_replace('www.', '', $host);
+$porta = ($_SERVER['SERVER_PORT'] ?? '80') != '80' ? ':' . $_SERVER['SERVER_PORT'] : '';
 
 // Title Raiz
 define('TITLE', "ADMIN");
@@ -16,9 +20,14 @@ define('TITLE', "ADMIN");
 define('RAIZ', dirname(__FILE__));
 define('PASTA_RAIZ', '/iusui1872a5a78512rew');
 
-// URL da home
-define('HOME_URI', 'http://' . $dominiowww . $porta . '/www/admin');
-define('HOME_URI_ROOT', 'http://' . $dominiowww . $porta . '/www');
+// URL da home - Detectar ambiente
+if ($isProduction) {
+    define('HOME_URI', 'https://go77destinos.online/admin');
+    define('HOME_URI_ROOT', 'https://go77destinos.online');
+} else {
+    define('HOME_URI', 'http://' . $dominiowww . $porta . '/www/admin');
+    define('HOME_URI_ROOT', 'http://' . $dominiowww . $porta . '/www');
+}
 // var_dump(HOME_URI);
 // define('HOME_URI', 'http://localhost' . '/skipt/user');
 
@@ -82,11 +91,18 @@ define('PAINEL_EQUIPES', HOME_URI . '/admin/views/_equipes');
 // URL de páginas DO PAINEL
 define('PAINEL_PAGINAS', HOME_URI . '/admin/views/_paginas/redimensionadas');
 
-//CONEXAO BD
-define('MYSQL', 'localhost');
-define('USER', 'root');
-define('PASS', 'root');
-define('BD', 'go77app');
+//CONEXAO BD - Detectar ambiente
+if ($isProduction) {
+    define('MYSQL', 'localhost');
+    define('USER', 'go77app');
+    define('PASS', 'Go77@2024Secure!');
+    define('BD', 'go77app');
+} else {
+    define('MYSQL', 'localhost');
+    define('USER', 'root');
+    define('PASS', 'root');
+    define('BD', 'go77app');
+}
 
 define('VIEWS', 'views');
 define('MODELS', 'models');
